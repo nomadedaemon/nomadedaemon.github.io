@@ -13,6 +13,7 @@ categories: Bio
   
 ### Bücher und Editionen  
   
+*Carneval*, Künstlerbuch mit Frédérique Loutz & Marta Rueda, 2014  
 *Coup(o)les* [^1],[^2] Les éditions du Chemin de fer, Französisch - Deutsch, 2013  
 *Cartes postales* (Postkarten), mit Frédérique Loutz, MAGP / Maisons Daura, Région Midi-Pyrénées 2012  
 *Ptolomäische Felder*, Tabor Presse, Lyrikband, Berlin 2011  
@@ -24,6 +25,7 @@ categories: Bio
   
 ### CD's und Vertonungen  
   
+*Absurde Nacht*, CD, L’inlassable Disque, Paris 2015  
 *UNS*, CD, L'inlassable Disque, Paris 2011  
 *nomade daemon*, CD, L'inlassable Disque, Paris 2011  
   
@@ -34,15 +36,16 @@ Spencer Collection New York
 ### Veröffentlichungen in Zeitschriften & Anthologien (Auswahl)  
   
 *Frankreich*: Cahiers du refuge, Hippocampe, Artpress, Paris-Berlin Magazine, Social traître  
-*Deutschland*: Silbende Kunst, Kritische Ausgabe, randnummer, Dulzinea, lauter niemand, außer.dem, Asphaltspuren, Grenzerfahrungen, Grafik Kalender 2011 – Tabor Presse Berlin  
+*Deutschland*: Der Maulkorb, kalmenzone, Silbende Kunst, Kritische Ausgabe, randnummer, Dulzinea, lauter niemand, außer.dem, Asphaltspuren, Grenzerfahrungen - Anthologie    
 *Italien*: Il Manifesto, Il Majakovskij, La Parete  
-*Österreich*: Wortwerk, etcetera, Dum, Wartholz III  – Anthologie – Residenz Verlag  
+*Österreich*: Wortwerk, etcetera, Dum, Podium, Wartholz III – Anthologie – Residenz Verlag    
 *Belgien*: L&apos;amour aux temps de l&apos;UE – Anthologie de poésie bruxelloise  
     
 *Editor, Mitbegründer & Redakteur der Berliner Zeitschrift für Lyrik und Prosa „lauter niemand“* (1998-2008)  
   
 ### Performances/Lesungen (Auswahl)  
   
+2014 *Traces of history, fragments of fraud*, mit Frédérique Loutz, Printemps des poètes, BAD, Marseille
 2013 *Ut pictura poesis*, CIPM, Marseille  
 2013 *Coup(o)les*, Château de Chambord, Château de Chambord  
 2012 *Lecture idiomatique*, Galerie Claudine Papillon, Paris  
@@ -65,6 +68,11 @@ Spencer Collection New York
   
 ### Gruppenausstellungen  
   
+2014 *Sobretodo Sobre Todo*, AtelieRnaTional, Marseille  
+2014 *Der Maulkorb* 14, Hole of Fame, Dresden  
+2014 *MICRO SALON#4*, l’Inlassable Galerie, Paris  
+2014 *Arracher le monde des mains de la nature*, AtelieRnaTional, Marseille  
+2014 *La Cabane*, L’Asile 404, Marseille  
 2013 *Supervues*, Castilloutz, Vaison la Romaine  
 2013 *MICRO SALON#3*, Castilloutz, l’Inlassable Galerie, Paris  
 2012 *UNS*, Castilloutz, L’Inlassable Galerie, Paris  

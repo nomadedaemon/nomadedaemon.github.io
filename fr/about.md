@@ -6,11 +6,11 @@ handle: /about
 nav-order: 4
 ---
 
-### Ernesto Castillo
-*1970 Leipzig DE, lebt und arbeitet in Frankreich  
+### Ernesto Castillo  
+Né en 1970 à Leipzig, Allemagne, vit et travaille en France  
   
   
-### Bücher und Editionen  
+### Livres et Éditions  
   
 *Coup(o)les* [^1],[^2] Les éditions du Chemin de fer, Französisch - Deutsch, 2013  
 *Cartes postales* (Postkarten), mit Frédérique Loutz, MAGP / Maisons Daura, Région Midi-Pyrénées 2012  
@@ -21,8 +21,9 @@ nav-order: 4
 *Lust ich* [^6] cahier de dessins, Publikation „les amis de Jau“ & association rendez-vous, 2010  
 *Fedre et le vilain petit icare*, Künstlerbuch mit Frédérique Loutz, Michael Woolworth Publications, Paris 2009  
   
-### CD's und Vertonungen  
+### CD
   
+*Absurde Nacht*, CD, L’inlassable Disque, Paris 2015  
 *UNS*, CD, L'inlassable Disque, Paris 2011  
 *nomade daemon*, CD, L'inlassable Disque, Paris 2011  
   
@@ -30,7 +31,7 @@ nav-order: 4
 Centre Georges Pompidou, Bibliothèque nationale de France,
 Spencer Collection New York  
   
-### Veröffentlichungen in Zeitschriften & Anthologien (Auswahl)  
+### Parutions dans des revues et anthologies (selection)   
   
 *Frankreich*: Cahiers du refuge, Hippocampe, Artpress, Paris-Berlin Magazine, Social traître  
 *Deutschland*: Silbende Kunst, Kritische Ausgabe, randnummer, Dulzinea, lauter niemand, außer.dem, Asphaltspuren, Grenzerfahrungen, Grafik Kalender 2011 – Tabor Presse Berlin  
@@ -40,8 +41,9 @@ Spencer Collection New York
     
 *Editor, Mitbegründer & Redakteur der Berliner Zeitschrift für Lyrik und Prosa „lauter niemand“* (1998-2008)  
   
-### Performances/Lesungen (Auswahl)  
+### Performances / Lectures    
   
+2014 *Traces of history, fragments of fraud*, mit Frédérique Loutz, Printemps des poètes, BAD, Marseille
 2013 *Ut pictura poesis*, CIPM, Marseille  
 2013 *Coup(o)les*, Château de Chambord, Château de Chambord  
 2012 *Lecture idiomatique*, Galerie Claudine Papillon, Paris  
@@ -58,28 +60,33 @@ Spencer Collection New York
 2009 *Fedre et le vilain petit icare*, Galerie Jordan-Seydoux, Berlin, Deutschland  
 2009 *Fedre et le vilain petit icare*, Grand Palais, Paris, Frankreich  
   
-### Theater  
+### Théâtre    
   
 2008 *Les mots qui bougent*, Regie und Texte, Uraufführung im Rahmen des Festivals ”Printemps des Poètes“, Theatre Studio Le regard du cygne, Paris, Frankreich  
   
-### Gruppenausstellungen  
+### Expositions collectives  
   
+2014 *Sobretodo Sobre Todo*, AtelieRnaTional, Marseille  
+2014 *Der Maulkorb* 14, Hole of Fame, Dresden  
+2014 *MICRO SALON#4*, l’Inlassable Galerie, Paris  
+2014 *Arracher le monde des mains de la nature*, AtelieRnaTional, Marseille  
+2014 *La Cabane*, L’Asile 404, Marseille  
 2013 *Supervues*, Castilloutz, Vaison la Romaine  
 2013 *MICRO SALON#3*, Castilloutz, l’Inlassable Galerie, Paris  
 2012 *UNS*, Castilloutz, L’Inlassable Galerie, Paris  
-*Parcours d‘art en vallée du Lot*, Calvignac et St-Cirq-Lapopie  
-*Lever une Carte*, Maison des Arts Georges Pompidou, Cajarc  
-*MICRO SALON#2*, Castilloutz, l’Inlassable Galerie, Paris  
+2012 *Parcours d‘art en vallée du Lot*, Calvignac et St-Cirq-Lapopie  
+2012 *Lever une Carte*, Maison des Arts Georges Pompidou, Cajarc  
+2012 *MICRO SALON#2*, Castilloutz, l’Inlassable Galerie, Paris  
 2011 *Help! for future of Japan*, Galerie Premier Regard, Paris  
  
-### Auszeichnungen/Residenzen (Auswahl)  
+### Prix et Résidences (sélection)   
   
 *Residenz Château de Chambord* (Château de Chambord 2013)  
 *Residenz Maisons Daura*, La Maison des Arts Georges Pompidou (Saint-Cirq-Lapopie 2012)  
 *Finalist beim Literaturwettbewerb Wartholz* (Reichenau an der Rax 2010)  
 
   
-### Presse/Radio  
+### Presse et Radio  
   
 *Frédérique Loutz et Ernesto Castillo (alias Castilloutz)* , Philippe Ducat, art press N° 406, Décembre 2013  
 *En vadrouille le long du Lot, sur les traces d’un géologue nommé André Breton*, Philippe Dagen, LE MONDE, 2012  
@@ -88,7 +95,7 @@ Spencer Collection New York
 *Castillos Gedichte: loveiathan*, André Jahn, Die Berliner Literaturkritik, 2010;  
 Artikel von Brooks Adams in "ART IN AMERICA" zu *Fedre et le vilain petit Icare*, 2010  
   
-### Öffentliche Sammlungen  
+### Collections publiques  
   
 Spencer Collection New York, Centre Georges Pompidou, Bnf (Bibliotheque nationale de France) u.a.  
   
