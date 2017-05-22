@@ -1,6 +1,6 @@
 ---
 layout: default
-title: au sujet
+title: au&nbsp;sujet
 language: fr
 handle: /about
 nav-order: 4
