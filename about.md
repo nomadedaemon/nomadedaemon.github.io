@@ -13,13 +13,13 @@ categories: Bio
   
 ### Bücher und Editionen  
   
-*Coup(o)les* [^1], Les éditions du Chemin de fer, Französisch - Deutsch, 2013  
+*Coup(o)les* [^1],[^2] Les éditions du Chemin de fer, Französisch - Deutsch, 2013  
 *Cartes postales* (Postkarten), mit Frédérique Loutz, MAGP / Maisons Daura, Région Midi-Pyrénées 2012  
 *Ptolomäische Felder*, Tabor Presse, Lyrikband, Berlin 2011  
-*Anders* [^2], [^3], [^4], Künstlerbuch mit Frédérique Loutz, Michael Woolworth Publications, Paris 2011  
+*Anders* [^3], [^4], [^5] Künstlerbuch mit Frédérique Loutz, Michael Woolworth Publications, Paris 2011  
 *loveiathan*, VOIXéditions, Lyrikband, ISBN 2-914640-98-6, Elne 2010  
 *Jacomo in the box*, Matchboox Edition mit Frédérique Loutz, VOIXéditions, Elne, 2010  
-*Lust ich* [^5], cahier de dessins, Publikation „les amis de Jau“ & association rendez-vous, 2010  
+*Lust ich* [^6] cahier de dessins, Publikation „les amis de Jau“ & association rendez-vous, 2010  
 *Fedre et le vilain petit icare*, Künstlerbuch mit Frédérique Loutz, Michael Woolworth Publications, Paris 2009  
   
 ### CD's und Vertonungen  
@@ -99,10 +99,12 @@ London, New-York, Paris, Zürich, Athen, Frankfurt
 
 [^1]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/ark:/12148/cb43675631h.public "BnF"){:target="_blank"} FRBNF42426478  
 
-[^2]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/ark:/12148/cb42426478b.public "BnF"){:target="_blank"} FRBNF42426478 
+[^2]: [KATALOG DER DEUTSCHEN NATIONALBIBLIOTHEK (DNB)](http://d-nb.info/1046151959 "DNB"){:target="_blank"} FRBNF42426478  
 
-[^3]: [Bibliothèque Kandinsky](http://www.centrepompidou.fr/cpv/ressource.action?param.id=id&param.idSource=FR_DO-26cfc53179d930bd98328ad5ec2f71b  "Bibliothèque Kandinsky"){:target="_blank"}, Centre Pompidou RLPF 9873  
+[^3]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/ark:/12148/cb42426478b.public "BnF"){:target="_blank"} 1046151959 
 
-[^4]: Spencer Collection, New York  
+[^4]: [Bibliothèque Kandinsky](http://www.centrepompidou.fr/cpv/ressource.action?param.id=id&param.idSource=FR_DO-26cfc53179d930bd98328ad5ec2f71b  "Bibliothèque Kandinsky"){:target="_blank"}, Centre Pompidou RLPF 9873  
 
-[^5]: Bibliothèque Kandinsky, Centre Pompidou RLPF 7672
+[^5]: Spencer Collection, New York  
+
+[^6]: Bibliothèque Kandinsky, Centre Pompidou RLPF 7672
