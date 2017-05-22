@@ -9,4 +9,4 @@ nav-order: 1
 
 ![ernesto castillo logo]({{ "/images/ernesto-castillo-logo.png" }}){:class="img-responsive"}
 
-Willkommen.
+<center>Willkommen</center>
