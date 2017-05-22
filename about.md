@@ -97,11 +97,11 @@ Spencer Collection New York, Centre Georges Pompidou, Bnf (Bibliotheque national
   
 London, New-York, Paris, Zürich, Athen, Frankfurt  
 
-[^1]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/ark:/12148/cb42426478b.public "BnF"){:target="_blank"} FRBNF42426478  
+[^1]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/ark:/12148/cb43675631h.public "BnF"){:target="_blank"} FRBNF42426478  
 
-[^2]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/servlet/RechercheEquation?TexteCollection=HGARSTUVWXYZ1DIECBMJNQLOKP&TexteTypeDoc=DESNFPIBTMCJOV&Equation=IDP%3Dcb16528351x&FormatAffichage=0&host=catalogue "BnF") FRBNF16528351  
+[^2]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/ark:/12148/cb42426478b.public "BnF"){:target="_blank"} FRBNF42426478 
 
-[^3]: [Bibliothèque Kandinsky](http://www.centrepompidou.fr/cpv/ressource.action?param.id=id&param.idSource=FR_DO-26cfc53179d930bd98328ad5ec2f71b  "Bibliothèque Kandinsky"), Centre Pompidou RLPF 9873  
+[^3]: [Bibliothèque Kandinsky](http://www.centrepompidou.fr/cpv/ressource.action?param.id=id&param.idSource=FR_DO-26cfc53179d930bd98328ad5ec2f71b  "Bibliothèque Kandinsky"){:target="_blank"}, Centre Pompidou RLPF 9873  
 
 [^4]: Spencer Collection, New York  
 
