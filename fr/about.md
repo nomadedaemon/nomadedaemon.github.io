@@ -27,10 +27,6 @@ Né en 1970 à Leipzig, Allemagne, vit et travaille en France
 *UNS*, CD, L'inlassable Disque, Paris 2011  
 *nomade daemon*, CD, L'inlassable Disque, Paris 2011  
   
-### Öffentliche Sammlungen
-Centre Georges Pompidou, Bibliothèque nationale de France,
-Spencer Collection New York  
-  
 ### Parutions dans des revues et anthologies (selection)   
   
 *Frankreich*: Cahiers du refuge, Hippocampe, Artpress, Paris-Berlin Magazine, Social traître  
@@ -99,9 +95,6 @@ Artikel von Brooks Adams in "ART IN AMERICA" zu *Fedre et le vilain petit Icare*
   
 Spencer Collection New York, Centre Georges Pompidou, Bnf (Bibliotheque nationale de France) u.a.  
   
-### Präsentationen auf Messen, Galerien etc.  
-  
-London, New-York, Paris, Zürich, Athen, Frankfurt  
 
 [^1]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/ark:/12148/cb43675631h.public "BnF"){:target="_blank"} FRBNF42426478  
 
