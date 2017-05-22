@@ -27,11 +27,7 @@ categories: Bio
   
 *Absurde Nacht*, CD, L’inlassable Disque, Paris 2015  
 *UNS*, CD, L'inlassable Disque, Paris 2011  
-*nomade daemon*, CD, L'inlassable Disque, Paris 2011  
-  
-### Öffentliche Sammlungen
-Centre Georges Pompidou, Bibliothèque nationale de France,
-Spencer Collection New York  
+*nomade daemon*, CD, L'inlassable Disque, Paris 2011   
   
 ### Veröffentlichungen in Zeitschriften & Anthologien (Auswahl)  
   
