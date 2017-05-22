@@ -97,7 +97,7 @@ Spencer Collection New York, Centre Georges Pompidou, Bnf (Bibliotheque national
   
 London, New-York, Paris, Zürich, Athen, Frankfurt  
 
-[^1]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/servlet/RechercheEquation?TexteCollection=HGARSTUVWXYZ1DIECBMJNQLOKP&TexteTypeDoc=DESNFPIBTMCJOV&Equation=IDP%3Dcb43675631h&FormatAffichage=0&host=catalogue "BnF") FRBNF43675631  
+[^1]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/ark:/12148/cb42426478b.public "BnF"){:target="_blank"} FRBNF42426478  
 
 [^2]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/servlet/RechercheEquation?TexteCollection=HGARSTUVWXYZ1DIECBMJNQLOKP&TexteTypeDoc=DESNFPIBTMCJOV&Equation=IDP%3Dcb16528351x&FormatAffichage=0&host=catalogue "BnF") FRBNF16528351  
 
