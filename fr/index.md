@@ -7,6 +7,8 @@ nav-order: 1
 #tweet-this: Twittern
 ---
 
+![ernesto castillo logo]({{ "/images/ernesto-castillo-logo.png" }}){:class="img-responsive"}
+
 Bienvenue
 
 
