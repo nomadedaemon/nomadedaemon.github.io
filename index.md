@@ -3,8 +3,8 @@ layout: default
 title: start
 language: de
 nav-order: 1
-see-on-github: Auf github sehen
-tweet-this: Tweet this
+#see-on-github: Auf github sehen
+#tweet-this: Tweet this
 ---
 
-Go ahead and try it. Have you ever seen a website switch language that fast? Yeah, me neither.
+Willkommen.
