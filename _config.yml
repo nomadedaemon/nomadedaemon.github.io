@@ -9,5 +9,5 @@ footer:
   fr: Contenu du [Ernesto Castillo](https://www.nomade-daemon.com)
 exclude: [README.md]
 permalink: pretty
-repository: nomadedaemon/nomadedaemon.github.io
+repository: https://github.com/nomadedaemon/nomadedaemon.github.io
 baseurl: https://nomadedaemon.github.io
