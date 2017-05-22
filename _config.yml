@@ -10,4 +10,4 @@ footer:
 exclude: [README.md]
 permalink: pretty
 repository: mrzool/polyglot-jekyll
-baseurl: http://ernesto-castillo.pancakeapps.com
+baseurl: https://nomadedaemon.github.io
