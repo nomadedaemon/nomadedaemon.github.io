@@ -3,8 +3,8 @@ layout: default
 title: start
 language: de
 nav-order: 1
-#see-on-github: See on GitHub
-#tweet-this: Tweet this
+see-on-github: Auf Github sehen
+tweet-this: Twittere diese Seite
 ---
 ### CD ABSURDE NACHT 2015  bla
   
