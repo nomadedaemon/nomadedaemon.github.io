@@ -7,4 +7,24 @@ nav-order: 4
 ---
 ## Voix actée  
   
-Travaux en cours. 
+<a href="/fr/perfutpicturapoesis" title="Lire plus"><img src="/images/ut-pictura-poesis-expo2.jpg" alt="Ut pictura poesis" class="img-left"></a>
+#### Ut pictura poesis 2014  
+  
+Lecture & performance  
+dans le cadre de la exposition "Ut pictura poesis"  
+au Centre international de poésie Marseille  
+du 27 septembre au 17 janvier 2014 
+[Lire plus](/fr/perfutpicturapoesis "Ut pictura poesis 2014") 
+<br style="clear:both" />
+<br style="clear:both" />
+
+<a href="/fr/perfcoupoles" title="Lire plus"><img src="/images/coupoles-performance-chambord0.jpg" alt="Coupoles Chambod" class="img-left"></a>
+#### Coup(o)les 2013 
+  
+Lecture & performance  
+COUP(O)LES – Performance sonore du Castilloutz  
+au Château de Chambord le 28 septembre 2013  
+[Lire plus](/fr/perfcoupoles "Coupoles Chambord") 
+<br style="clear:both" />
+<br style="clear:both" />
+
