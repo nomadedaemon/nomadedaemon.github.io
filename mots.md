@@ -92,4 +92,13 @@ Tabor Presse Berlin, Deutschland
 [Weiterlesen](/grafikkalender "Grafikkalender 2011")  
 <br style="clear:both" />
 <br style="clear:both" />
-
+<a href="/fedre" title="Weiterlesen"><img src="/images/fedre-cover.jpg" alt="Fedre et le vilain petit Icare 2009" class="img-left"></a>
+#### Fedre et le vilain petit Icare 2009 
+Edition  
+Künstlerbuch  
+Michael Woolworth Publications Paris 2009.  
+Frederique Loutz (33 Lithographien)  
+Ernesto Castillo (11 Texte)  
+[Weiterlesen](/fedre "Fedre et le vilain petit Icare 2009")  
+<br style="clear:both" />
+<br style="clear:both" />
