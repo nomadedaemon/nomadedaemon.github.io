@@ -97,13 +97,13 @@ Spencer Collection New York etc...
 *Castillos Gedichte: loveiathan*, André Jahn, Die Berliner Literaturkritik, 2010;  
 Artikel von Brooks Adams in "ART IN AMERICA" zu *Fedre et le vilain petit Icare*, 2010  
   
-[^1]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/ark:/12148/cb43675631h "BnF") FRBNF43675631  
+[^1]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/ark:/12148/cb43675631h "BnF"){:target="_blank"} FRBNF43675631  
 
-[^2]: [Deutsche Nationalbibliothek (DNB)](http://d-nb.info/1046151959 "d-nb") 1046151959  
+[^2]: [Deutsche Nationalbibliothek (DNB)](http://d-nb.info/1046151959 "d-nb"){:target="_blank"} 1046151959  
 
-[^3]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/ark:/12148/cb42426478b "BnF") FRBNF16528351  
+[^3]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/ark:/12148/cb42426478b "BnF"){:target="_blank"} FRBNF16528351  
 
-[^4]: [Bibliothèque Kandinsky](http://www.centrepompidou.fr/cpv/ressource.action?param.id=id&param.idSource=FR_DO-26cfc53179d930bd98328ad5ec2f71b  "Bibliothèque Kandinsky"), Centre Pompidou RLPF 9873  
+[^4]: [Bibliothèque Kandinsky](http://www.centrepompidou.fr/cpv/ressource.action?param.id=id&param.idSource=FR_DO-26cfc53179d930bd98328ad5ec2f71b  "Bibliothèque Kandinsky"){:target="_blank"}, Centre Pompidou RLPF 9873  
 
 [^5]: Spencer Collection, New York  
 
