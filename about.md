@@ -3,7 +3,7 @@ layout: default
 title: über
 language: de
 handle: /about
-nav-order: 4
+nav-order: 6
 categories: Bio
 ---
 
@@ -13,35 +13,41 @@ categories: Bio
   
 ### Bücher und Editionen  
   
-*Carneval*, Künstlerbuch mit Frédérique Loutz & Marta Rueda, 2014  
-*Coup(o)les* [^1],[^2] Les éditions du Chemin de fer, Französisch - Deutsch, 2013  
+*Carneval*, mit Frédérique Loutz &amp; Marta Rueda, 2014   
+*Coup(o)les* [^1],[^2], Les éditions du Chemin de fer, Französisch - Deutsch, 2013  
 *Cartes postales* (Postkarten), mit Frédérique Loutz, MAGP / Maisons Daura, Région Midi-Pyrénées 2012  
 *Ptolomäische Felder*, Tabor Presse, Lyrikband, Berlin 2011  
-*Anders* [^3], [^4], [^5] Künstlerbuch mit Frédérique Loutz, Michael Woolworth Publications, Paris 2011  
+*Anders* [^3], [^4], [^5], Künstlerbuch mit Frédérique Loutz, Michael Woolworth Publications, Paris 2011  
 *loveiathan*, VOIXéditions, Lyrikband, ISBN 2-914640-98-6, Elne 2010  
 *Jacomo in the box*, Matchboox Edition mit Frédérique Loutz, VOIXéditions, Elne, 2010  
-*Lust ich* [^6] cahier de dessins, Publikation „les amis de Jau“ & association rendez-vous, 2010  
+*Lust ich* [^6], cahier de dessins, Publikation „les amis de Jau“ & association rendez-vous, 2010  
 *Fedre et le vilain petit icare*, Künstlerbuch mit Frédérique Loutz, Michael Woolworth Publications, Paris 2009  
   
-### CD's und Vertonungen  
+### CD 
   
-*Absurde Nacht*, CD, L’inlassable Disque, Paris 2015  
-*UNS*, CD, L'inlassable Disque, Paris 2011  
-*nomade daemon*, CD, L'inlassable Disque, Paris 2011   
+*Absurde Nacht*, CD, L'inlassable Disque, Paris 2015  
+*UNS*, CD, L'inlassable Disque, Paris 2012  
+*nomade daemon*, CD, L'inlassable Disque, Paris 2011  
+
+### CD  Compilation  
+  
+*Saturne*, CD, L’inlassable Disque, Paris, 2014  
+*l’inlassable #°1*, CD, L’inlassable Disque, Paris, 2013  
   
 ### Veröffentlichungen in Zeitschriften & Anthologien (Auswahl)  
   
-*Frankreich*: Cahiers du refuge, Hippocampe, Artpress, Paris-Berlin Magazine, Social traître  
-*Deutschland*: Der Maulkorb, kalmenzone, Silbende Kunst, Kritische Ausgabe, randnummer, Dulzinea, lauter niemand, außer.dem, Asphaltspuren, Grenzerfahrungen - Anthologie    
+*Frankreich*: Muet, Cahiers du refuge, Hippocampe, Artpress, Paris-Berlin Magazine, Social traître  
+*Deutschland*: Der Maulkorb, Silbende Kunst, Kritische Ausgabe, randnummer, Dulzinea, lauter niemand, außer.dem, Asphaltspuren, Grenzerfahrungen, Grafik Kalender 2011 – Tabor Presse Berlin  
 *Italien*: Il Manifesto, Il Majakovskij, La Parete  
-*Österreich*: Wortwerk, etcetera, Dum, Podium, Wartholz III – Anthologie – Residenz Verlag    
+*Österreich*: Podium, Wortwerk, etcetera, Dum, Wartholz III  – Anthologie – Residenz Verlag  
 *Belgien*: L&apos;amour aux temps de l&apos;UE – Anthologie de poésie bruxelloise  
     
 *Editor, Mitbegründer & Redakteur der Berliner Zeitschrift für Lyrik und Prosa „lauter niemand“* (1998-2008)  
   
 ### Performances/Lesungen (Auswahl)  
   
-2014 *Traces of history, fragments of fraud*, mit Frédérique Loutz, Printemps des poètes, BAD, Marseille
+2014 *Domino*, La Marelle, Les Bancs Publics, Marseille  
+2014 *Traces of history, fragments of fraud*, mit Frédérique Loutz, Printemps des poètes, BAD, Marseille  
 2013 *Ut pictura poesis*, CIPM, Marseille  
 2013 *Coup(o)les*, Château de Chambord, Château de Chambord  
 2012 *Lecture idiomatique*, Galerie Claudine Papillon, Paris  
@@ -64,11 +70,6 @@ categories: Bio
   
 ### Gruppenausstellungen  
   
-2014 *Sobretodo Sobre Todo*, AtelieRnaTional, Marseille  
-2014 *Der Maulkorb* 14, Hole of Fame, Dresden  
-2014 *MICRO SALON#4*, l’Inlassable Galerie, Paris  
-2014 *Arracher le monde des mains de la nature*, AtelieRnaTional, Marseille  
-2014 *La Cabane*, L’Asile 404, Marseille  
 2013 *Supervues*, Castilloutz, Vaison la Romaine  
 2013 *MICRO SALON#3*, Castilloutz, l’Inlassable Galerie, Paris  
 2012 *UNS*, Castilloutz, L’Inlassable Galerie, Paris  
@@ -82,7 +83,10 @@ categories: Bio
 *Residenz Château de Chambord* (Château de Chambord 2013)  
 *Residenz Maisons Daura*, La Maison des Arts Georges Pompidou (Saint-Cirq-Lapopie 2012)  
 *Finalist beim Literaturwettbewerb Wartholz* (Reichenau an der Rax 2010)  
-
+    
+### Öffentliche Sammlungen
+Centre Georges Pompidou, Bibliothèque nationale de France, Deutsche Nationalbibliothek 
+Spencer Collection New York etc...  
   
 ### Presse/Radio  
   
@@ -93,21 +97,13 @@ categories: Bio
 *Castillos Gedichte: loveiathan*, André Jahn, Die Berliner Literaturkritik, 2010;  
 Artikel von Brooks Adams in "ART IN AMERICA" zu *Fedre et le vilain petit Icare*, 2010  
   
-### Öffentliche Sammlungen  
-  
-Spencer Collection New York, Centre Georges Pompidou, Bnf (Bibliotheque nationale de France) u.a.  
-  
-### Präsentationen auf Messen, Galerien etc.  
-  
-London, New-York, Paris, Zürich, Athen, Frankfurt  
+[^1]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/ark:/12148/cb43675631h "BnF") FRBNF43675631  
 
-[^1]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/ark:/12148/cb43675631h.public "BnF"){:target="_blank"} FRBNF42426478  
+[^2]: [Deutsche Nationalbibliothek (DNB)](http://d-nb.info/1046151959 "d-nb") 1046151959  
 
-[^2]: [KATALOG DER DEUTSCHEN NATIONALBIBLIOTHEK (DNB)](http://d-nb.info/1046151959 "DNB"){:target="_blank"} FRBNF42426478  
+[^3]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/ark:/12148/cb42426478b "BnF") FRBNF16528351  
 
-[^3]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/ark:/12148/cb42426478b.public "BnF"){:target="_blank"} 1046151959 
-
-[^4]: [Bibliothèque Kandinsky](http://www.centrepompidou.fr/cpv/ressource.action?param.id=id&param.idSource=FR_DO-26cfc53179d930bd98328ad5ec2f71b  "Bibliothèque Kandinsky"){:target="_blank"}, Centre Pompidou RLPF 9873  
+[^4]: [Bibliothèque Kandinsky](http://www.centrepompidou.fr/cpv/ressource.action?param.id=id&param.idSource=FR_DO-26cfc53179d930bd98328ad5ec2f71b  "Bibliothèque Kandinsky"), Centre Pompidou RLPF 9873  
 
 [^5]: Spencer Collection, New York  
 
