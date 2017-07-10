@@ -13,7 +13,7 @@ exclude: true
 Livre d´Artist  
 Frederique Loutz (33 lithographies) et Ernesto Castillo (11 Textes)  
 Numeroté et signet.  
-Publie 2009 chez Michael Woolworth Editions Paris.  
+Publie 2009 chez [Michael Woolworth Publications Paris](http://www.michaelwoolworth.com/books/fdre-et-le-vilain-petit-icare "Michael Woolworth Publications Paris"){:target="_blank"}.  
 ISBN 9708898000010  
   
 Commander de livre: [Contact](http://www.michaelwoolworth.com/contact?locale=fr "Contact"){:target="_blank"}  

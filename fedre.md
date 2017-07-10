@@ -11,7 +11,7 @@ exclude: true
   
 Edition  
 Künstlerbuch   
-Michael Woolworth Publications Paris 2009.  
+[Michael Woolworth Publications Paris](http://www.michaelwoolworth.com/books/fdre-et-le-vilain-petit-icare?locale=en "Michael Woolworth Publications Paris"){:target="_blank"} 2009.  
 Frederique Loutz (33 Lithographien) und Ernesto Castillo (11 Texte)  
 Nummeriert und Signiert  
 ISBN 9708898000010  

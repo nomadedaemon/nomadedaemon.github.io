@@ -92,6 +92,22 @@ Tabor Presse Berlin, Deutschland
 [Weiterlesen](/grafikkalender "Grafikkalender 2011")  
 <br style="clear:both" />
 <br style="clear:both" />
+<a href="/lustich" title="Weiterlesen"><img src="/images/lust-ich-cover.jpg" alt="lust ich 2010" class="img-left"></a>
+#### lust ich 2010
+Edition  
+Künstlerbuch mit Frédérique Loutz  
+Edition : Cases de pène, France, Châtaeu de Jau 2010  
+[Weiterlesen](/lustich "Lust ich 2010")  
+<br style="clear:both" />
+<br style="clear:both" />
+<a href="/jacomointhebox" title="Weiterlesen"><img src="/images/jacomointhebox.jpg" alt="Jacomo in the box" class="img-left"></a>
+#### Jacomo in the Box 2010
+Edition  
+VOIXéditions 2010  
+Streichholzbox und Buch.  
+[Weiterlesen](/jacomointhebox "Jacomo in the box 2010")  
+<br style="clear:both" />
+<br style="clear:both" />
 <a href="/fedre" title="Weiterlesen"><img src="/images/fedre-cover.jpg" alt="Fedre et le vilain petit Icare 2009" class="img-left"></a>
 #### Fedre et le vilain petit Icare 2009 
 Edition  
