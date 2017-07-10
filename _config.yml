@@ -5,8 +5,8 @@ description:
   de: mots el son
   fr: mots el son
 footer:
-  de: Alle Inhalte von [Ernesto Castillo](https://nomadedaemon.github.io){:target="_blank"} © 2017
-  fr: Tous les contenus [Ernesto Castillo](https://nomadedaemon.github.io){:target="_blank"} © 2017
+  de: Alle Inhalte von [Ernesto Castillo](https://nomadedaemon.github.io/about/) © 2017
+  fr: Tous les contenus [Ernesto Castillo](https://nomadedaemon.github.io/fr/about/) © 2017
 exclude: [README.md]
 permalink: pretty
 repository: https://github.com/nomadedaemon/nomadedaemon.github.io
