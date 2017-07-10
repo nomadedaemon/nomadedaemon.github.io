@@ -3,8 +3,8 @@ layout: default
 title: accueil
 language: fr
 nav-order: 1
-see-on-github: Voir su GitHub
-tweet-this: Tweet cela
+#see-on-github: Voir su GitHub
+#tweet-this: Tweet
 ---
 ### CD ABSURDE NACHT (Nuit absurde) 2015
   
