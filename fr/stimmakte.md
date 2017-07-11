@@ -8,7 +8,7 @@ nav-order: 4
 ## Voix actée  
   
 <a href="/fr/perfutpicturapoesis" title="Lire plus"><img src="/images/ut-pictura-poesis-expo2.jpg" alt="Ut pictura poesis" class="img-left"></a>
-#### Ut pictura poesis 2014  
+#### CIPM - Ut pictura poesis 2014  
   
 Lecture & performance  
 dans le cadre de la exposition "Ut pictura poesis"  
@@ -19,7 +19,7 @@ du 27 septembre au 17 janvier 2014
 <br style="clear:both" />
 
 <a href="/fr/perfcoupoles" title="Lire plus"><img src="/images/coupoles-performance-chambord0.jpg" alt="Coupoles Chambod" class="img-left"></a>
-#### Coup(o)les 2013 
+#### Château de Chambord - Coup(o)les 2013 
   
 Lecture & performance  
 COUP(O)LES – Performance sonore du Castilloutz  
