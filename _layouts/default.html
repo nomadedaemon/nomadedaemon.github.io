@@ -37,7 +37,7 @@ function topFunction() {
 }
 </script>
 	  
-
+    <navcont>
     <nav>
       {% assign pages = site.pages | sort: "nav-order"  %}
       {% for p in pages %}
@@ -57,6 +57,7 @@ function topFunction() {
         <a class="fr" href="{{ site.baseurl | append: "/fr" | append: page.handle }}">fr</a>
       {% endif %}
     </nav>
+    </navcont>
     <header>
       <h1>{{ site.name[page.language] }}</h1>
       <p>{{ site.description[page.language] }}</p>
