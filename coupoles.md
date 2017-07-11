@@ -9,7 +9,6 @@ exclude: true
 <a rel="lightbox" data-lightbox="example-1" href="/images/coupoles-front001.jpg" title="Coupoles Cover"><img src="/images/coupoles-front001.jpg" alt="Coupoles Cover" class="img-left"></a>
 #### Coup(o)les 2013  
 *Ernesto Castillo face à Frédérique Loutz*  
-Zweisprachige Ausgabe  
 Französisch - Deutsch  
 <a href="http://www.chemindefer.org/catalogue/styled-31/coupoles.html" target="_blank">Les éditions du Chemin de fer</a>  
 Erschienen im September 2013  
