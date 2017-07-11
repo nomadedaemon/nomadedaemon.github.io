@@ -4,6 +4,7 @@ title: CD Uns 2012
 language: fr
 handle: /cd-uns
 exclude: true
+categories: CDfr
 ---
 ### CD Uns 2012  
   

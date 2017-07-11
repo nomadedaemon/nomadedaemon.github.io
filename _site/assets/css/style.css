@@ -6,10 +6,12 @@
     top: 0px;
     padding-top: 2em;
     overflow: hidden;
-    height: 5em;
+    height: 4.8em;
+}
+ nav a.active {
+font-weight: 600;
 }
 
- 
  .clearfix {
     overflow: auto;
 }

@@ -4,6 +4,7 @@ title: CD Absurde Nacht 2015
 language: de
 handle: /cd-absurde-nacht
 exclude: true
+categories: CD
 ---
 ### CD ABSURDE NACHT 2015  
   

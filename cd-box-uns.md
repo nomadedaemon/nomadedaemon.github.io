@@ -4,6 +4,7 @@ title: CD Box UNS 2012 (Limited Edition)
 language: de
 handle: /cd-box-uns
 exclude: true
+categories: CD
 ---
 
 <a rel="lightbox" data-lightbox="example-1" href="/images/uns-all-cover.jpg" title="CD Box UNS"><img src="/images/uns-all-cover.jpg" alt="CD Box UNS" class="img-left"></a>

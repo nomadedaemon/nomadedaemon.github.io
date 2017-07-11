@@ -36,18 +36,21 @@ function topFunction() {
     document.documentElement.scrollTop = 0;
 }
 </script>
-	  
+
     <navcont>
     <nav>
       {% assign pages = site.pages | sort: "nav-order"  %}
       {% for p in pages %}
       {% unless p.exclude %}
         {% if p.language == page.language %} 
+        
           <a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
         {% endif %}
       {% endunless %}
       {% endfor %}   
     </nav>
+   
+    
     <nav class="language-switcher">
       {% if page.name contains "index" %}
         <a class="de" href="{{ site.baseurl }}/">de</a>
@@ -60,13 +63,13 @@ function topFunction() {
     </navcont>
     <header>
       <h1>{{ site.name[page.language] }}</h1>
-      <p>{{ site.description[page.language] }}</p>
+      <p>{{ site.description[page.language] }} :: {{ page.title }}</p>
     </header>
 
     <main>
       {{ content }}
     </main>
-
+    
     {% if page.name contains "index" %}
 
     {% endif %}

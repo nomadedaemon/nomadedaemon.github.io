@@ -4,6 +4,7 @@ title: CD nomade daemon 2011
 language: de
 handle: /cd-nomade-daemon
 exclude: true
+categories: CD
 ---
 ### CD nomade daemon 2011
   

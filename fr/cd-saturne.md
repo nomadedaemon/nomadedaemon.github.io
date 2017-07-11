@@ -4,6 +4,7 @@ title: CD Saturne (Compilation) 2014
 language: fr
 handle: /cd-saturne
 exclude: true
+categories: CDfr
 ---
 ### CD Saturne (Compilation) 2014  
   
