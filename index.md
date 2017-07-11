@@ -6,7 +6,7 @@ nav-order: 1
 #see-on-github: Github
 #tweet-this: Tweet
 ---
-### CD ABSURDE NACHT 2015  bla
+### CD ABSURDE NACHT 2015
   
 
 <a rel="lightbox" data-lightbox="example-1" href="/images/absurde-nacht-cover-web.jpg" title="absurde nacht cover"><img src="/images/absurde-nacht-cover-web.jpg" alt="absurde nacht cover" class="img-left2"></a>
