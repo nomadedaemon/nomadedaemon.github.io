@@ -27,7 +27,7 @@ Das Buch wurde produziert mit der Untersützung des Centre international d’art
 <a rel="lightbox" data-lightbox="example-1" href="/images/coupole_Seite_03.jpg" title="Coupoles 3"><img src="/images/coupole_Seite_03.jpg" alt="Coupoles 3" class="img-right2"></a>
 <br style="clear:both" />
 <br style="clear:both" />
-<a rel="lightbox" data-lightbox="example-1" href="/images/coupole_Seite_04.jpg" title="Coupoles 4"><img src="/images/coupole_Seite_04.jpg" alt="Coupoles 4" class="img-left2"></a>
-<a rel="lightbox" data-lightbox="example-1" href="/images/coupole_Seite_05.jpg" title="Coupoles 5"><img src="/images/coupole_Seite_05.jpg" alt="Coupoles 5" class="img-right2"></a>
+<a rel="lightbox" data-lightbox="example-1" href="/images/coupole_Seite_06.jpg" title="Coupoles 4"><img src="/images/coupole_Seite_06.jpg" alt="Coupoles 4" class="img-left2"></a>
+<a rel="lightbox" data-lightbox="example-1" href="/images/coupole_Seite_09.jpg" title="Coupoles 5"><img src="/images/coupole_Seite_09.jpg" alt="Coupoles 5" class="img-right2"></a>
 <br style="clear:both" />
 <br style="clear:both" />
