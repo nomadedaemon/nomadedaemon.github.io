@@ -28,3 +28,12 @@ au Château de Chambord le 28 septembre 2013
 <br style="clear:both" />
 <br style="clear:both" />
 
+<a href="/fr/perfgodparticle" title="Lire plus"><img src="/images/godparticle0.jpg" alt="The god particle" class="img-left"></a>
+#### Maisons Daura - THE GOD PARTICLE 2012  
+  
+Performance Maisons Daura 7. 7. 2012  
+avec Frédérique Loutz, François Bessac  
+et Jean-Pierre Hiriartborde (musiciens) 
+[Lire plus](/fr/pergodparticle "The god particle") 
+<br style="clear:both" />
+<br style="clear:both" />
