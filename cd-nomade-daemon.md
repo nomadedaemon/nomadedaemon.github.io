@@ -26,9 +26,7 @@ ISBN: 9708898000041
 2. Auf dem Foto
 3. Pathetique
 4. Geister Commando  
-  
-<iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/314151207&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>   
-   
+    
 Die CD kann hier bestellt werden:  
 galerie l’inlassable  
 18 rue Dauphine  
@@ -38,4 +36,8 @@ galerie@galerielinlassable.com
   
 +331 73 74 75 45  
 +336 71 88 21 14  
+  
+Video Epilogue  
+  
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/rLCWyyMkI8I?rel=0" frameborder="0" allowfullscreen></iframe>
   
