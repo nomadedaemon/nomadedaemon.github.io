@@ -38,6 +38,17 @@ mit François Bessac & Jean-Pierre Hiriartborde (Musiker)
 <br style="clear:both" />
 <br style="clear:both" />
 
+<a href="/perfdasschweben" title="Weiterlesen"><img src="/galeries/performance-dasschweben/invitation-22-juin-2011-vitrine-noir-web.jpg" alt="Performance Das Schweben bleibt das Schlimmste 2011" class="img-left"></a>
+#### l’Inlassable Galerie - Das Schweben bleibt das Schlimmste 2011  
+
+Performance  
+“Das Schweben bleibt das Schlimmste”  
+l’Inlassable Galerie Paris 22. Juni 2011   
+mit Castilloutz & Lady Strech  
+[Weiterlesen](/perfdasschweben "Performance Das Schweben bleibt das Schlimmste 2011") 
+<br style="clear:both" />
+<br style="clear:both" />
+
 <a href="/perfforcedelart" title="Weiterlesen"><img src="/galeries/performance-forcedelart/DSCF0664.jpg" alt="Performance Fedre et le vilain petit Icare 2009" class="img-left"></a>
 #### Force de l'Art 02 - Fedre et le vilain petit Icare 2009  
   

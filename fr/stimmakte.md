@@ -38,6 +38,17 @@ avec François Bessac et Jean-Pierre Hiriartborde (musiciens)
 <br style="clear:both" />
 <br style="clear:both" />
 
+<a href="/fr/perfdasschweben" title="Lire plus"><img src="/galeries/performance-dasschweben/invitation-22-juin-2011-vitrine-noir-web.jpg" alt="Performance Le flottement en reste le pire 2011" class="img-left"></a>
+#### l’Inlassable Galerie - Le flottement en reste le pire 2011  
+
+Performance  
+“Le flottement en reste le pire”  
+l’Inlassable Galerie 22 juin 2011     
+avec Castilloutz & Lady Strech   
+[Lire plus](/fr/perfdasschweben "Performance Le flottement en reste le pire 2011") 
+<br style="clear:both" />
+<br style="clear:both" />
+
 <a href="/fr/perfforcedelart" title="Lire plus"><img src="/galeries/performance-forcedelart/DSCF0664.jpg" alt="Performance Fedre et le vilain petit Icare 2009" class="img-left"></a>
 #### Force de l'Art 02 - Fedre et le vilain petit Icare 2009   
   
