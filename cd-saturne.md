@@ -22,5 +22,5 @@ EDITIONS l’INLASSABLE DISQUE (P)&(C) L’INLASSABLE DISQUE 2014
   
 Video: Après nous von Margaritis Haralambos  
   
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/NpKTjLwxYeM" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/NpKTjLwxYeM?rel=0" frameborder="0" allowfullscreen></iframe>
   

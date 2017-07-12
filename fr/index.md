@@ -23,6 +23,6 @@ EDITIONS l’INLASSABLE DISQUE (P)&(C) L’INLASSABLE DISQUE 2015
   
 Video: Addicted 2  
   
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/ReQQHzzBnYI" frameborder="0" allowfullscreen></iframe>  
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/ReQQHzzBnYI?rel=0" frameborder="0" allowfullscreen></iframe> 
 
 
