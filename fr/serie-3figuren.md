@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 3 figures à 4 mains 2012
+title: Serie 3 figures à 4 mains 2012
 language: fr
 handle: /serie-3figuren
 exclude: true
@@ -18,7 +18,7 @@ Dans le cadre de la Residence des artistes Maisons Daura 2012.
 <br style="clear:both" />
 <br style="clear:both" />
 
-Texte: *Martine Michard*  
+Texte *Martine Michard* :  
   
 *Frédérique LOUTZ et Ernesto CASTILLO*
 
