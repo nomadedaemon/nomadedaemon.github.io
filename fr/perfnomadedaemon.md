@@ -32,6 +32,6 @@ Zürich le 25. 01. 2011
 <br style="clear:both" />
 <br style="clear:both" />
 
-Video der Performance  
+Video Performance :  
   
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/T7nUuyKJ5Ns?rel=0" frameborder="0" allowfullscreen></iframe>

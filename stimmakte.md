@@ -49,6 +49,18 @@ mit Castilloutz & Lady Strech
 <br style="clear:both" />
 <br style="clear:both" />
   
+<a href="/perfstarvedforsky" title="Weiterlesen"><img src="/galeries/performance-starvedforsky/devant-starved-for-sky001-Ernesto-Castillo.jpg" alt="Performance Starved for sky 2011" class="img-left"></a>
+#### la maison rouge - Starved for sky 2011  
+
+Performance  
+"Starved for sky" (Hunger nach Himmel)  
+im la maison rouge, Paris  
+am  28. April 2011  
+mit Castilloutz & John Ferrère  
+[Weiterlesen](/perfstarvedforsky "Performance Starved for sky 2011") 
+<br style="clear:both" />
+<br style="clear:both" />
+  
 <a href="/perfnomadedaemon" title="Weiterlesen"><img src="/galeries/performance-nomadedaemon/IMG_0765.jpg" alt="Performance nomade daemon 2011" class="img-left"></a>
 #### Cabaret Voltaire - nomade daemon 2011    
   
