@@ -38,6 +38,18 @@ mit François Bessac & Jean-Pierre Hiriartborde (Musiker)
 <br style="clear:both" />
 <br style="clear:both" />
 
+<a href="/perfmets" title="Weiterlesen"><img src="/galeries/performance-mets/voix-chocolactees.jpg" alt="Performance Mots et mets 2011" class="img-left"></a>
+#### l’Inlassable Galerie - Mots et mets 2011 
+  
+Performance  
+“Mots et mets”  
+l’Inlassable Galerie  
+Paris 11. Dezember 2011  
+von Castilloutz  
+[Weiterlesen](/perfmets "Mots et mets") 
+<br style="clear:both" />
+<br style="clear:both" />
+
 <a href="/perfenfer" title="Weiterlesen"><img src="/galeries/performance-enferdudecor/l-enfer-du-decor-invitation-web-2.jpg" alt="l'enfer du décor" class="img-left"></a>
 #### l’Inlassable Galerie  - l'enfer du décor 2011    
   
