@@ -60,6 +60,18 @@ mit Castilloutz & John Ferrère
 [Weiterlesen](/perfstarvedforsky "Performance Starved for sky 2011") 
 <br style="clear:both" />
 <br style="clear:both" />
+
+<a href="/perfanders" title="Weiterlesen"><img src="/galeries/performance-anderswoolworth/anders-einladung-Ernesto-Castillo.jpg" alt="Performance Anders et autres 2011" class="img-left"></a>
+#### Atelier Michael Woolworth - Anders et autres 2011  
+
+Performance  
+"Anders et autres" (Anders und anderes)  
+Atelier Michael Woolworth  
+Paris am 7. April 2011  
+mit Castilloutz & John Ferrère  
+[Weiterlesen](/perfanders "Performance Anders et autres 2011") 
+<br style="clear:both" />
+<br style="clear:both" />
   
 <a href="/perfnomadedaemon" title="Weiterlesen"><img src="/galeries/performance-nomadedaemon/IMG_0765.jpg" alt="Performance nomade daemon 2011" class="img-left"></a>
 #### Cabaret Voltaire - nomade daemon 2011    
