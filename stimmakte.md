@@ -10,11 +10,24 @@ nav-order: 4
 <a href="/perfutpicturapoesis" title="Weiterlesen"><img src="/images/ut-pictura-poesis-expo2.jpg" alt="Ut pictura poesis" class="img-left"></a>
 #### CIPM - Ut pictura poesis 2014  
   
-Lesung & Performance  
+Lesung & Musik 
 im Rahmen der Ausstellung "Ut pictura poesis"  
 im Centre international de poésie Marseille  
 vom 27. September bis zum 17. Januar 2014  
 [Weiterlesen](/perfutpicturapoesis "Ut pictura poesis 2014") 
+<br style="clear:both" />
+<br style="clear:both" />
+
+<a href="/perftraces" title="Weiterlesen"><img src="/galeries/performance-traces/Image03.jpg" alt="Traces of History" class="img-left"></a>
+#### Bibliothek Bad - Traces of History 2014 
+  
+Performance  
+“Traces of History, *fragments of fraud*”  
+Bibliothek Bad  
+Marseille 2014  
+mit Castilloutz  
+Lesung & Performance  
+[Weiterlesen](/perftraces "Traces of History 2014") 
 <br style="clear:both" />
 <br style="clear:both" />
 
