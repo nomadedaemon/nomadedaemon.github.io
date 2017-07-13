@@ -38,6 +38,18 @@ mit François Bessac & Jean-Pierre Hiriartborde (Musiker)
 <br style="clear:both" />
 <br style="clear:both" />
 
+<a href="/perfenfer" title="Weiterlesen"><img src="/galeries/performance-enferdudecor/l-enfer-du-decor-invitation-web-2.jpg" alt="l'enfer du décor" class="img-left"></a>
+#### l’Inlassable Galerie  - l'enfer du décor 2011    
+  
+Performance  
+"l'enfer du décor" (Die Hölle des Decor)  
+l’Inlassable Galerie  
+Paris am 1. Oktober 2011  
+mit Castilloutz, Yves Tenret, Manon Ardhuin & Christophe Rosenberger  
+[Weiterlesen](/perfenfer "l'enfer du décor") 
+<br style="clear:both" />
+<br style="clear:both" />
+
 <a href="/perfdasschweben" title="Weiterlesen"><img src="/galeries/performance-dasschweben/invitation-22-juin-2011-vitrine-noir-web.jpg" alt="Performance Das Schweben bleibt das Schlimmste 2011" class="img-left"></a>
 #### l’Inlassable Galerie - Das Schweben bleibt das Schlimmste 2011  
 

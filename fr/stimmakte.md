@@ -38,6 +38,18 @@ avec François Bessac et Jean-Pierre Hiriartborde (musiciens)
 <br style="clear:both" />
 <br style="clear:both" />
 
+<a href="/fr/perfenfer" title="Lire plus"><img src="/galeries/performance-enferdudecor/l-enfer-du-decor-invitation-web-2.jpg" alt="l'enfer du décor" class="img-left"></a>
+#### l’Inlassable Galerie  - l'enfer du décor 2011    
+  
+Performance  
+"l'enfer du décor" 
+l’Inlassable Galerie  
+Paris le 1. Octobre 2011  
+avec Castilloutz, Yves Tenret, Manon Ardhuin & Christophe Rosenberger  
+[Lire plus](/fr/perfenfer "l'enfer du décor") 
+<br style="clear:both" />
+<br style="clear:both" />
+
 <a href="/fr/perfdasschweben" title="Lire plus"><img src="/galeries/performance-dasschweben/invitation-22-juin-2011-vitrine-noir-web.jpg" alt="Performance Le flottement en reste le pire 2011" class="img-left"></a>
 #### l’Inlassable Galerie - Le flottement en reste le pire 2011  
 
