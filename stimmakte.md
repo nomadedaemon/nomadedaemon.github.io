@@ -48,7 +48,19 @@ mit Castilloutz & Lady Strech
 [Weiterlesen](/perfdasschweben "Performance Das Schweben bleibt das Schlimmste 2011") 
 <br style="clear:both" />
 <br style="clear:both" />
-
+  
+<a href="/perfnomadedaemon" title="Weiterlesen"><img src="/galeries/performance-nomadedaemon/IMG_0765.jpg" alt="Performance nomade daemon 2011" class="img-left"></a>
+#### Cabaret Voltaire - nomade daemon 2011    
+  
+Performance  
+“nomade daemon”  
+von Castilloutz
+im Cabaret Voltaire  
+Zürich am 25. 01. 2011  
+[Weiterlesen](/perfnomadedaemon "Performance nomade daemon 2011") 
+<br style="clear:both" />
+<br style="clear:both" />
+  
 <a href="/perfforcedelart" title="Weiterlesen"><img src="/galeries/performance-forcedelart/DSCF0664.jpg" alt="Performance Fedre et le vilain petit Icare 2009" class="img-left"></a>
 #### Force de l'Art 02 - Fedre et le vilain petit Icare 2009  
   
@@ -60,6 +72,7 @@ mit Frédérique Loutz
 [Weiterlesen](/perfforcedelart "Performance Fedre et le vilain petit Icare 2009") 
 <br style="clear:both" />
 <br style="clear:both" />
+
 
    
 
