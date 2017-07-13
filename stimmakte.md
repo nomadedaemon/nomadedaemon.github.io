@@ -64,6 +64,20 @@ mit François Bessac & Jean-Pierre Hiriartborde (Musiker)
 <br style="clear:both" />
 <br style="clear:both" />
 
+<a href="/perfephemeres" title="Weiterlesen"><img src="/galeries/performance-ephemeres/ephemeres002.geaendert.jpg" alt="EMBAUMÉS/DÉBAUCHÉS" class="img-left"></a>
+#### Festival des éphémeres - EMBAUMÉS/DÉBAUCHÉS 2012  
+  
+Lesung & Art-action  
+"EMBAUMÉS/DÉBAUCHÉS"  
+Jardin D‘Eole
+Paris 29. Juni – 1. Juli 2012  
+mit Castilloutz  
+im Rahmen des Festival des éphémeres  
+Lesung & Art-action  
+[Weiterlesen](/perfephemeres "EMBAUMÉS/DÉBAUCHÉS") 
+<br style="clear:both" />
+<br style="clear:both" />
+
 <a href="/perfmets" title="Weiterlesen"><img src="/galeries/performance-mets/voix-chocolactees.jpg" alt="Performance Mots et mets 2011" class="img-left"></a>
 #### l’Inlassable Galerie - Mots et mets 2011 
   
