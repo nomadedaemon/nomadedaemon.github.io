@@ -31,6 +31,19 @@ Lecture & Performance
 <br style="clear:both" />
 <br style="clear:both" />
 
+<a href="/fr/perfdomino" title="Lire plus"><img src="/galeries/performance-domino/Image02.jpg" alt="Domino 2014" class="img-left"></a>
+#### La Marelle - Domino 2014  
+  
+Performance  
+dans le cadre du "Domino"  
+La Marelle  
+Marseille le 28 mai 2014  
+avec Emy Chauveau  
+Lesung & Performance  
+[Lire plus](/fr/perfdomino "Domino 2014") 
+<br style="clear:both" />
+<br style="clear:both" />
+
 <a href="/fr/perfcoupoles" title="Lire plus"><img src="/images/coupoles-performance-chambord0.jpg" alt="Coupoles Chambod" class="img-left"></a>
 #### Château de Chambord - Coup(o)les 2013 
   
