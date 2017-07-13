@@ -97,6 +97,19 @@ Zürich le 25. 01. 2011
 <br style="clear:both" />
 <br style="clear:both" />
 
+<a href="/fr/perfloveiathan" title="Lire plus"><img src="/galeries/performance-loveiathan/bal-a-jau.jpg" alt="Lecture & Musique loveiathan 2010" class="img-left"></a>
+#### Château de Jau - loveiathan 2010    
+  
+Lecture & Musique  
+"loveiathan"  
+Presentation & signature du livre „loveiathan“  
+lors de l’exposition “le bal à jau” 2010  
+avec Frédérique Loutz, Ernesto Castillo et le Guitariste Pedro Soler  
+Château de Jau, Languedoc-Roussillon  
+[Lire plus](/fr/perfloveiathan "Lecture & Musique loveiathan 2010") 
+<br style="clear:both" />
+<br style="clear:both" />
+
 <a href="/fr/perfforcedelart" title="Lire plus"><img src="/galeries/performance-forcedelart/DSCF0664.jpg" alt="Performance Fedre et le vilain petit Icare 2009" class="img-left"></a>
 #### Force de l'Art 02 - Fedre et le vilain petit Icare 2009   
   

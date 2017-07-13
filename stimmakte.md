@@ -96,6 +96,19 @@ Zürich am 25. 01. 2011
 [Weiterlesen](/perfnomadedaemon "Performance nomade daemon 2011") 
 <br style="clear:both" />
 <br style="clear:both" />
+
+<a href="/perfloveiathan" title="Weiterlesen"><img src="/galeries/performance-loveiathan/bal-a-jau.jpg" alt="Lesung & Musik loveiathan 2010" class="img-left"></a>
+#### Château de Jau - loveiathan 2010    
+  
+Lesung & Musik  
+"loveiathan"  
+Presentation & Signatur des Lyrikbandes „loveiathan“  
+im Rahmen der Ausstellung “le bal à jau” am 24 Juli 2010  
+mit Frédérique Loutz, Ernesto Castillo un dem Guitaristes Pedro Soler  
+Château de Jau, Languedoc-Roussillon  
+[Weiterlesen](/perfloveiathan "Lesung & Musik loveiathan 2010") 
+<br style="clear:both" />
+<br style="clear:both" />
   
 <a href="/perfforcedelart" title="Weiterlesen"><img src="/galeries/performance-forcedelart/DSCF0664.jpg" alt="Performance Fedre et le vilain petit Icare 2009" class="img-left"></a>
 #### Force de l'Art 02 - Fedre et le vilain petit Icare 2009  
