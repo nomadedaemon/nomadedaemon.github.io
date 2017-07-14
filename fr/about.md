@@ -92,11 +92,11 @@ Né en 1970 à Leipzig, Allemagne, vit et travaille en France
 Centre Georges Pompidou, Bibliothèque nationale de France, Deutsche Nationalbibliothek, Spencer Collection New York etc... 
   
 ### Presse et Radio  
-2013 *Frédérique Loutz et Ernesto Castillo (alias Castilloutz)*, Philippe Ducat, art press N° 406, Décembre 2013  
-2012 <em>En vadrouille le long du Lot, sur les traces d’un géologue nommé André Breton</em>, Philippe Dagen, LE MONDE, 16. 08. 2012  
-2012 *La Dispute*, Chronique d’André Chabin, France culture, 08. 06. 2012  
-2011 *Voulez-vous sortir avec moi*, France inter, 08. 04. 2011  
-2010 *Castillos Gedichte : loveiathan*, André Jahn, Die Berliner Literaturkritik  
+2013 [*Frédérique Loutz et Ernesto Castillo (alias Castilloutz)*](https://www.artpress.com/2013/11/22/sommaire-du-n406-decembre-2013/){:target="_blank"}, Philippe Ducat, art press N° 406, Décembre  
+2012 [*En vadrouille le long du Lot, sur les traces d’un géologue nommé André Breton*](http://www.lemonde.fr/culture/article/2012/08/15/en-vadrouille-le-long-du-lot-sur-les-traces-d-un-geologue-nomme-andre-breton_1746319_3246.html?xtmc=en_vadrouille_le_long_du_lot&xtcr=1){:target="_blank"}, Philippe Dagen, LE MONDE, 16. 08.  
+2012 *La Dispute*, Chronique d’André Chabin, France culture, 08. 06.  
+2011 *Voulez-vous sortir avec moi*, France inter, 08. 04.  
+2010 [*Castillos Gedichte : loveiathan*](http://www.berlinerliteraturkritik.de/detailseite/artikel/loveiathan/detailseite.html){:target="_blank"}, André Jahn, Die Berliner Literaturkritik 19. 12  
 2010 *Fèdre et le vilain petit icare*, Article de Brooks Adams dans ART IN AMERICA  
   
 [^1]: [Bibliothèque nationale de France (BnF)](http://catalogue.bnf.fr/ark:/12148/cb43675631h "BnF"){:target="_blank"} FRBNF43675631  
