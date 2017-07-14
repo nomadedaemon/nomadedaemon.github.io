@@ -80,3 +80,14 @@ Dans le cadre de la Residence des artistes Maisons Daura 2012.
 <br style="clear:both" />
 <br style="clear:both" />
 
+<a href="/fr/installation-hortus" title="Lire plus"><img src="/galeries/installation-hortus/image02.jpg" alt="Installation Hortus Medicus 2012" class="img-left"></a>
+#### Installation Hortus Medicus Calvignac 2012  
+  
+Installation  
+“Hortus Medicus”  
+avec Trytique, Texte & Son  
+CALVIGNAC / salle paroissiale 2012  
+[Lire plus](/fr/installation-hortus "Installation Hortus Medicus 2012") 
+<br style="clear:both" />
+<br style="clear:both" />
+
