@@ -69,6 +69,11 @@ categories: Bio
   
 ### Gruppenausstellungen  
   
+2014 *Maulkorb 14*, Hole of Fame, Dresden  
+2014 *Sobretodo Sobre Todo*, Atelier National, Marseille  
+2014 *MICRO SALON#4*, l’Inlassable Galerie, Paris  
+2014 *La Cabane*, Asile 404, Marseille  
+2014 *Arracher le monde des mains de la nature*, Atelier National, Marseille  
 2013 *Supervues*, Castilloutz, Vaison la Romaine  
 2013 *MICRO SALON#3*, Castilloutz, l’Inlassable Galerie, Paris  
 2012 *UNS*, Castilloutz, L’Inlassable Galerie, Paris  
