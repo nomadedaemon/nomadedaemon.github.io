@@ -6,7 +6,7 @@ handle: /installation-hortus
 exclude: true
 ---
 
-<a rel="lightbox" data-lightbox="example-1" href="/galeries/installation-hortus/image02.jpg" title="Installation Hortus Medicus 2012"><img src="/galeries/installation-hortus/image02.jpg" alt="Installation Table des matières 2014" class="img-left"></a>
+<a rel="lightbox" data-lightbox="example-1" href="/galeries/installation-hortus/image02.jpg" title="Installation Hortus Medicus 2012"><img src="/galeries/installation-hortus/image02.jpg" alt="Installation Hortus Medicus 2012" class="img-left"></a>
 #### Installation Hortus Medicus Calvignac 2012  
     
 Installation  
