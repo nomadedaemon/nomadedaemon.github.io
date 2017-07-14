@@ -35,8 +35,8 @@ categories: Bio
   
 ### Veröffentlichungen in Zeitschriften & Anthologien (Auswahl)  
   
-*Frankreich*: Muet, Cahiers du refuge, Hippocampe, Artpress, Paris-Berlin Magazine, Social traître  
-*Deutschland*: Der Maulkorb, Silbende Kunst, Kritische Ausgabe, randnummer, Dulzinea, lauter niemand, außer.dem, Asphaltspuren, Grenzerfahrungen, Grafik Kalender 2011 – Tabor Presse Berlin  
+*Frankreich*: Muet, Cahiers du refuge, Dissonances, Hippocampe, Artpress, Paris-Berlin Magazine, Social traître  
+*Deutschland*: Der Maulkorb, Silbende Kunst, Kritische Ausgabe, Kalmenzone, randnummer, Dulzinea, lauter niemand, außer.dem, Asphaltspuren, Grenzerfahrungen, Grafik Kalender 2011 – Tabor Presse Berlin  
 *Italien*: Il Manifesto, Il Majakovskij, La Parete  
 *Österreich*: Podium, Wortwerk, etcetera, Dum, Wartholz III  – Anthologie – Residenz Verlag  
 *Belgien*: L&apos;amour aux temps de l&apos;UE – Anthologie de poésie bruxelloise  

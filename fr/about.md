@@ -34,8 +34,8 @@ Né en 1970 à Leipzig, Allemagne, vit et travaille en France
   
 ### Parutions dans des revues et anthologies (selection)  
   
-*France* : Muet, Cahier du Refuge, Hippocampe, Artpress, Paris-Berlin Magazine, Social traître  
-*Allemagne* : Der Maulkorb, Silbende Kunst, Kritische Ausgabe, randnummer, Dulzinea, lauter niemand, außer.dem, Asphaltspuren, Grenzerfahrungen, kalmenzone, Grafik Kalender 2011 – Tabor Presse Berlin  
+*France* : Muet, Cahier du Refuge, Hippocampe, Dissonances, Artpress, Paris-Berlin Magazine, Social traître  
+*Allemagne* : Der Maulkorb, Silbende Kunst, Kritische Ausgabe, Kammenzone, randnummer, Dulzinea, lauter niemand, außer.dem, Asphaltspuren, Grenzerfahrungen, kalmenzone, Grafik Kalender 2011 – Tabor Presse Berlin  
 *Italie* : Il Manifesto, Il Majakovskij, La Parete  
 *Autriche* : Podium, Wortwerk, etcetera, Dum, Wartholz III – Anthologie – Residenz Verlag  
 *Belgique* : L’amour aux temps de l’UE – Anthologie de poésie bruxelloise  
