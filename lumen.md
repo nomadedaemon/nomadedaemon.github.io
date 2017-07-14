@@ -92,4 +92,18 @@ CALVIGNAC / salle paroissiale 2012
 <br style="clear:both" />
 <br style="clear:both" />
 
-
+## Gruppenausstellungen  
+  
+2014 [Maulkorb 14](http://holeoffame.blogspot.fr/2014/12/der-maulkorb-14-release-ausstellung.html){:target="_blank"}, Hole of Fame, Dresden  
+2014 [Sobretodo Sobre Todo](http://ateliernational.free.fr/wordpress/?p=2514){:target="_blank"}, Atelier National, Marseille  
+2014 [MICRO SALON#4](https://www.galerielinlassable.com/ernesto-castillo/){:target="_blank"}, l’Inlassable Galerie, Paris  
+2014 [La Cabane](https://asile404.org/la-cabane/){:target="_blank"}, Asile 404, Marseille  
+2014 [Arracher le monde des mains de la nature](http://ateliernational.free.fr/wordpress/?p=2511){:target="_blank"}, Atelier National, Marseille  
+2013 [Supervues](http://www.supervues.com/2013-9-222-l_inlassable_galerie_paris_frederique_loutz_ernesto_castillo_et-24.html){:target="_blank"}, Castilloutz, Vaison la Romaine  
+2013 [MICRO SALON#3](https://www.galerielinlassable.com/ernesto-castillo/){:target="_blank"}, Castilloutz, l’Inlassable Galerie, Paris  
+2012 [UNS](https://www.galerielinlassable.com/ernesto-castillo/){:target="_blank"}, Castilloutz, L’Inlassable Galerie, Paris  
+2012 [Parcours d‘art](http://www.magcp.fr/project/lever-une-carte-8-juillet-2-septembre-2012/){:target="_blank"} en vallée du Lot, Calvignac et St-Cirq-Lapopie  
+2012 [Lever une Carte](http://www.magcp.fr/project/lever-une-carte-8-juillet-2-septembre-2012/){:target="_blank"}, Maison des Arts Georges Pompidou, Cajarc  
+2012 [MICRO SALON#2](https://www.galerielinlassable.com/ernesto-castillo/){:target="_blank"}, Castilloutz, l’Inlassable Galerie, Paris  
+2011 [Help! for future of Japan](http://14h4611032011.blogspot.fr/p/artistes.html){:target="_blank"}, Galerie Premier Regard, Paris  
+  
