@@ -1,4 +1,2 @@
----
----
 User-agent: *
-Sitemap: {{ site.productionurl }}/sitemap.xml
+Sitemap: https://nomadedaemon.github.io/sitemap.xml
