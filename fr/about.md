@@ -5,7 +5,6 @@ language: fr
 handle: /about
 nav-order: 6
 ---
-
 ### Ernesto Castillo  
 Né en 1970 à Leipzig, Allemagne, vit et travaille en France  
   

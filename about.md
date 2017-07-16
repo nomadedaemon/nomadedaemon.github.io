@@ -4,7 +4,6 @@ title: über
 language: de
 handle: /about
 nav-order: 6
-categories: Bio
 ---
 ### Ernesto Castillo  
 *1970 Leipzig DE, lebt und arbeitet in Frankreich  
