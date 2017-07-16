@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Traces of History Perfomance 2014
-language: de
+language: fr
 handle: /perftraces
 categories: stimmakte
 categoriestitle: voix&nbsp;actée
