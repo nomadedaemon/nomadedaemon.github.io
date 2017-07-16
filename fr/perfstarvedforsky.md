@@ -3,6 +3,8 @@ layout: default
 title: Starved for Sky Perfomance 2011
 language: fr
 handle: /perfstarvedforsky
+categories: stimmakte
+categoriestitle: voix&nbsp;actée
 exclude: true
 ---
 

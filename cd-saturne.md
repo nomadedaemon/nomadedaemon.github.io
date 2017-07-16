@@ -3,8 +3,9 @@ layout: default
 title: CD Saturne (Compilation) 2014
 language: de
 handle: /cd-saturne
+categories: son
+categoriestitle: son
 exclude: true
-categories: CD
 ---
 ### CD Saturne (Compilation) 2014  
   

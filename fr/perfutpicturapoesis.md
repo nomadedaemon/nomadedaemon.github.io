@@ -3,6 +3,8 @@ layout: default
 title: Ut pictura poesis 2014
 language: fr
 handle: /perfutpicturapoesis
+categories: stimmakte
+categoriestitle: voix&nbsp;actée
 exclude: true
 ---
 

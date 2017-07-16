@@ -3,6 +3,8 @@ layout: default
 title: Serie 3 Figuren zu 4 Händen 2012
 language: de
 handle: /serie-3figuren
+categories: lumen
+categoriestitle: lumen
 exclude: true
 ---
 

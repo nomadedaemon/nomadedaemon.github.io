@@ -3,6 +3,8 @@ layout: default
 title: EMBAUMÉS/DÉBAUCHÉS 2012
 language: de
 handle: /perfephemeres
+categories: stimmakte
+categoriestitle: stimmakte
 exclude: true
 ---
 

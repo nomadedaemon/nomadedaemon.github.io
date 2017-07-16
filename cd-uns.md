@@ -3,8 +3,9 @@ layout: default
 title: CD Uns 2012
 language: de
 handle: /cd-uns
+categories: son
+categoriestitle: son
 exclude: true
-categories: CD
 ---
 ### CD Uns 2012  
   

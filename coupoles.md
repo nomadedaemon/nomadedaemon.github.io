@@ -3,6 +3,8 @@ layout: default
 title: Coupoles 2013
 language: de
 handle: /coupoles
+categories: mots
+categoriestitle: mots
 exclude: true
 ---
 

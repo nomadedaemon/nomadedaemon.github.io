@@ -3,6 +3,8 @@ layout: default
 title: Das Schweben bleibt das Schlimmste 2011
 language: de
 handle: /perfdasschweben
+categories: stimmakte
+categoriestitle: stimmakte
 exclude: true
 ---
 

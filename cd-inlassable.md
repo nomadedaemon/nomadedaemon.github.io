@@ -3,8 +3,9 @@ layout: default
 title: CD l’inlassable #°1 (Compilation) 2013 
 language: de
 handle: /cd-inlassable
+categories: son
+categoriestitle: son
 exclude: true
-categories: CD
 ---
 ### CD l’inlassable n°1 (Compilation) 2013    
   

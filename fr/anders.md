@@ -3,6 +3,8 @@ layout: default
 title: Anders 2012
 language: fr
 handle: /anders
+categories: mots
+categoriestitle: mots
 exclude: true
 ---
 

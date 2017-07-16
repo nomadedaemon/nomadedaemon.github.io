@@ -3,8 +3,9 @@ layout: default
 title: CD nomade daemon 2011
 language: de
 handle: /cd-nomade-daemon
+categories: son
+categoriestitle: son
 exclude: true
-categories: CD
 ---
 ### CD nomade daemon 2011
   

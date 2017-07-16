@@ -3,6 +3,8 @@ layout: default
 title: Mots et mets Perfomance 2011
 language: de
 handle: /perfmets
+categories: stimmakte
+categoriestitle: stimmakte
 exclude: true
 ---
 

@@ -3,8 +3,9 @@ layout: default
 title: CD Absurde Nacht 2015
 language: de
 handle: /cd-absurde-nacht
+categories: son
+categoriestitle: son
 exclude: true
-categories: CD
 ---
 ### CD ABSURDE NACHT 2015  
   

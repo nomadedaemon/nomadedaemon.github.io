@@ -3,6 +3,8 @@ layout: default
 title: Performance Force de l'Art 02 - Fedre 2009
 language: de
 handle: /perfforcedelart
+categories: stimmakte
+categoriestitle: stimmakte
 exclude: true
 ---
 

@@ -3,6 +3,8 @@ layout: default
 title: Serie UTOΠ 2013
 language: fr
 handle: /serie-utopie
+categories: lumen
+categoriestitle: lumen
 exclude: true
 ---
 

@@ -3,6 +3,8 @@ layout: default
 title: Serie Carneval 2014
 language: fr
 handle: /serie-carneval
+categories: lumen
+categoriestitle: lumen
 exclude: true
 ---
 

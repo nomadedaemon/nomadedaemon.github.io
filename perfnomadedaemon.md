@@ -3,6 +3,8 @@ layout: default
 title: nomade daemon Perfomance 2011
 language: de
 handle: /perfnomadedaemon
+categories: stimmakte
+categoriestitle: stimmakte
 exclude: true
 ---
 

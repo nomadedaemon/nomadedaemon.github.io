@@ -3,6 +3,8 @@ layout: default
 title: Le flottement en reste le pire 2011
 language: fr
 handle: /perfdasschweben
+categories: stimmakte
+categoriestitle: voix&nbsp;actée
 exclude: true
 ---
 

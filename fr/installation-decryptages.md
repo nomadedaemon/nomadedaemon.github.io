@@ -3,6 +3,8 @@ layout: default
 title: Installation Décryptages 2012
 language: fr
 handle: /installation-decryptages
+categories: lumen
+categoriestitle: lumen
 exclude: true
 ---
 

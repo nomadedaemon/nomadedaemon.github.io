@@ -3,6 +3,8 @@ layout: default
 title: Anders et autres Perfomance 2011
 language: de
 handle: /perfanders
+categories: stimmakte
+categoriestitle: stimmakte
 exclude: true
 ---
 

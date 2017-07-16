@@ -3,6 +3,8 @@ layout: default
 title: Starved for Sky Perfomance 2011
 language: de
 handle: /perfstarvedforsky
+categories: stimmakte
+categoriestitle: stimmakte
 exclude: true
 ---
 

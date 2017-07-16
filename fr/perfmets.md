@@ -3,6 +3,8 @@ layout: default
 title: Mots et mets Perfomance 2011
 language: fr
 handle: /perfmets
+categories: stimmakte
+categoriestitle: voix&nbsp;actée
 exclude: true
 ---
 

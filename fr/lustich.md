@@ -3,6 +3,8 @@ layout: default
 title: lust ich 2010
 language: fr
 handle: /lustich
+categories: mots
+categoriestitle: mots
 exclude: true
 ---
 

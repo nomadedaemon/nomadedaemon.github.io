@@ -3,6 +3,8 @@ layout: default
 title: Grafikkalender 2011
 language: fr
 handle: /grafikkalender
+categories: mots
+categoriestitle: mots
 exclude: true
 ---
 

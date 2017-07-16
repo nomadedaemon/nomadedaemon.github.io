@@ -3,6 +3,8 @@ layout: default
 title: Ptolomäische Felder 2011
 language: de
 handle: /ptolomaische-felder
+categories: mots
+categoriestitle: mots
 exclude: true
 ---
 

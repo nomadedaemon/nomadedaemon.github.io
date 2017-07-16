@@ -3,6 +3,8 @@ layout: default
 title: loveiathan Lecture & Musique 2010
 language: fr
 handle: /perfloveiathan
+categories: stimmakte
+categoriestitle: voix&nbsp;actée
 exclude: true
 ---
 

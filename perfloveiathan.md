@@ -3,6 +3,8 @@ layout: default
 title: loveiathan Lesung & Musik 2010
 language: de
 handle: /perfloveiathan
+categories: stimmakte
+categoriestitle: stimmakte
 exclude: true
 ---
 

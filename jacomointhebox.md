@@ -3,6 +3,8 @@ layout: default
 title: Jacomo in the box 2010
 language: de
 handle: /jacomointhebox
+categories: mots
+categoriestitle: mots
 exclude: true
 ---
 

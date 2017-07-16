@@ -3,6 +3,8 @@ layout: default
 title: Carneval 2014
 language: de
 handle: /carneval
+categories: mots
+categoriestitle: mots
 exclude: true
 ---
 

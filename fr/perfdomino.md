@@ -3,6 +3,8 @@ layout: default
 title: Domino 2014
 language: fr
 handle: /perfdomino
+categories: stimmakte
+categoriestitle: voix&nbsp;actée
 exclude: true
 ---
 

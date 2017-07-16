@@ -3,6 +3,8 @@ layout: default
 title: Serie 3 figures à 4 mains 2012
 language: fr
 handle: /serie-3figuren
+categories: lumen
+categoriestitle: lumen
 exclude: true
 ---
 

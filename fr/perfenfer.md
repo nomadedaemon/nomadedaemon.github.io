@@ -3,6 +3,8 @@ layout: default
 title: l'enfer du décor Perfomance 2011
 language: fr
 handle: /perfenfer
+categories: stimmakte
+categoriestitle: voix&nbsp;actée
 exclude: true
 ---
 

@@ -3,6 +3,8 @@ layout: default
 title: Domino 2014
 language: de
 handle: /perfdomino
+categories: stimmakte
+categoriestitle: stimmakte
 exclude: true
 ---
 

@@ -3,6 +3,8 @@ layout: default
 title: nomade daemon Perfomance 2011
 language: fr
 handle: /perfnomadedaemon
+categories: stimmakte
+categoriestitle: voix&nbsp;actée
 exclude: true
 ---
 

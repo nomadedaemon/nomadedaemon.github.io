@@ -3,6 +3,8 @@ layout: default
 title: Coup(o)les 2013
 language: de
 handle: /perfcoupoles
+categories: stimmakte
+categoriestitle: stimmakte
 exclude: true
 ---
 

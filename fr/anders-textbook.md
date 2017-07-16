@@ -3,6 +3,8 @@ layout: default
 title: Anders Livre de textes 2012
 language: fr
 handle: /anders-textbook
+categories: mots
+categoriestitle: mots
 exclude: true
 ---
 

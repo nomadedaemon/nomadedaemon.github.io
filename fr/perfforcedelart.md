@@ -3,6 +3,8 @@ layout: default
 title: Performance Force de l'Art 02 - Fedre 2009
 language: fr
 handle: /perfforcedelart
+categories: stimmakte
+categoriestitle: voix&nbsp;actée
 exclude: true
 ---
 <a rel="lightbox" data-lightbox="example-1" href="/galeries/performance-forcedelart/DSCF0664.jpg" title="Performance Fedre Force de l'art 02 Grand Palais 2009"><img src="/galeries/performance-forcedelart/DSCF0664.jpg" alt="Performance Fedre Force de l'art 02 Grand Palais 2009" class="img-left"></a>

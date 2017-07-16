@@ -3,6 +3,8 @@ layout: default
 title: loveiathan 2010
 language: fr
 handle: /loveiathan
+categories: mots
+categoriestitle: mots
 exclude: true
 ---
 

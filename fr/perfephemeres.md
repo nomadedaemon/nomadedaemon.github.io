@@ -3,6 +3,8 @@ layout: default
 title: EMBAUMÉS/DÉBAUCHÉS 2012
 language: fr
 handle: /perfephemeres
+categories: stimmakte
+categoriestitle: voix&nbsp;actée
 exclude: true
 ---
 

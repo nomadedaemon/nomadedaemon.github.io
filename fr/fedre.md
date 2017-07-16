@@ -3,6 +3,8 @@ layout: default
 title: Fedre et le vilain petit Icare 2009
 language: fr
 handle: /fedre
+categories: mots
+categoriestitle: mots
 exclude: true
 ---
 

@@ -3,6 +3,8 @@ layout: default
 title: Installation Table des matières 2014
 language: de
 handle: /installation-tabledesmatieres
+categories: lumen
+categoriestitle: lumen
 exclude: true
 ---
 

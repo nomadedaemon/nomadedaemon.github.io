@@ -3,6 +3,8 @@ layout: default
 title: Anders et autres Perfomance 2011
 language: fr
 handle: /perfanders
+categories: stimmakte
+categoriestitle: voix&nbsp;actée
 exclude: true
 ---
 

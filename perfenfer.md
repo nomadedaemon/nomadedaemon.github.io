@@ -3,6 +3,8 @@ layout: default
 title: l'enfer du décor Perfomance 2011
 language: de
 handle: /perfenfer
+categories: stimmakte
+categoriestitle: stimmakte
 exclude: true
 ---
 

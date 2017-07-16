@@ -3,6 +3,8 @@ layout: default
 title: Verschiedene Zeichnungen
 language: de
 handle: /serie-verschiedene
+categories: lumen
+categoriestitle: lumen
 exclude: true
 ---
 

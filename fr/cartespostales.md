@@ -3,6 +3,8 @@ layout: default
 title: Cartes postales 2012
 language: fr
 handle: /cartespostales
+categories: mots
+categoriestitle: mots
 exclude: true
 ---
 

@@ -3,6 +3,8 @@ layout: default
 title: Coup(o)les 2013
 language: fr
 handle: /perfcoupoles
+categories: stimmakte
+categoriestitle: voix&nbsp;actée
 exclude: true
 ---
 

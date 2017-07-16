@@ -3,6 +3,8 @@ layout: default
 title: Maisons Daura - THE GOD PERTICLE 2012
 language: fr
 handle: /perfgodparticle
+categories: stimmakte
+categoriestitle: voix&nbsp;actée
 exclude: true
 ---
 

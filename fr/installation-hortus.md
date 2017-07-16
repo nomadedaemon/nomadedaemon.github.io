@@ -3,6 +3,8 @@ layout: default
 title: Installation Hortus Medicus Calvignac 2012
 language: fr
 handle: /installation-hortus
+categories: lumen
+categoriestitle: lumen
 exclude: true
 ---
 

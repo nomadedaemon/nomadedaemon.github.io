@@ -3,6 +3,8 @@ layout: default
 title: Postkarten 2012
 language: de
 handle: /cartespostales
+categories: mots
+categoriestitle: mots
 exclude: true
 ---
 

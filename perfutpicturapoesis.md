@@ -3,6 +3,8 @@ layout: default
 title: Ut pictura poesis 2014
 language: de
 handle: /perfutpicturapoesis
+categories: stimmakte
+categoriestitle: stimmakte
 exclude: true
 ---
 

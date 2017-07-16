@@ -67,7 +67,7 @@ function topFunction() {
     </navcont>
     <header>
       <h1>{{ site.name[page.language] }}</h1>
-      <p>{{ site.subtitle[page.language] }} :: {{ page.title }}</p>
+      <p>{{ site.subtitle[page.language] }} :: {% if page.categories %}<a href="{{ page.categories | prepend: "../" }}">{{ page.categoriestitle }}</a> :: {% endif %}{{ page.title }}</p>
     </header>
 
     <main>

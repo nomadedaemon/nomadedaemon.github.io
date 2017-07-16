@@ -3,6 +3,8 @@ layout: default
 title: Anders Textbuch 2012
 language: de
 handle: /anders-textbook
+categories: mots
+categoriestitle: mots
 exclude: true
 ---
 

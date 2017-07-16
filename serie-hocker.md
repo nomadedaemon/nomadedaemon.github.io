@@ -3,6 +3,8 @@ layout: default
 title: Serie Hocker 2013
 language: de
 handle: /serie-hocker
+categories: lumen
+categoriestitle: lumen
 exclude: true
 ---
 
