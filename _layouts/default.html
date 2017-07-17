@@ -20,9 +20,7 @@
     <script src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
   </head>
   <body>
-	  
-	  <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
-
+  <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
 <script>
 // When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
@@ -54,8 +52,7 @@ function topFunction() {
       {% endunless %}
       {% endfor %}   
     </nav>
-   
-    
+      
     <nav class="language-switcher">
       {% if page.name contains "index" %}
         <a class="de" href="{{ site.baseurl }}/">de</a>
