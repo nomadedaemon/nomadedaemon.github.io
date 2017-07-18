@@ -13,7 +13,7 @@ keywords:
 footer:
   de: Alle Inhalte von [Ernesto Castillo](/about/) © 2017
   fr: Tous les contenus [Ernesto Castillo](/fr/about/) © 2017
-exclude: [README.md]
+exclude: [README.md, _images-alt, _galeries-alt]
 permalink: pretty
 repository: https://github.com/nomadedaemon/nomadedaemon.github.io
 # baseurl: https://nomadedaemon.github.io
