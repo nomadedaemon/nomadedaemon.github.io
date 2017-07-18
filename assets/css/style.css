@@ -16,6 +16,11 @@
     overflow: hidden;
     height: 4.8em;
 }
+header a.active {
+font-weight: 600;
+color:#000000;
+}
+
  nav a.active {
 font-weight: 600;
 }

@@ -46,9 +46,8 @@ function topFunction() {
       {% for p in pages %}
       {% unless p.exclude %}
         {% if p.language == page.language %} 
-        
-          <a href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>
-        {% endif %}
+        <a {% if p.url == page.url %} class="active" {% elsif p.url contains page.categories %} class="active"{% endif %} href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>            
+        {% endif%}
       {% endunless %}
       {% endfor %}   
     </nav>
@@ -65,7 +64,7 @@ function topFunction() {
     </navcont>
     <header>
       <h1>{{ site.name[page.language] }}</h1>
-      <p>{{ site.subtitle[page.language] }} :: {% if page.categories %}<a href="{{ page.categories | prepend: "../" }}">{{ page.categoriestitle }}</a> :: {% endif %}{{ page.title }}</p>
+      <p>{{ site.subtitle[page.language] }} :: {% if page.categories %}<a  class="active" href="{{ page.categories | prepend: "../" }}">{{ page.categoriestitle }}</a> :: {% endif %}{{ page.title }}</p>
     </header>
 
     <main>
