@@ -8,7 +8,7 @@ categoriestitle: lumen
 exclude: true
 ---
 
-<a rel="lightbox" data-lightbox="example-1" href="/galeries/serie-hocker/holofernes-web.jpg" title="Holofernes rest in the kitchen"><img src="/galeries/serie-utopie/der-drollige-barbarossa-web.jpg" alt="Holofernes rest in the kitchen" class="img-left"></a>
+<a rel="lightbox" data-lightbox="example-1" href="/galeries/serie-hocker/holofernes-web.jpg" title="Holofernes rest in the kitchen"><img src="/galeries/serie-hocker/holofernes-web.jpg" alt="Holofernes rest in the kitchen" class="img-left"></a>
 #### Serie Hocker 2013  
   
 Dessins  
