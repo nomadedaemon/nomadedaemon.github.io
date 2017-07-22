@@ -6,8 +6,6 @@ handle: /about
 nav-order: 6
 ---
 ### Ernesto Castillo  
-Né en 1970 à Leipzig, Allemagne, vit et travaille en France  
-  
   
 ### Livres et Éditions
 *Carneval*, avec Frédérique Loutz &amp; Marta Rueda, 2014  

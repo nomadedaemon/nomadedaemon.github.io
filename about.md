@@ -6,8 +6,6 @@ handle: /about
 nav-order: 6
 ---
 ### Ernesto Castillo  
-*1970 Leipzig DE, lebt und arbeitet in Frankreich  
-  
   
 ### Bücher und Editionen  
   
