@@ -5,7 +5,7 @@ language: de
 handle: /about
 nav-order: 6
 ---
-### Ernesto Castillo  
+### Ernestor Castillo  
   
 ### Bücher und Editionen  
   
