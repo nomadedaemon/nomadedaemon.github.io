@@ -5,7 +5,7 @@ language: de
 handle: /about
 nav-order: 6
 ---
-### Ernesto Castillo  test neue compi
+### Ernesto Castillo
   
 ### Bücher und Editionen  
   
