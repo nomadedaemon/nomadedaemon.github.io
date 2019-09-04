@@ -14,7 +14,7 @@ exclude: true
 Lesung & Musik  
 "loveiathan" 
 
-Presentation & Signatur des  
+Presentation und Signatur des  
 Lyrikbandes [„loveiathan“](/loveiathan "loveiathan")  
 erschienen bei [*VOIX*éditions](http://www.voixeditions.com/?s=Castillo"){:target="_blank"} 2010  
 im Rahmen der Ausstellung “le bal à jau” am 24 Juli 2010  
