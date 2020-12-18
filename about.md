@@ -81,9 +81,10 @@ nav-order: 6
  
 ### Auszeichnungen/Residenzen (Auswahl)  
   
+Finalist beim *Dresdener Lyrikpreis* 2020  
 *Residenz Château de Chambord* (Château de Chambord 2013)  
 *Residenz Maisons Daura*, La Maison des Arts Georges Pompidou (Saint-Cirq-Lapopie 2012)  
-*Finalist beim Literaturwettbewerb Wartholz* (Reichenau an der Rax 2010)  
+Finalist beim *Literaturwettbewerb Wartholz* (Reichenau an der Rax 2010)  
     
 ### Öffentliche Sammlungen
 Centre Georges Pompidou, Bibliothèque nationale de France, Deutsche Nationalbibliothek, 
