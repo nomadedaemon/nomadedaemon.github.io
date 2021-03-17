@@ -25,8 +25,5 @@ Video: Absurde Nacht
   
 <iframe width="100%" height="480" src="https://www.youtube.com/embed/9AtioloFQyI?rel=0" frameborder="0" allowfullscreen></iframe>  
   
-<!-- Lyrikband: Semantik &#38; Augentrost - Nullszenen  
-  
-<iframe width="100%" height="480" src="//v.calameo.com/?bkcode=0013666879ce51983b861&mode=mini&view=book&showsharemenu=false&clickto=embed&authid=YNvQKFgEAJBt" frameborder="0" allowfullscreen></iframe> 
--->
+
   
