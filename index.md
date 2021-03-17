@@ -27,5 +27,5 @@ Video: Absurde Nacht
   
 Lyrikmanuskript: Semantik & Augentrost  
   
-<div style="text-align:center;"><div style="margin:8px 0px 4px;"><a href="https://www.calameo.com/books/0013666879ce51983b861?authid=YNvQKFgEAJBt" target="_blank">Semantik &#38; Augentrost - Nullszenen</a></div><iframe src="//v.calameo.com/?bkcode=0013666879ce51983b861&mode=mini&view=book&showsharemenu=false&clickto=embed&authid=YNvQKFgEAJBt" width="100%" height="100%" frameborder="0" scrolling="no" allowtransparency allowfullscreen style="margin:0 auto;"></iframe><div style="margin:4px 0px 8px;"></div></div>
+<div style="text-align:center;"><div style="margin:8px 0px 4px;"><a href="https://www.calameo.com/books/0013666879ce51983b861?authid=YNvQKFgEAJBt" target="_blank">Lyrikband Semantik &#38; Augentrost - Nullszenen</a></div><iframe src="//v.calameo.com/?bkcode=0013666879ce51983b861&mode=mini&view=book&showsharemenu=false&clickto=embed&authid=YNvQKFgEAJBt" width="100%" height="100%" frameborder="0" scrolling="no" allowtransparency allowfullscreen style="margin:0 auto;"></iframe><div style="margin:4px 0px 8px;"></div></div>
   
