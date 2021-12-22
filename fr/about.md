@@ -80,9 +80,10 @@ nav-order: 6
   
 ### Prix et Résidences (sélection)  
   
+2020 Nominé pour le *Dresdener Lyrikpreis*, Dresden, Allemagne      
 2013 *Château de Chambord*, résidence d’écrivain  
 2012 *Maisons Daura*, résidences internationales d’artistes, Région Midi Pyrénées  
-2010 *Nominé* pour le troisième Prix de Littérature Wartholz, Autriche  
+2010 Nominé pour le troisième *Literaturpreis Wartholz*, Autriche  
    
 ### Collections publiques  
   
