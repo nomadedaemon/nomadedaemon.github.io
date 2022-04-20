@@ -5,8 +5,22 @@ language: de
 handle: /son
 nav-order: 3
 ---
-## CD  
+## SON  
+   
+<a href="/100-poems" title="100 Poems"><img src="/images/100-poems.jpg" alt="omegat cover" class="img-left"></a>
+<br />    
+#### 100 Poems 2021 - 2022  
   
+MUSIC: ERNESTO CASTILLO  
+ERNESTO CASTILLO 2021 - 2022  
+100 Poems without words  
+Work in progress  
+[Weiterlesen](/100-poems)  
+<br style="clear:both" />
+<br style="clear:both" />
+
+## CD  
+
 <a href="/cd-absurde-nacht" title="CD Absurde Nacht"><img src="/images/absurde-nacht-cover-web.jpg" alt="absurde nacht cover" class="img-left"></a>
 #### CD Absurde Nacht 2015  
   
