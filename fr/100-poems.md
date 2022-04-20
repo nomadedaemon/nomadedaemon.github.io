@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 100 Poems 2021 - 2022
-language: de
+language: fr
 handle: /100-poems
 categories: son
 categoriestitle: son
