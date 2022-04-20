@@ -34,10 +34,10 @@ Work in progress
    <p>Your browser does not support HTML5 audio :(</p>
 </audio>  
   
- <hr style="height:1px;border-width:0;color:gray;background-color:gray">
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
   
 #### Four seasons by the sea - Impromptus (2022)  
-
+  
 1. So simple  
 2. Seashore  
 3. Swann  
@@ -51,7 +51,7 @@ Work in progress
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
   
 #### Distant voices - Five appearences (2022)  
-
+  
 1. Des Pirol  
 2. Petitesse  
 3. Disdance  
@@ -65,20 +65,6 @@ Work in progress
   
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">  
   
-#### Four seasons by the sea - Impromptus (2022)  
-
-1. So simple  
-2. Seashore  
-3. Swann  
-4. Rason  
-  
-<audio controls>
-   <source src="http://docs.google.com/uc?export=open&id=1rNLtky_xgWF20TKE_Li3RuLLxC-bEmit" type="audio/mp3">
-   <p>Your browser does not support HTML5 audio :(</p>
-</audio>  
-  
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
-
 #### Chromatonie - Triadisches Ballet - Gelb - Rosa - Schwarz (2021)  
   
 Musik für das Triadische Ballet von Oskar Schlemmer  
@@ -102,7 +88,7 @@ Musik für das Triadische Ballet von Oskar Schlemmer
 </audio>  
   
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">
-
+  
 #### Counterwise (2022)  
   
 <audio controls>
@@ -110,10 +96,66 @@ Musik für das Triadische Ballet von Oskar Schlemmer
    <p>Your browser does not support HTML5 audio :(</p>
 </audio>  
 
-#### Reverse autumn still lasting in a park in Paris (2022)  
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+#### Des cotes (2022)  
+  
+<audio controls>
+   <source src="http://docs.google.com/uc?export=open&id=1dkqrfExqSIMlx_FnUBLDoMgibzQ7Ou8E" type="audio/mp3">
+   <p>Your browser does not support HTML5 audio :(</p>
+</audio>  
+  
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+  
+#### La mer obsolete (2022)  
+  
+<audio controls>
+   <source src="http://docs.google.com/uc?export=open&id=1udaHcdJCUs6G3tKyQwNh-CiKzWKBk9UL" type="audio/mp3">
+   <p>Your browser does not support HTML5 audio :(</p>
+</audio>  
+  
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+  
+#### Aequor (2022)  
+  
+<audio controls>
+   <source src="http://docs.google.com/uc?export=open&id=1YrMiJfTFdK3r7uo5H2P7pvMw0cOZZVx0" type="audio/mp3">
+   <p>Your browser does not support HTML5 audio :(</p>
+</audio>  
+  
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+  
+#### Reveille (2022)  
+  
+<audio controls>
+   <source src="http://docs.google.com/uc?export=open&id=1waULj1SRQVGbi1KSv-gdYZpCOsdvVuFU" type="audio/mp3">
+   <p>Your browser does not support HTML5 audio :(</p>
+</audio>  
+  
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+  
+#### Reverse autumn still lasting in a park in Paris (2021)  
   
 <audio controls>
    <source src="http://docs.google.com/uc?export=open&id=1DqhO4M6lUjEj1-Jhh5wuxtRt3hGh6iZ3" type="audio/mp3">
+   <p>Your browser does not support HTML5 audio :(</p>
+</audio>  
+  
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+  
+#### Loose leaves (2021)  
+  
+<audio controls>
+   <source src="http://docs.google.com/uc?export=open&id=11jtowDbVBLJszqvjto5uxOGlr6LHg6oy" type="audio/mp3">
+   <p>Your browser does not support HTML5 audio :(</p>
+</audio>  
+  
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+#### Interlude (2021)  
+  
+<audio controls>
+   <source src="http://docs.google.com/uc?export=open&id=1qbHmTyTcczGYvthf2v5kHZaEa9EKT3MV" type="audio/mp3">
    <p>Your browser does not support HTML5 audio :(</p>
 </audio>  
   
