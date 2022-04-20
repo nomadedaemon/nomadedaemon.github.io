@@ -65,8 +65,20 @@ Work in progress
   
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">  
   
+#### Four seasons by the sea - Impromptus (2022)  
 
+1. So simple  
+2. Seashore  
+3. Swann  
+4. Rason  
   
+<audio controls>
+   <source src="http://docs.google.com/uc?export=open&id=1rNLtky_xgWF20TKE_Li3RuLLxC-bEmit" type="audio/mp3">
+   <p>Your browser does not support HTML5 audio :(</p>
+</audio>  
+  
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
 #### Chromatonie - Triadisches Ballet - Gelb - Rosa - Schwarz (2021)  
   
 Musik für das Triadische Ballet von Oskar Schlemmer  
@@ -82,24 +94,26 @@ Musik für das Triadische Ballet von Oskar Schlemmer
   
 <hr style="height:1px;border-width:0;color:gray;background-color:gray">  
 
-#### Four seasons by the sea - Impromptus (2022)  
-
-1. So simple  
-2. Seashore  
-3. Swann  
-4. Rason  
-  
-<audio controls>
-   <source src="http://docs.google.com/uc?export=open&id=1rNLtky_xgWF20TKE_Li3RuLLxC-bEmit" type="audio/mp3">
-   <p>Your browser does not support HTML5 audio :(</p>
-</audio>  
-  
-<hr style="height:1px;border-width:0;color:gray;background-color:gray">
-  
 #### Archaic (2022)  
   
 <audio controls>
    <source src="http://docs.google.com/uc?export=open&id=1dxv6Y0MgogMkU7mVM5SsfbltzHL0g6wA" type="audio/mp3">
+   <p>Your browser does not support HTML5 audio :(</p>
+</audio>  
+  
+<hr style="height:1px;border-width:0;color:gray;background-color:gray">
+
+#### Counterwise (2022)  
+  
+<audio controls>
+   <source src="http://docs.google.com/uc?export=open&id=1spYV6aQGqQ6i7zQ7sgeDoPde5IIHWMcm" type="audio/mp3">
+   <p>Your browser does not support HTML5 audio :(</p>
+</audio>  
+
+#### Reverse autumn still lasting in a park in Paris (2022)  
+  
+<audio controls>
+   <source src="http://docs.google.com/uc?export=open&id=1DqhO4M6lUjEj1-Jhh5wuxtRt3hGh6iZ3" type="audio/mp3">
    <p>Your browser does not support HTML5 audio :(</p>
 </audio>  
   
