@@ -17,6 +17,7 @@
     <link rel="stylesheet" href="/assets/css/lightbox.min.css">
     <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
     <script src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+
   </head>
   <body>
   <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
@@ -278,201 +279,1036 @@ function topFunction() {
       <h1>Ernesto Castillo</h1>
       <p>mots el son :: <a  class="active" href="../son">son</a> :: 100 Poems 2021 - 2022</p>
     </header>
+  
+<style>
+@charset "UTF-8";
+@import "//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.css";
+.screen-reader-text {
+  /* Reusable, toolbox kind of class */
+  position: absolute;
+  top: -9999px;
+  left: -9999px;
+}
 
+.disabled {
+  color: #666;
+  cursor: default;
+}
+
+.show {
+  display: inline-block !important;
+}
+
+//body {
+  margin: 10px 0 0 0;
+}
+body .container {
+  font-family: arial, helvetica, sans-serif;
+  font-size: 1em;
+  margin: 0 auto;
+  width: 500px;
+}
+body .container .player {
+  height: 60px;
+  margin: 0;
+  position: relative;
+  width: 400px;
+  /* Small devices (tablets, 768px and up) */
+  /* Medium devices (desktops, 992px and up) */
+  /* Large devices (large desktops, 1200px and up) */
+  *zoom: 1;
+}
+@media (min-width: 768px) and (max-width: 991px) {
+  body .container .player {
+    width: 470px;
+  }
+}
+@media (min-width: 992px) and (max-width: 1100px) {
+  body .container .player {
+    width: 470px;
+  }
+}
+@media (min-width: 1200px) {
+  body .container .player {
+    width: 470px;
+  }
+}
+body .container .player .large-toggle-btn {
+  border: 1px solid #d9d9d9;
+  border-radius: 2px;
+  float: left;
+  font-size: 1.5em;
+  height: 50px;
+  margin: 0 10px 0 0;
+  overflow: hidden;
+  padding: 5px 0 0 0;
+  position: relative;
+  text-align: center;
+  vertical-align: bottom;
+  width: 54px;
+}
+body .container .player .large-toggle-btn .large-play-btn {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  top: -14%;
+}
+body .container .player .large-toggle-btn .large-play-btn:before {
+  content: "";
+  font: 1.5em/1.75 "FontAwesome";
+}
+body .container .player .large-toggle-btn .large-pause-btn {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  top: -13%;
+}
+body .container .player .large-toggle-btn .large-pause-btn:before {
+  content: "";
+  font: 1.5em/1.75 "FontAwesome";
+}
+body .container .player .info-box {
+  bottom: 10px;
+  left: 65px;
+  position: absolute;
+  top: 15px;
+}
+body .container .player .info-box .track-info-box {
+  float: left;
+  font-size: 12px;
+  margin: 0 0 6px 0;
+  visibility: hidden;
+  width: 400px;
+  *zoom: 1;
+}
+body .container .player .info-box .track-info-box .track-title-text {
+  display: inline-block;
+}
+body .container .player .info-box .track-info-box .audio-time {
+  display: inline-block;
+  padding: 0 0 0 5px;
+  width: 80px;
+}
+body .container .player .info-box .track-info-box:before, body .container .player .info-box .track-info-box:after {
+  content: " ";
+  display: table;
+}
+body .container .player .info-box .track-info-box:after {
+  clear: both;
+  display: block;
+  font-size: 0;
+  height: 0;
+  visibility: hidden;
+}
+body .container .player .progress-box {
+  float: left;
+  min-width: 270px;
+  position: relative;
+}
+body .container .player .progress-box .progress-cell {
+  height: 12px;
+  position: relative;
+}
+body .container .player .progress-box .progress-cell .progress {
+  background: #fff;
+  border: 1px solid #d9d9d9;
+  height: 8px;
+  position: relative;
+  width: auto;
+}
+body .container .player .progress-box .progress-cell .progress .progress-buffer {
+  background: #337ab7;
+  height: 100%;
+  width: 0;
+}
+body .container .player .progress-box .progress-cell .progress .progress-indicator {
+  background: #fff;
+  border: 1px solid #bebebe;
+  border-radius: 3px;
+  cursor: pointer;
+  height: 10px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: -2px;
+  width: 22px;
+}
+body .container .player .controls-box {
+  bottom: 10px;
+  left: 350px;
+  position: absolute;
+}
+body .container .player .controls-box .previous-track-btn {
+  cursor: pointer;
+  display: inline-block;
+}
+body .container .player .controls-box .previous-track-btn:before {
+  content: "";
+  font: 1em "FontAwesome";
+}
+body .container .player .controls-box .next-track-btn {
+  cursor: pointer;
+  display: inline-block;
+}
+body .container .player .controls-box .next-track-btn:before {
+  content: "";
+  font: 1em "FontAwesome";
+}
+body .container .player:before, body .container .player:after {
+  content: " ";
+  display: table;
+}
+body .container .player:after {
+  clear: both;
+  display: block;
+  font-size: 0;
+  height: 0;
+  visibility: hidden;
+}
+body .container .play-list {
+  display: block;
+  margin: 0 auto 20px auto;
+  width: 100%;
+}
+body .container .play-list .play-list-row {
+  display: block;
+  margin: 10px 0;
+  width: 100%;
+  *zoom: 1;
+}
+body .container .play-list .play-list-row .track-title .playlist-track {
+  color: #000;
+  text-decoration: none;
+}
+body .container .play-list .play-list-row .track-title .playlist-track:hover {
+  text-decoration: underline;
+}
+body .container .play-list .play-list-row .small-toggle-btn {
+  border: 1px solid #d9d9d9;
+  border-radius: 2px;
+  cursor: pointer;
+  display: inline-block;
+  height: 20px;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  text-align: center;
+  vertical-align: middle;
+  width: 20px;
+}
+body .container .play-list .play-list-row .small-toggle-btn .small-play-btn {
+  display: inline-block;
+}
+body .container .play-list .play-list-row .small-toggle-btn .small-play-btn:before {
+  content: "";
+  font: 0.85em "FontAwesome";
+}
+body .container .play-list .play-list-row .small-toggle-btn .small-pause-btn {
+  display: inline-block;
+}
+body .container .play-list .play-list-row .small-toggle-btn .small-pause-btn:before {
+  content: "";
+  font: 0.85em "FontAwesome";
+}
+body .container .play-list .play-list-row .track-number {
+  display: inline-block;
+}
+body .container .play-list .play-list-row .track-title {
+  display: inline-block;
+}
+body .container .play-list .play-list-row .track-title .playlist-track {
+  text-decoration: none;
+}
+body .container .play-list .play-list-row .track-title .playlist-track:hover {
+  text-decoration: underline;
+}
+body .container .play-list .play-list-row .track-title.active-track {
+  font-weight: bold;
+}
+body .container .play-list .play-list-row:before, body .container .play-list .play-list-row:after {
+  content: " ";
+  display: table;
+}
+body .container .play-list .play-list-row:after {
+  clear: both;
+  display: block;
+  font-size: 0;
+  height: 0;
+  visibility: hidden;
+}
+</style>
+
+  <script>
+  window.console = window.console || function(t) {};
+</script>
+
+  
+  
+  <script>
+  if (document.location.search.match(/type=embed/gi)) {
+    window.parent.postMessage("resize", "*");
+  }
+</script>
+
+
+</head>
+
+<body translate="no" >
     <main>
-      <h3 id="100-poems-2021---2022">100 Poems 2021 - 2022</h3>
+      <h2 id="100-poems-2021---2022">100 Poems 2021 - 2022</h2>
 <p><a href="/100-poems" title="100 Poems"><a rel="lightbox" data-lightbox="example-1" href="/images/100-poems.jpg" title="100 Poems Cover"><img src="/images/100-poems.jpg" alt="100 Poems Cover" class="img-left" /></a></a></p>
 
-<p><br /><br />
-MUSIC: ERNESTO CASTILLO<br />
+<p><br /></p>
+
+<p>MUSIC: ERNESTO CASTILLO<br />
 ERNESTO CASTILLO 2021 - 2022<br />
 100 Poems without words<br />
 Work in progress<br />
 <br style="clear:both" />
 <br style="clear:both" /></p>
-<h4 id="phases-0---8-2022">Phases 0 - 8 (2022)</h4>
 
-<p>Zero. Phase Zero</p>
-<ol>
-  <li>Phase One - Drown</li>
-  <li>Phase Two - Allegro tumultuoso</li>
-  <li>Phase Three - Incertain reveille</li>
-  <li>Phase Four - Interlude</li>
-  <li>Phase Five - Maybe</li>
-  <li>Phase Six - Disjunction</li>
-  <li>Phase Seven - Tilt</li>
-  <li>Phase eight - One eight fifty seven</li>
-</ol>
+<div class="container">
+  <audio id="audio" preload="none" tabindex="0">
+    			<source src="http://docs.google.com/uc?export=open&amp;id=152YUBAjA7D1ZxvYMevCS3AAZD7ck-7nx" data-track-number="1" />
+    			<source src="http://docs.google.com/uc?export=open&amp;id=1rNLtky_xgWF20TKE_Li3RuLLxC-bEmit" data-track-number="2" />
+    			<source src="http://docs.google.com/uc?export=open&amp;id=1ndiUgy3R5d9oXFdPYlc_O2mn6Hz3nuKH" data-track-number="3" />
+    			<source src="http://docs.google.com/uc?export=open&amp;id=1V-qdAlEX-PSYUaaiKTNuJEa5F4rqHZeB" data-track-number="4" />
+    			<source src="http://docs.google.com/uc?export=open&amp;id=1Pb8L6I0rFvQ_h7zB43tWjR744XGBLIgW" data-track-number="5" />    
+    			<source src="http://docs.google.com/uc?export=open&amp;id=1dxv6Y0MgogMkU7mVM5SsfbltzHL0g6wA" data-track-number="6" />
+    			<source src="http://docs.google.com/uc?export=open&amp;id=1spYV6aQGqQ6i7zQ7sgeDoPde5IIHWMcm" data-track-number="7" />
+    			<source src="http://docs.google.com/uc?export=open&amp;id=1dkqrfExqSIMlx_FnUBLDoMgibzQ7Ou8E" data-track-number="8" />
+                <source src="http://docs.google.com/uc?export=open&amp;id=1udaHcdJCUs6G3tKyQwNh-CiKzWKBk9UL" data-track-number="9" />
+                <source src="http://docs.google.com/uc?export=open&amp;id=1YrMiJfTFdK3r7uo5H2P7pvMw0cOZZVx0" data-track-number="10" />
+                <source src="http://docs.google.com/uc?export=open&amp;id=1waULj1SRQVGbi1KSv-gdYZpCOsdvVuFU" data-track-number="11" />
+                <source src="http://docs.google.com/uc?export=open&amp;id=1LRng2Xoa-pdV3b1Er1wh64senblfW1Lx" data-track-number="12" />
+                <source src="http://docs.google.com/uc?export=open&amp;id=1DqhO4M6lUjEj1-Jhh5wuxtRt3hGh6iZ3" data-track-number="13" />
+                <source src="http://docs.google.com/uc?export=open&amp;id=11jtowDbVBLJszqvjto5uxOGlr6LHg6oy" data-track-number="14" />
+                <source src="http://docs.google.com/uc?export=open&amp;id=1qbHmTyTcczGYvthf2v5kHZaEa9EKT3MV" data-track-number="15" />
+                <source src="http://docs.google.com/uc?export=open&amp;id=1WGqjHsYUYZzCvCfy-8fTQJzjxl8AlDWl" data-track-number="16" />
+    			Your browser does not support HTML5 audio.
+    		</audio>
 
-<audio controls="">
-   <source src="http://docs.google.com/uc?export=open&amp;id=152YUBAjA7D1ZxvYMevCS3AAZD7ck-7nx" type="audio/mp3" />
-   <p>Your browser does not support HTML5 audio :(</p>
-</audio>
+  <div class="player">
 
-<hr style="height:1px;border-width:0;color:gray;background-color:gray" />
+    <div class="large-toggle-btn">
+      <i class="large-play-btn"><span class="screen-reader-text">Large toggle button</span></i>
+    </div>
+    <!-- /.play-box -->
 
-<h4 id="four-seasons-by-the-sea---impromptus-2022">Four seasons by the sea - Impromptus (2022)</h4>
+    <div class="info-box">
+      <div class="track-info-box">
+        <div class="track-title-text"></div>
+        <div class="audio-time">
+          <span class="current-time">00:00</span> /
+          <span class="duration">00:00</span>
+        </div>
+      </div>
+      <!-- /.info-box -->
 
-<ol>
-  <li>So simple</li>
-  <li>Seashore</li>
-  <li>Swann</li>
-  <li>Rason</li>
-</ol>
+      <div class="progress-box">
+        <div class="progress-cell">
+          <div class="progress">
+            <div class="progress-buffer"></div>
+            <div class="progress-indicator"></div>
+          </div>
+        </div>
+      </div>
 
-<audio controls="">
-   <source src="http://docs.google.com/uc?export=open&amp;id=1rNLtky_xgWF20TKE_Li3RuLLxC-bEmit" type="audio/mp3" />
-   <p>Your browser does not support HTML5 audio :(</p>
-</audio>
+    </div>
+    <!-- /.progress-box -->
 
-<hr style="height:1px;border-width:0;color:gray;background-color:gray" />
+    <div class="controls-box">
+      <i class="previous-track-btn disabled"><span class="screen-reader-text">Previous track button</span></i>
+      <i class="next-track-btn"><span class="screen-reader-text">Next track button</span></i>
+    </div>
+    <!-- /.controls-box -->
 
-<h4 id="distant-voices---five-appearences-2022">Distant voices - Five appearences (2022)</h4>
+  </div>
+  <!-- /.player -->
 
-<ol>
-  <li>Des Pirol</li>
-  <li>Petitesse</li>
-  <li>Disdance</li>
-  <li>Dissonata</li>
-  <li>Redux</li>
-</ol>
+  <div class="play-list">
 
-<audio controls="">
-   <source src="http://docs.google.com/uc?export=open&amp;id=1ndiUgy3R5d9oXFdPYlc_O2mn6Hz3nuKH" type="audio/mp3" />
-   <p>Your browser does not support HTML5 audio :(</p>
-</audio>
-
-<hr style="height:1px;border-width:0;color:gray;background-color:gray" />
-
-<h4 id="chromatonie---triadisches-ballet---gelb---rosa---schwarz-2021">Chromatonie - Triadisches Ballet - Gelb - Rosa - Schwarz (2021)</h4>
-
-<p>Musik für das Triadische Ballet von Oskar Schlemmer</p>
-
-<ol>
-  <li>Chromatonie Gelb</li>
-  <li>Chromatonie Rosa</li>
-  <li>Chromatonie Schwarz</li>
-</ol>
-
-<audio controls="">
-   <source src="http://docs.google.com/uc?export=open&amp;id=1V-qdAlEX-PSYUaaiKTNuJEa5F4rqHZeB" type="audio/mp3" />
-   <p>Your browser does not support HTML5 audio :(</p>
-</audio>
-
-<iframe width="100%" height="400px" src="https://drive.google.com/file/d/17LVPvgvnCtKAqQRm6ve6sowisjPESdjK/preview"></iframe>
-
-<hr style="height:1px;border-width:0;color:gray;background-color:gray" />
-
-<h4 id="deep-field-2022">Deep field (2022)</h4>
-
-<audio controls="">
-   <source src="http://docs.google.com/uc?export=open&amp;id=1Pb8L6I0rFvQ_h7zB43tWjR744XGBLIgW" type="audio/mp3" />
-   <p>Your browser does not support HTML5 audio :(</p>
-</audio>
-
-<hr style="height:1px;border-width:0;color:gray;background-color:gray" />
-
-<h4 id="archaic-2022">Archaic (2022)</h4>
-
-<audio controls="">
-   <source src="http://docs.google.com/uc?export=open&amp;id=1dxv6Y0MgogMkU7mVM5SsfbltzHL0g6wA" type="audio/mp3" />
-   <p>Your browser does not support HTML5 audio :(</p>
-</audio>
-
-<hr style="height:1px;border-width:0;color:gray;background-color:gray" />
-
-<h4 id="counterwise-2022">Counterwise (2022)</h4>
-
-<audio controls="">
-   <source src="http://docs.google.com/uc?export=open&amp;id=1spYV6aQGqQ6i7zQ7sgeDoPde5IIHWMcm" type="audio/mp3" />
-   <p>Your browser does not support HTML5 audio :(</p>
-</audio>
-
-<hr style="height:1px;border-width:0;color:gray;background-color:gray" />
-
-<h4 id="des-cotes-2022">Des cotes (2022)</h4>
-
-<audio controls="">
-   <source src="http://docs.google.com/uc?export=open&amp;id=1dkqrfExqSIMlx_FnUBLDoMgibzQ7Ou8E" type="audio/mp3" />
-   <p>Your browser does not support HTML5 audio :(</p>
-</audio>
-
-<hr style="height:1px;border-width:0;color:gray;background-color:gray" />
-
-<h4 id="la-mer-obsolete-2022">La mer obsolete (2022)</h4>
-
-<audio controls="">
-   <source src="http://docs.google.com/uc?export=open&amp;id=1udaHcdJCUs6G3tKyQwNh-CiKzWKBk9UL" type="audio/mp3" />
-   <p>Your browser does not support HTML5 audio :(</p>
-</audio>
-
-<hr style="height:1px;border-width:0;color:gray;background-color:gray" />
-
-<h4 id="aequor-2022">Aequor (2022)</h4>
-
-<audio controls="">
-   <source src="http://docs.google.com/uc?export=open&amp;id=1YrMiJfTFdK3r7uo5H2P7pvMw0cOZZVx0" type="audio/mp3" />
-   <p>Your browser does not support HTML5 audio :(</p>
-</audio>
-
-<hr style="height:1px;border-width:0;color:gray;background-color:gray" />
-
-<h4 id="reveille-2022">Reveille (2022)</h4>
-
-<audio controls="">
-   <source src="http://docs.google.com/uc?export=open&amp;id=1waULj1SRQVGbi1KSv-gdYZpCOsdvVuFU" type="audio/mp3" />
-   <p>Your browser does not support HTML5 audio :(</p>
-</audio>
-
-<h4 id="reverse-autumn-still-lasting-in-a-park-in-paris-2021">Reverse autumn still lasting in a park in Paris (2021)</h4>
-
-<audio controls="">
-   <source src="http://docs.google.com/uc?export=open&amp;id=1DqhO4M6lUjEj1-Jhh5wuxtRt3hGh6iZ3" type="audio/mp3" />
-   <p>Your browser does not support HTML5 audio :(</p>
-</audio>
-
-<hr style="height:1px;border-width:0;color:gray;background-color:gray" />
-
-<h4 id="loose-leaves-2021">Loose leaves (2021)</h4>
-
-<audio controls="">
-   <source src="http://docs.google.com/uc?export=open&amp;id=11jtowDbVBLJszqvjto5uxOGlr6LHg6oy" type="audio/mp3" />
-   <p>Your browser does not support HTML5 audio :(</p>
-</audio>
-
-<hr style="height:1px;border-width:0;color:gray;background-color:gray" />
-
-<h4 id="interlude-2021">Interlude (2021)</h4>
-
-<audio controls="">
-   <source src="http://docs.google.com/uc?export=open&amp;id=1qbHmTyTcczGYvthf2v5kHZaEa9EKT3MV" type="audio/mp3" />
-   <p>Your browser does not support HTML5 audio :(</p>
-</audio>
-
-<hr style="height:1px;border-width:0;color:gray;background-color:gray" />
-
-<h4 id="defragmented-rain-2021">Defragmented Rain (2021)</h4>
-
-<audio controls="">
-   <source src="http://docs.google.com/uc?export=open&amp;id=1WGqjHsYUYZzCvCfy-8fTQJzjxl8AlDWl" type="audio/mp3" />
-   <p>Your browser does not support HTML5 audio :(</p>
-</audio>
-
-<iframe width="100%" height="400px" src="https://drive.google.com/file/d/1MaDs10YLIDWRpaF6rvQ4hzHuHCFWOjbY/preview"></iframe>
-
-<hr style="height:1px;border-width:0;color:gray;background-color:gray" />
-
+    <div class="play-list-row" data-track-row="1">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        1.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="1">Phases 0 - 8 (2022)</a>  
+      </div>
+    </div>
+0. Phase Zero  
+1. Phase One - Drown  
+2. Phase Two - Allegro tumultuoso  
+3. Phase Three - Incertain reveille  
+4. Phase Four - Interlude  
+5. Phase Five - Maybe  
+6. Phase Six - Disjunction  
+7. Phase Seven - Tilt  
+8. Phase eight - One eight fifty seven
+    <div class="play-list-row" data-track-row="2">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        2.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="2">Four seasons by the sea - Impromptus (2022) </a>
+      </div>
+    </div>
+1. So simple  
+2. Seashore  
+3. Swann  
+4. Rason  
+    <div class="play-list-row" data-track-row="3">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        3.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="3">Distant voices - Five appearences (2022)</a>
+      </div>
+    </div>
+1. Des Pirol  
+2. Petitesse  
+3. Disdance  
+4. Dissonata  
+5. Redux  
+    <div class="play-list-row" data-track-row="4">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        4.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="4">Chromatonie - Triadisches Ballet - Gelb - Rosa - Schwarz (2021)</a>
+      </div>
+    </div>
+1. Chromatonie Gelb  
+2. Chromatonie Rosa  
+3. Chromatonie Schwarz  
+<br /><br />  
+    <iframe width="100%" height="400px" src="https://drive.google.com/file/d/17LVPvgvnCtKAqQRm6ve6sowisjPESdjK/preview"></iframe>
+    <div class="play-list-row" data-track-row="5">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        5.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="5">Deep field (2022)</a>
+      </div>
+    </div>
+    <div class="play-list-row" data-track-row="6">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        6.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="6">Archaic (2022)</a>
+      </div>
+    </div>
+    <div class="play-list-row" data-track-row="7">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        7.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="7">Counterwise (2022)</a>
+      </div>
+    </div>
+    <div class="play-list-row" data-track-row="8">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        8.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="8">Des cotes (2022)</a>
+      </div>
+    </div>
+    <div class="play-list-row" data-track-row="9">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        9.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="9">La mer obsolete (2022)</a>
+      </div>
+    </div>
+    <div class="play-list-row" data-track-row="10">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        10.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="10">Aequor (2022)</a>
+      </div>
+    </div>
+    <div class="play-list-row" data-track-row="11">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        11.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="11">Reveille (2022)</a>
+      </div>
+    </div>
+    <div class="play-list-row" data-track-row="12">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        12.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="12">Tristia (2022)</a>
+      </div>
+    </div>
+    <div class="play-list-row" data-track-row="13">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        13.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="13">Reverse autumn still lasting in a park in Paris (2021)</a>
+      </div>
+    </div>
+    <div class="play-list-row" data-track-row="14">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        14.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="14">Loose leaves (2021)</a>
+      </div>
+    </div>
+    <div class="play-list-row" data-track-row="15">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        15.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="15">Interlude (2021)</a>
+      </div>
+    </div>
+    <div class="play-list-row" data-track-row="16">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        16.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="16">Defragmented Rain (2021)</a>
+      </div>
+    </div>
+    <iframe width="100%" height="400px" src="https://drive.google.com/file/d/1MaDs10YLIDWRpaF6rvQ4hzHuHCFWOjbY/preview"></iframe>  
+    
+    </div>
+</div>
 
     </main>
     
     
-
+  
     <footer>
 		<!-- <br>
 <hr class="style14"> -->
       <small><p>Tous les contenus <a href="/fr/about/">Ernesto Castillo</a> © 2022</p>
 </small>
     </footer>
+    
+    <script src="/assets/js/stop.js"></script>
+
+  
+      <script id="rendered-js" >
+var audioPlayer = function () {
+  "use strict";
+
+  // Private variables
+  var _currentTrack = null;
+  var _elements = {
+    audio: document.getElementById("audio"),
+    playerButtons: {
+      largeToggleBtn: document.querySelector(".large-toggle-btn"),
+      nextTrackBtn: document.querySelector(".next-track-btn"),
+      previousTrackBtn: document.querySelector(".previous-track-btn"),
+      smallToggleBtn: document.getElementsByClassName("small-toggle-btn") },
+
+    progressBar: document.querySelector(".progress-box"),
+    playListRows: document.getElementsByClassName("play-list-row"),
+    trackInfoBox: document.querySelector(".track-info-box") };
+
+  var _playAHead = false;
+  var _progressCounter = 0;
+  var _progressBarIndicator = _elements.progressBar.children[0].children[0].children[1];
+  var _trackLoaded = false;
+
+  /**
+   * Determines the buffer progress.
+   *
+   * @param audio The audio element on the page.
+   **/
+  var _bufferProgress = function (audio) {
+    var bufferedTime = audio.buffered.end(0) * 100 / audio.duration;
+    var progressBuffer = _elements.progressBar.children[0].children[0].children[0];
+
+    progressBuffer.style.width = bufferedTime + "%";
+  };
+
+  /**
+   * A utility function for getting the event cordinates based on browser type.
+   *
+   * @param e The JavaScript event.
+   **/
+  var _getXY = function (e) {
+    var containerX = _elements.progressBar.offsetLeft;
+    var containerY = _elements.progressBar.offsetTop;
+
+    var coords = {
+      x: null,
+      y: null };
+
+
+    var isTouchSuopported = ("ontouchstart" in window);
+
+    if (isTouchSuopported) {//For touch devices
+      coords.x = e.clientX - containerX;
+      coords.y = e.clientY - containerY;
+
+      return coords;
+    } else if (e.offsetX || e.offsetX === 0) {// For webkit browsers
+      coords.x = e.offsetX;
+      coords.y = e.offsetY;
+
+      return coords;
+    } else if (e.layerX || e.layerX === 0) {// For Mozilla firefox
+      coords.x = e.layerX;
+      coords.y = e.layerY;
+
+      return coords;
+    }
+  };
+
+  var _handleProgressIndicatorClick = function (e) {
+    var progressBar = document.querySelector(".progress-box");
+    var xCoords = _getXY(e).x;
+
+    return (xCoords - progressBar.offsetLeft) / progressBar.children[0].offsetWidth;
+  };
+
+  /**
+   * Initializes the html5 audio player and the playlist.
+   *
+   **/
+  var initPlayer = function () {
+
+    if (_currentTrack === 1 || _currentTrack === null) {
+      _elements.playerButtons.previousTrackBtn.disabled = true;
+    }
+
+    //Adding event listeners to playlist clickable elements.
+    for (var i = 0; i < _elements.playListRows.length; i++) {if (window.CP.shouldStopExecution(0)) break;
+      var smallToggleBtn = _elements.playerButtons.smallToggleBtn[i];
+      var playListLink = _elements.playListRows[i].children[2].children[0];
+
+      //Playlist link clicked.
+      playListLink.addEventListener("click", function (e) {
+        e.preventDefault();
+        var selectedTrack = parseInt(this.parentNode.parentNode.getAttribute("data-track-row"));
+
+        if (selectedTrack !== _currentTrack) {
+          _resetPlayStatus();
+          _currentTrack = null;
+          _trackLoaded = false;
+        }
+
+        if (_trackLoaded === false) {
+          _currentTrack = parseInt(selectedTrack);
+          _setTrack();
+        } else {
+          _playBack(this);
+        }
+      }, false);
+
+      //Small toggle button clicked.
+      smallToggleBtn.addEventListener("click", function (e) {
+        e.preventDefault();
+        var selectedTrack = parseInt(this.parentNode.getAttribute("data-track-row"));
+
+        if (selectedTrack !== _currentTrack) {
+          _resetPlayStatus();
+          _currentTrack = null;
+          _trackLoaded = false;
+        }
+
+        if (_trackLoaded === false) {
+          _currentTrack = parseInt(selectedTrack);
+          _setTrack();
+        } else {
+          _playBack(this);
+        }
+
+      }, false);
+    }
+
+    //Audio time has changed so update it.
+    window.CP.exitedLoop(0);_elements.audio.addEventListener("timeupdate", _trackTimeChanged, false);
+
+    //Audio track has ended playing.
+    _elements.audio.addEventListener("ended", function (e) {
+      _trackHasEnded();
+    }, false);
+
+    //Audio error. 
+    _elements.audio.addEventListener("error", function (e) {
+      switch (e.target.error.code) {
+        case e.target.error.MEDIA_ERR_ABORTED:
+          alert('You aborted the video playback.');
+          break;
+        case e.target.error.MEDIA_ERR_NETWORK:
+          alert('A network error caused the audio download to fail.');
+          break;
+        case e.target.error.MEDIA_ERR_DECODE:
+          alert('The audio playback was aborted due to a corruption problem or because the video used features your browser did not support.');
+          break;
+        case e.target.error.MEDIA_ERR_SRC_NOT_SUPPORTED:
+          alert('The video audio not be loaded, either because the server or network failed or because the format is not supported.');
+          break;
+        default:
+          alert('An unknown error occurred.');
+          break;}
+
+      trackLoaded = false;
+      _resetPlayStatus();
+    }, false);
+
+    //Large toggle button clicked.
+    _elements.playerButtons.largeToggleBtn.addEventListener("click", function (e) {
+      if (_trackLoaded === false) {
+        _currentTrack = parseInt(1);
+        _setTrack();
+      } else {
+        _playBack();
+      }
+    }, false);
+
+    //Next track button clicked.
+    _elements.playerButtons.nextTrackBtn.addEventListener("click", function (e) {
+      if (this.disabled !== true) {
+        _currentTrack++;
+        _trackLoaded = false;
+        _resetPlayStatus();
+        _setTrack();
+      }
+    }, false);
+
+    //Previous track button clicked.
+    _elements.playerButtons.previousTrackBtn.addEventListener("click", function (e) {
+      if (this.disabled !== true) {
+        _currentTrack--;
+        _trackLoaded = false;
+        _resetPlayStatus();
+        _setTrack();
+      }
+    }, false);
+
+    //User is moving progress indicator.
+    _progressBarIndicator.addEventListener("mousedown", _mouseDown, false);
+
+    //User stops moving progress indicator.
+    window.addEventListener("mouseup", _mouseUp, false);
+  };
+
+  /**
+   * Handles the mousedown event by a user and determines if the mouse is being moved.
+   *
+   * @param e The event object.
+   **/
+  var _mouseDown = function (e) {
+    window.addEventListener("mousemove", _moveProgressIndicator, true);
+    audio.removeEventListener("timeupdate", _trackTimeChanged, false);
+
+    _playAHead = true;
+  };
+
+  /**
+   * Handles the mouseup event by a user.
+   *
+   * @param e The event object.
+   **/
+  var _mouseUp = function (e) {
+    if (_playAHead === true) {
+      var duration = parseFloat(audio.duration);
+      var progressIndicatorClick = parseFloat(_handleProgressIndicatorClick(e));
+      window.removeEventListener("mousemove", _moveProgressIndicator, true);
+
+      audio.currentTime = duration * progressIndicatorClick;
+      audio.addEventListener("timeupdate", _trackTimeChanged, false);
+      _playAHead = false;
+    }
+  };
+
+  /**
+   * Moves the progress indicator to a new point in the audio.
+   *
+   * @param e The event object.
+   **/
+  var _moveProgressIndicator = function (e) {
+    var newPosition = 0;
+    var progressBarOffsetLeft = _elements.progressBar.offsetLeft;
+    var progressBarWidth = 0;
+    var progressBarIndicator = _elements.progressBar.children[0].children[0].children[1];
+    var progressBarIndicatorWidth = _progressBarIndicator.offsetWidth;
+    var xCoords = _getXY(e).x;
+
+    progressBarWidth = _elements.progressBar.children[0].offsetWidth - progressBarIndicatorWidth;
+    newPosition = xCoords - progressBarOffsetLeft;
+
+    if (newPosition >= 1 && newPosition <= progressBarWidth) {
+      progressBarIndicator.style.left = newPosition + ".px";
+    }
+    if (newPosition < 0) {
+      progressBarIndicator.style.left = "0";
+    }
+    if (newPosition > progressBarWidth) {
+      progressBarIndicator.style.left = progressBarWidth + "px";
+    }
+  };
+
+  /**
+   * Controls playback of the audio element.
+   *
+   **/
+  var _playBack = function () {
+    if (_elements.audio.paused) {
+      _elements.audio.play();
+      _updatePlayStatus(true);
+      document.title = "\u25B6 " + document.title;
+    } else {
+      _elements.audio.pause();
+      _updatePlayStatus(false);
+      document.title = document.title.substr(2);
+    }
+  };
+
+  /**
+   * Sets the track if it hasn't already been loaded yet.
+   *
+   **/
+  var _setTrack = function () {
+    var songURL = _elements.audio.children[_currentTrack - 1].src;
+
+    _elements.audio.setAttribute("src", songURL);
+    _elements.audio.load();
+
+    _trackLoaded = true;
+
+    _setTrackTitle(_currentTrack, _elements.playListRows);
+
+    _setActiveItem(_currentTrack, _elements.playListRows);
+
+    _elements.trackInfoBox.style.visibility = "visible";
+
+    _playBack();
+  };
+
+  /**
+   * Sets the activly playing item within the playlist.
+   *
+   * @param currentTrack The current track number being played.
+   * @param playListRows The playlist object.
+   **/
+  var _setActiveItem = function (currentTrack, playListRows) {
+    for (var i = 0; i < playListRows.length; i++) {if (window.CP.shouldStopExecution(1)) break;
+      playListRows[i].children[2].className = "track-title";
+    }window.CP.exitedLoop(1);
+
+    playListRows[currentTrack - 1].children[2].className = "track-title active-track";
+  };
+
+  /**
+   * Sets the text for the currently playing song.
+   *
+   * @param currentTrack The current track number being played.
+   * @param playListRows The playlist object.
+   **/
+  var _setTrackTitle = function (currentTrack, playListRows) {
+    var trackTitleBox = document.querySelector(".player .info-box .track-info-box .track-title-text");
+    var trackTitle = playListRows[currentTrack - 1].children[2].outerText;
+
+    trackTitleBox.innerHTML = null;
+
+    trackTitleBox.innerHTML = trackTitle;
+
+    document.title = trackTitle;
+  };
+
+  /**
+   * Plays the next track when a track has ended playing.
+   *
+   **/
+  var _trackHasEnded = function () {
+    parseInt(_currentTrack);
+    _currentTrack = _currentTrack === _elements.playListRows.length ? 1 : _currentTrack + 1;
+    _trackLoaded = false;
+
+    _resetPlayStatus();
+
+    _setTrack();
+  };
+
+  /**
+   * Updates the time for the song being played.
+   *
+   **/
+  var _trackTimeChanged = function () {
+    var currentTimeBox = document.querySelector(".player .info-box .track-info-box .audio-time .current-time");
+    var currentTime = audio.currentTime;
+    var duration = audio.duration;
+    var durationBox = document.querySelector(".player .info-box .track-info-box .audio-time .duration");
+    var trackCurrentTime = _trackTime(currentTime);
+    var trackDuration = _trackTime(duration);
+
+    currentTimeBox.innerHTML = null;
+    currentTimeBox.innerHTML = trackCurrentTime;
+
+    durationBox.innerHTML = null;
+    durationBox.innerHTML = trackDuration;
+
+    _updateProgressIndicator(audio);
+    _bufferProgress(audio);
+  };
+
+  /**
+   * A utility function for converting a time in miliseconds to a readable time of minutes and seconds.
+   *
+   * @param seconds The time in seconds.
+   *
+   * @return time The time in minutes and/or seconds.
+   **/
+  var _trackTime = function (seconds) {
+    var min = 0;
+    var sec = Math.floor(seconds);
+    var time = 0;
+
+    min = Math.floor(sec / 60);
+
+    min = min >= 10 ? min : '0' + min;
+
+    sec = Math.floor(sec % 60);
+
+    sec = sec >= 10 ? sec : '0' + sec;
+
+    time = min + ':' + sec;
+
+    return time;
+  };
+
+  /**
+   * Updates both the large and small toggle buttons accordingly.
+   *
+   * @param audioPlaying A booean value indicating if audio is playing or paused.
+   **/
+  var _updatePlayStatus = function (audioPlaying) {
+    if (audioPlaying) {
+      _elements.playerButtons.largeToggleBtn.children[0].className = "large-pause-btn";
+
+      _elements.playerButtons.smallToggleBtn[_currentTrack - 1].children[0].className = "small-pause-btn";
+    } else {
+      _elements.playerButtons.largeToggleBtn.children[0].className = "large-play-btn";
+
+      _elements.playerButtons.smallToggleBtn[_currentTrack - 1].children[0].className = "small-play-btn";
+    }
+
+    //Update next and previous buttons accordingly
+    if (_currentTrack === 1) {
+      _elements.playerButtons.previousTrackBtn.disabled = true;
+      _elements.playerButtons.previousTrackBtn.className = "previous-track-btn disabled";
+    } else if (_currentTrack > 1 && _currentTrack !== _elements.playListRows.length) {
+      _elements.playerButtons.previousTrackBtn.disabled = false;
+      _elements.playerButtons.previousTrackBtn.className = "previous-track-btn";
+      _elements.playerButtons.nextTrackBtn.disabled = false;
+      _elements.playerButtons.nextTrackBtn.className = "next-track-btn";
+    } else if (_currentTrack === _elements.playListRows.length) {
+      _elements.playerButtons.nextTrackBtn.disabled = true;
+      _elements.playerButtons.nextTrackBtn.className = "next-track-btn disabled";
+    }
+  };
+
+  /**
+   * Updates the location of the progress indicator according to how much time left in audio.
+   *
+   **/
+  var _updateProgressIndicator = function () {
+    var currentTime = parseFloat(_elements.audio.currentTime);
+    var duration = parseFloat(_elements.audio.duration);
+    var indicatorLocation = 0;
+    var progressBarWidth = parseFloat(_elements.progressBar.offsetWidth);
+    var progressIndicatorWidth = parseFloat(_progressBarIndicator.offsetWidth);
+    var progressBarIndicatorWidth = progressBarWidth - progressIndicatorWidth;
+
+    indicatorLocation = progressBarIndicatorWidth * (currentTime / duration);
+
+    _progressBarIndicator.style.left = indicatorLocation + "px";
+  };
+
+  /**
+   * Resets all toggle buttons to be play buttons.
+   *
+   **/
+  var _resetPlayStatus = function () {
+    var smallToggleBtn = _elements.playerButtons.smallToggleBtn;
+
+    _elements.playerButtons.largeToggleBtn.children[0].className = "large-play-btn";
+
+    for (var i = 0; i < smallToggleBtn.length; i++) {if (window.CP.shouldStopExecution(2)) break;
+      if (smallToggleBtn[i].children[0].className === "small-pause-btn") {
+        smallToggleBtn[i].children[0].className = "small-play-btn";
+      }
+    }window.CP.exitedLoop(2);
+  };
+
+  return {
+    initPlayer: initPlayer };
+
+};
+
+(function () {
+  var player = new audioPlayer();
+
+  player.initPlayer();
+})();
+//# sourceURL=pen.js
+    </script>
+
 <script src="/assets/js/lightbox-plus-jquery.min.js"></script>
-  </body>
+</body>
+
 </html>
+ 
