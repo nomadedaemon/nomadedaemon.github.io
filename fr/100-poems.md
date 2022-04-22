@@ -19,7 +19,7 @@ Work in progress
 <br style="clear:both" />
 #### Phases 0 - 8 (2022)
 
-0. Phase Zero  
+Zero. Phase Zero  
 1. Phase One - Drown  
 2. Phase Two - Allegro tumultuoso  
 3. Phase Three - Incertain reveille  
