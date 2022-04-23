@@ -87,16 +87,14 @@ function topFunction() {
   display: inline-block !important;
 }
 
-//body {
-  margin: 10px 0 0 0;
 }
-body .container {
+.container {
   font-family: arial, helvetica, sans-serif;
   font-size: 1em;
   margin: 0 auto;
-  width: 500px;
+  width: 100%;
 }
-body .container .player {
+.container .player {
   height: 60px;
   margin: 0;
   position: relative;
@@ -107,21 +105,21 @@ body .container .player {
   *zoom: 1;
 }
 @media (min-width: 768px) and (max-width: 991px) {
-  body .container .player {
+  .container .player {
     width: 470px;
   }
 }
 @media (min-width: 992px) and (max-width: 1100px) {
-  body .container .player {
+  .container .player {
     width: 470px;
   }
 }
 @media (min-width: 1200px) {
-  body .container .player {
+  .container .player {
     width: 470px;
   }
 }
-body .container .player .large-toggle-btn {
+.container .player .large-toggle-btn {
   border: 1px solid #d9d9d9;
   border-radius: 2px;
   float: left;
@@ -135,33 +133,33 @@ body .container .player .large-toggle-btn {
   vertical-align: bottom;
   width: 54px;
 }
-body .container .player .large-toggle-btn .large-play-btn {
+.container .player .large-toggle-btn .large-play-btn {
   cursor: pointer;
   display: inline-block;
   position: relative;
   top: -14%;
 }
-body .container .player .large-toggle-btn .large-play-btn:before {
+.container .player .large-toggle-btn .large-play-btn:before {
   content: "";
   font: 1.5em/1.75 "FontAwesome";
 }
-body .container .player .large-toggle-btn .large-pause-btn {
+.container .player .large-toggle-btn .large-pause-btn {
   cursor: pointer;
   display: inline-block;
   position: relative;
   top: -13%;
 }
-body .container .player .large-toggle-btn .large-pause-btn:before {
+.container .player .large-toggle-btn .large-pause-btn:before {
   content: "";
   font: 1.5em/1.75 "FontAwesome";
 }
-body .container .player .info-box {
+.container .player .info-box {
   bottom: 10px;
   left: 65px;
   position: absolute;
   top: 15px;
 }
-body .container .player .info-box .track-info-box {
+.container .player .info-box .track-info-box {
   float: left;
   font-size: 12px;
   margin: 0 0 6px 0;
@@ -169,47 +167,47 @@ body .container .player .info-box .track-info-box {
   width: 400px;
   *zoom: 1;
 }
-body .container .player .info-box .track-info-box .track-title-text {
+.container .player .info-box .track-info-box .track-title-text {
   display: inline-block;
 }
-body .container .player .info-box .track-info-box .audio-time {
+.container .player .info-box .track-info-box .audio-time {
   display: inline-block;
   padding: 0 0 0 5px;
   width: 80px;
 }
-body .container .player .info-box .track-info-box:before, body .container .player .info-box .track-info-box:after {
+.container .player .info-box .track-info-box:before, .container .player .info-box .track-info-box:after {
   content: " ";
   display: table;
 }
-body .container .player .info-box .track-info-box:after {
+.container .player .info-box .track-info-box:after {
   clear: both;
   display: block;
   font-size: 0;
   height: 0;
   visibility: hidden;
 }
-body .container .player .progress-box {
+.container .player .progress-box {
   float: left;
   min-width: 270px;
   position: relative;
 }
-body .container .player .progress-box .progress-cell {
+.container .player .progress-box .progress-cell {
   height: 12px;
   position: relative;
 }
-body .container .player .progress-box .progress-cell .progress {
+.container .player .progress-box .progress-cell .progress {
   background: #fff;
   border: 1px solid #d9d9d9;
   height: 8px;
   position: relative;
   width: auto;
 }
-body .container .player .progress-box .progress-cell .progress .progress-buffer {
+.container .player .progress-box .progress-cell .progress .progress-buffer {
   background: #337ab7;
   height: 100%;
   width: 0;
 }
-body .container .player .progress-box .progress-cell .progress .progress-indicator {
+.container .player .progress-box .progress-cell .progress .progress-indicator {
   background: #fff;
   border: 1px solid #bebebe;
   border-radius: 3px;
@@ -221,57 +219,57 @@ body .container .player .progress-box .progress-cell .progress .progress-indicat
   top: -2px;
   width: 22px;
 }
-body .container .player .controls-box {
+.container .player .controls-box {
   bottom: 10px;
   left: 350px;
   position: absolute;
 }
-body .container .player .controls-box .previous-track-btn {
+.container .player .controls-box .previous-track-btn {
   cursor: pointer;
   display: inline-block;
 }
-body .container .player .controls-box .previous-track-btn:before {
+.container .player .controls-box .previous-track-btn:before {
   content: "";
   font: 1em "FontAwesome";
 }
-body .container .player .controls-box .next-track-btn {
+.container .player .controls-box .next-track-btn {
   cursor: pointer;
   display: inline-block;
 }
-body .container .player .controls-box .next-track-btn:before {
+.container .player .controls-box .next-track-btn:before {
   content: "";
   font: 1em "FontAwesome";
 }
-body .container .player:before, body .container .player:after {
+.container .player:before, .container .player:after {
   content: " ";
   display: table;
 }
-body .container .player:after {
+.container .player:after {
   clear: both;
   display: block;
   font-size: 0;
   height: 0;
   visibility: hidden;
 }
-body .container .play-list {
+.container .play-list {
   display: block;
   margin: 0 auto 20px auto;
   width: 100%;
 }
-body .container .play-list .play-list-row {
+.container .play-list .play-list-row {
   display: block;
   margin: 10px 0;
   width: 100%;
   *zoom: 1;
 }
-body .container .play-list .play-list-row .track-title .playlist-track {
+.container .play-list .play-list-row .track-title .playlist-track {
   color: #000;
   text-decoration: none;
 }
-body .container .play-list .play-list-row .track-title .playlist-track:hover {
+.container .play-list .play-list-row .track-title .playlist-track:hover {
   text-decoration: underline;
 }
-body .container .play-list .play-list-row .small-toggle-btn {
+.container .play-list .play-list-row .small-toggle-btn {
   border: 1px solid #d9d9d9;
   border-radius: 2px;
   cursor: pointer;
@@ -284,40 +282,40 @@ body .container .play-list .play-list-row .small-toggle-btn {
   vertical-align: middle;
   width: 20px;
 }
-body .container .play-list .play-list-row .small-toggle-btn .small-play-btn {
+.container .play-list .play-list-row .small-toggle-btn .small-play-btn {
   display: inline-block;
 }
-body .container .play-list .play-list-row .small-toggle-btn .small-play-btn:before {
+.container .play-list .play-list-row .small-toggle-btn .small-play-btn:before {
   content: "";
   font: 0.85em "FontAwesome";
 }
-body .container .play-list .play-list-row .small-toggle-btn .small-pause-btn {
+.container .play-list .play-list-row .small-toggle-btn .small-pause-btn {
   display: inline-block;
 }
-body .container .play-list .play-list-row .small-toggle-btn .small-pause-btn:before {
+.container .play-list .play-list-row .small-toggle-btn .small-pause-btn:before {
   content: "";
   font: 0.85em "FontAwesome";
 }
-body .container .play-list .play-list-row .track-number {
+.container .play-list .play-list-row .track-number {
   display: inline-block;
 }
-body .container .play-list .play-list-row .track-title {
+.container .play-list .play-list-row .track-title {
   display: inline-block;
 }
-body .container .play-list .play-list-row .track-title .playlist-track {
+.container .play-list .play-list-row .track-title .playlist-track {
   text-decoration: none;
 }
-body .container .play-list .play-list-row .track-title .playlist-track:hover {
+.container .play-list .play-list-row .track-title .playlist-track:hover {
   text-decoration: underline;
 }
-body .container .play-list .play-list-row .track-title.active-track {
+.container .play-list .play-list-row .track-title.active-track {
   font-weight: bold;
 }
-body .container .play-list .play-list-row:before, body .container .play-list .play-list-row:after {
+.container .play-list .play-list-row:before, .container .play-list .play-list-row:after {
   content: " ";
   display: table;
 }
-body .container .play-list .play-list-row:after {
+.container .play-list .play-list-row:after {
   clear: both;
   display: block;
   font-size: 0;
@@ -341,7 +339,6 @@ body .container .play-list .play-list-row:after {
 
 </head>
 
-<body translate="no" >
     <main>
       {{ content }}
     </main>

@@ -139,12 +139,13 @@ Work in progress
         4.
       </div>
       <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="4">Chromatonie - Triadisches Ballet - Gelb - Rosa - Schwarz (2021)</a>
+        <a class="playlist-track" href="#" data-play-track="4">Chromatonie - Triadisches Ballet (2021)</a>
       </div>
     </div>
+Musik für das Triadische Ballett von Oskar Schlemmer:
 1. Chromatonie Gelb  
 2. Chromatonie Rosa  
-3. Chromatonie Schwarz  
+3. Chromatonie Schwarz 
 <br /><br />  
     <iframe width="100%" height="400px" src="https://drive.google.com/file/d/17LVPvgvnCtKAqQRm6ve6sowisjPESdjK/preview"></iframe>
     <div class="play-list-row" data-track-row="5">
