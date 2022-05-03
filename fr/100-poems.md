@@ -86,7 +86,29 @@ Work in progress
     			Your browser does not support HTML5 audio.
     			<source src="http://docs.google.com/uc?export=open&id=1GOlyWFxRaZM484YlGSQ47kUfY6mSwo9F" data-track-number="40" />
     			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1KlPXMBLRcBoXKSB9_ADN_RTVRcopZHd2" data-track-number="41" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1Q2jmIS-5BlWwkRf46fICVeErCaJgIJzU" data-track-number="42" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1MWPSU9-ZZByxIMiB4kbOBGlIDjSA_DW4" data-track-number="43" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1xNBHlOeAdwWoUEr47AHWHxEPsCfRcGko" data-track-number="44" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1YKO_lxnjwhSXhqRMqrQtDFPH0dW3-vSq" data-track-number="45" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1Z-f5SoKVTuAjvFm0clzgI9jG_dRjL1bv" data-track-number="46" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1K1cAvzez_fjSzLKMPFcM77txj4xPQSwQ" data-track-number="47" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1VHcjm8TqohNrnfwgjfDHB7HH061p_jM0" data-track-number="48" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1M1wnyX0WYjdqtffscDmvftwYDwg6Jq99" data-track-number="49" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1wNoCmCI9CIqEjVAjbFi_6vKbB4c8jjj-" data-track-number="50" />
+    			Your browser does not support HTML5 audio.
     		</audio>
+    
+1wNoCmCI9CIqEjVAjbFi_6vKbB4c8jjj-		
 
   <div class="player">
 
@@ -629,6 +651,126 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
       </div>
       <div class="track-title">
         <a class="playlist-track" href="#" data-play-track="40">Danae (2021)</a>
+      </div>
+    </div>
+    
+    <div class="play-list-row" data-track-row="41">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        41.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="41">Bess (2021)</a>
+      </div>
+    </div>
+
+    <div class="play-list-row" data-track-row="42">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        42.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="42">Basta hymnes (2021)</a>
+      </div>
+    </div>
+    
+    <div class="play-list-row" data-track-row="43">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        43.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="43">Based bees (2021)</a>
+      </div>
+    </div>
+
+    <div class="play-list-row" data-track-row="44">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        44.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="44">Stucked (2021)</a>
+      </div>
+    </div>
+    
+    <div class="play-list-row" data-track-row="45">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        45.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="45">Billy babies first easy harmonic harms (2021)</a>
+      </div>
+    </div>
+    
+    <div class="play-list-row" data-track-row="46">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        46.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="46">Ahab (2021)</a>
+      </div>
+    </div>
+    
+    <div class="play-list-row" data-track-row="47">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        47.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="47">Moros (2022)</a>
+      </div>
+    </div>
+
+    <div class="play-list-row" data-track-row="48">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        48.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="48">Short space (2021)</a>
+      </div>
+    </div>
+
+    <div class="play-list-row" data-track-row="49">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        49
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="49">Minimal valse (2021)</a>
+      </div>
+    </div>
+    
+    <div class="play-list-row" data-track-row="50">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        50
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="50">Pavillon (2021)</a>
       </div>
     </div>
 
