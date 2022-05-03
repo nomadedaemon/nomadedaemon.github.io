@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="{{ page.language }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <title>{{ page.title }} | {{ site.name[page.language] }}</title>
+    <meta name="author" content="Ernesto Castillo">
+    <meta name="description" content="Ernesto Castillo :: {{ site.description[page.language] }}">
+    <meta name="keywords" content="Ernesto Castillo,{{ site.keywords[page.language] }}">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="google-site-verification" content="kycJsObDg7yV0SyTEJu_PURuzGB-d9FNfeOJOkex-BQ" />
+    <link rel="icon" href="/favicon-32x32.png" type="image/png">
+    {% if page.language contains "de" %}<link rel="alternate" hreflang="x-default" href="{{ site.productionurl }}{{ page.handle }}/index.html" />
+    <link rel="alternate" hreflang="fr-FR" href="{{ site.productionurl }}{{ page.handle | prepend: "/fr" }}/index.html" />{% else %}<link rel="alternate" hreflang="x-default" href="{{ site.productionurl }}{{ page.handle | prepend: "/fr" }}/index.html" />
+    <link rel="alternate" hreflang="de-DE" href="{{ site.productionurl }}{{ page.handle }}/index.html" />{% endif %}
+    <link rel="stylesheet" type="text/css" href="{{ site.url }}/assets/css/style.min.css" />
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i,800,800i&amp;subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="/assets/css/lightbox.min.css">
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+    <script src="https://cdn.rawgit.com/mathjax/MathJax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+  </head>
+  <body>
+  <button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<script>
+// When the user scrolls down 20px from the top of the document, show the button
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+    if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+        document.getElementById("myBtn").style.display = "block";
+    } else {
+        document.getElementById("myBtn").style.display = "none";
+    }
+}
+
+// When the user clicks on the button, scroll to the top of the document
+function topFunction() {
+    document.body.scrollTop = 0;
+    document.documentElement.scrollTop = 0;
+}
+</script>
+
+    <navcont>
+    <nav>
+      {% assign pages = site.pages | sort: "nav-order"  %}
+      {% for p in pages %}
+      {% unless p.exclude %}
+        {% if p.language == page.language %} 
+        <a {% if p.url == page.url %} class="active" {% elsif p.url contains page.categories %} class="active"{% endif %} href="{{ p.url | prepend: site.baseurl }}">{{ p.title }}</a>            
+        {% endif%}
+      {% endunless %}
+      {% endfor %}   
+    </nav>
+      
+    <nav class="language-switcher">
+      {% if page.name contains "index" %}
+        <a class="de" href="{{ site.baseurl }}/">de</a>
+        <a class="fr" href="{{ site.baseurl | append: "/fr" }}">fr</a>
+      {% else %}
+        <a class="de" href="{{ site.baseurl | append: page.handle }}">de</a>
+        <a class="fr" href="{{ site.baseurl | append: "/fr" | append: page.handle }}">fr</a>
+      {% endif %}
+    </nav>
+    </navcont>
+    <header>
+      <h1>{{ site.name[page.language] }}</h1>
+      <p>{{ site.subtitle[page.language] }} :: {% if page.categories %}<a  class="active" href="{{ page.categories | prepend: "../" }}">{{ page.categoriestitle }}</a> :: {% endif %}{{ page.title }}</p>
+    </header>
+
+    <pdf>
+      {{ content }}
+    </pdf>
+    
+    {% if page.name contains "index" %}
+
+    {% endif %}
+
+    <footer>
+		<!-- <br>
+<hr class="style14"> -->
+      <small>{{ site.footer[page.language] | markdownify }}</small>
+    </footer>
+<script src="/assets/js/lightbox-plus-jquery.min.js"></script>
+  </body>
+</html>

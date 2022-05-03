@@ -38,6 +38,14 @@ Work in progress
                 <source src="http://docs.google.com/uc?export=open&id=1qbHmTyTcczGYvthf2v5kHZaEa9EKT3MV" data-track-number="15" />
                 <source src="http://docs.google.com/uc?export=open&id=1WGqjHsYUYZzCvCfy-8fTQJzjxl8AlDWl" data-track-number="16" />
     			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1TwuMKNyWa-1-rZfHX5qAEmuIEn-kZJ0y" data-track-number="17" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1MIy0hAenEXoL0TV_RoC31muloNJP_rmO" data-track-number="18" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1Rj6p4vjP8VGttbb5VAnhcqzbmHbswU1n" data-track-number="19" />
+    			Your browser does not support HTML5 audio.  
+    			<source src="http://docs.google.com/uc?export=open&id=1F0lhI_IP8djUpCkVIOxcyEERhkWx4aTo" data-track-number="20" />
+    			Your browser does not support HTML5 audio.  			
     		</audio>
 
   <div class="player">
@@ -100,6 +108,7 @@ Work in progress
 6. Phase Six - Disjunction  
 7. Phase Seven - Tilt  
 8. Phase eight - One eight fifty seven
+
     <div class="play-list-row" data-track-row="2">
       <div class="small-toggle-btn">
         <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
@@ -115,6 +124,7 @@ Work in progress
 2. Seashore  
 3. Swann  
 4. Rason  
+
     <div class="play-list-row" data-track-row="3">
       <div class="small-toggle-btn">
         <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
@@ -131,6 +141,7 @@ Work in progress
 3. Disdance  
 4. Dissonata  
 5. Redux  
+
     <div class="play-list-row" data-track-row="4">
       <div class="small-toggle-btn">
         <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
@@ -148,6 +159,7 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
 3. Chromatonie Schwarz 
 <br /><br />  
     <iframe width="100%" height="400px" src="https://drive.google.com/file/d/17LVPvgvnCtKAqQRm6ve6sowisjPESdjK/preview"></iframe>
+    
     <div class="play-list-row" data-track-row="5">
       <div class="small-toggle-btn">
         <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
@@ -159,6 +171,7 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
         <a class="playlist-track" href="#" data-play-track="5">Deep field (2022)</a>
       </div>
     </div>
+    
     <div class="play-list-row" data-track-row="6">
       <div class="small-toggle-btn">
         <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
@@ -170,6 +183,7 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
         <a class="playlist-track" href="#" data-play-track="6">Archaic (2022)</a>
       </div>
     </div>
+    
     <div class="play-list-row" data-track-row="7">
       <div class="small-toggle-btn">
         <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
@@ -181,6 +195,7 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
         <a class="playlist-track" href="#" data-play-track="7">Counterwise (2022)</a>
       </div>
     </div>
+    
     <div class="play-list-row" data-track-row="8">
       <div class="small-toggle-btn">
         <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
@@ -192,6 +207,7 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
         <a class="playlist-track" href="#" data-play-track="8">Des cotes (2022)</a>
       </div>
     </div>
+    
     <div class="play-list-row" data-track-row="9">
       <div class="small-toggle-btn">
         <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
@@ -203,6 +219,7 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
         <a class="playlist-track" href="#" data-play-track="9">La mer obsolete (2022)</a>
       </div>
     </div>
+    
     <div class="play-list-row" data-track-row="10">
       <div class="small-toggle-btn">
         <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
@@ -214,6 +231,7 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
         <a class="playlist-track" href="#" data-play-track="10">Aequor (2022)</a>
       </div>
     </div>
+    
     <div class="play-list-row" data-track-row="11">
       <div class="small-toggle-btn">
         <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
@@ -225,6 +243,7 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
         <a class="playlist-track" href="#" data-play-track="11">Reveille (2022)</a>
       </div>
     </div>
+    
     <div class="play-list-row" data-track-row="12">
       <div class="small-toggle-btn">
         <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
@@ -236,6 +255,7 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
         <a class="playlist-track" href="#" data-play-track="12">Tristia (2022)</a>
       </div>
     </div>
+    
     <div class="play-list-row" data-track-row="13">
       <div class="small-toggle-btn">
         <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
@@ -247,6 +267,7 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
         <a class="playlist-track" href="#" data-play-track="13">Reverse autumn still lasting in a park in Paris (2021)</a>
       </div>
     </div>
+    
     <div class="play-list-row" data-track-row="14">
       <div class="small-toggle-btn">
         <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
@@ -258,6 +279,7 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
         <a class="playlist-track" href="#" data-play-track="14">Loose leaves (2021)</a>
       </div>
     </div>
+    
     <div class="play-list-row" data-track-row="15">
       <div class="small-toggle-btn">
         <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
@@ -269,6 +291,7 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
         <a class="playlist-track" href="#" data-play-track="15">Interlude (2021)</a>
       </div>
     </div>
+    
     <div class="play-list-row" data-track-row="16">
       <div class="small-toggle-btn">
         <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
@@ -280,6 +303,55 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
         <a class="playlist-track" href="#" data-play-track="16">Defragmented Rain (2021)</a>
       </div>
     </div>
-    <iframe width="100%" height="400px" src="https://drive.google.com/file/d/1MaDs10YLIDWRpaF6rvQ4hzHuHCFWOjbY/preview"></iframe>  
+    <iframe width="100%" height="400px" src="https://drive.google.com/file/d/1MaDs10YLIDWRpaF6rvQ4hzHuHCFWOjbY/preview"></iframe>
+    
+    <div class="play-list-row" data-track-row="17">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        17.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="17">Creuze (2022)</a>
+      </div>
+    </div> 
+    
+    <div class="play-list-row" data-track-row="18">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        18.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="18">Chimera (2021)</a>
+      </div>
+    </div>    
+    
+    <div class="play-list-row" data-track-row="19">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        19.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="19">Cumulus (2022)</a>
+      </div>
+    </div>  
+    
+    <div class="play-list-row" data-track-row="20">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        20.
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="20">Chapitres (2022)</a>
+      </div>
+    </div>  
+    
     
     </div>
