@@ -106,9 +106,9 @@ Work in progress
     			Your browser does not support HTML5 audio.
     			<source src="http://docs.google.com/uc?export=open&id=1wNoCmCI9CIqEjVAjbFi_6vKbB4c8jjj-" data-track-number="50" />
     			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1Py8zj6qsGgYOD9_ftwLweUnHXc3KPjsT" data-track-number="51" />
+    			Your browser does not support HTML5 audio.
     		</audio>
-    
-1wNoCmCI9CIqEjVAjbFi_6vKbB4c8jjj-		
 
   <div class="player">
 
@@ -771,6 +771,18 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
       </div>
       <div class="track-title">
         <a class="playlist-track" href="#" data-play-track="50">Pavillon (2021)</a>
+      </div>
+    </div>
+    
+    <div class="play-list-row" data-track-row="51">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        51
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="51">Prolonge (2022)</a>
       </div>
     </div>
 
