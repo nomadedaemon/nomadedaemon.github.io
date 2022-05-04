@@ -109,8 +109,6 @@ Work in progress
     			<source src="http://docs.google.com/uc?export=open&id=1Py8zj6qsGgYOD9_ftwLweUnHXc3KPjsT" data-track-number="51" />
     			Your browser does not support HTML5 audio.
     		</audio>
-    
-1wNoCmCI9CIqEjVAjbFi_6vKbB4c8jjj-		
 
   <div class="player">
 
