@@ -161,8 +161,28 @@ Work in progress
     			Your browser does not support HTML5 audio.
     			<source src="http://docs.google.com/uc?export=open&id=1RcBxQ2LbM2LRYK7rIz93AOynkSgDKArG" data-track-number="70" />
     			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=16WZ4SWCjnAQUSEnYksZVW37iVbVjwofd" data-track-number="71" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1uZ1BkLdr5nZqYaf-clAt8lGKGKqbleF-" data-track-number="72" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=11lRTIlAJ9J4aKcqEoYW66JOCMQGrajyV" data-track-number="73" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1gBPYGxMC8p0dxps4RRaMsHaqOjVoUi3Z" data-track-number="74" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1--3GoL9mQ1XS3su9SicHLC3SnFzPd3QG" data-track-number="75" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1y_hS8KioFopRfkfm2MCbeR7HIHyBjkiz" data-track-number="76" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1LGrunANuNQwGY9ZH9gzRNZc-O10MW2c6" data-track-number="77" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1bKgs5KVCJonWW-MvU-4qxDKkT6pNnkdZ" data-track-number="78" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1jQjBUJwV9OgKtf7lCsB0BgLnheGaaqM3" data-track-number="79" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=1yXbuaxhZmlDNDW7S4G-cNac0nERqi2I1" data-track-number="80" />
+    			Your browser does not support HTML5 audio.
     		</audio>
-
+    		
   <div class="player">
 
     <div class="large-toggle-btn">
@@ -1064,6 +1084,126 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
       </div>
       <div class="track-title">
         <a class="playlist-track" href="#" data-play-track="70">Evolving fields (2021)</a>
+      </div>
+    </div>
+    
+    <div class="play-list-row" data-track-row="71">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        71
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="71">Quasi something (2022)</a>
+      </div>
+    </div>
+    
+    <div class="play-list-row" data-track-row="72">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        72
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="72">Belle du minuit (2022)</a>
+      </div>
+    </div>
+    
+    <div class="play-list-row" data-track-row="73">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        73
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="73">Dance du minuit (2022)</a>
+      </div>
+    </div>
+
+    <div class="play-list-row" data-track-row="74">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        74
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="74">Beside (2021)</a>
+      </div>
+    </div>
+
+    <div class="play-list-row" data-track-row="75">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        75
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="75">Diaphane (2021)</a>
+      </div>
+    </div>
+    
+    <div class="play-list-row" data-track-row="76">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        76
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="76">Antichamber (2021)</a>
+      </div>
+    </div>
+    
+    <div class="play-list-row" data-track-row="77">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        77
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="77">Beagle (2022)</a>
+      </div>
+    </div>
+    
+    <div class="play-list-row" data-track-row="78">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        78
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="78">Etude des erreurs (2022)</a>
+      </div>
+    </div>
+    
+    <div class="play-list-row" data-track-row="79">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        79
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="79">Little play (2021)</a>
+      </div>
+    </div>
+    
+    <div class="play-list-row" data-track-row="80">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        80
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="80">Petitesse (2022)</a>
       </div>
     </div>
 
