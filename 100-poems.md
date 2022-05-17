@@ -197,12 +197,16 @@ Work in progress
     			Your browser does not support HTML5 audio.
     			<source src="http://docs.google.com/uc?export=open&id=1Lxu1DN8kGnT7NoiiJiYtjWDkGPqNJher" data-track-number="88" />
     			Your browser does not support HTML5 audio.
-    			<source src="http://docs.google.com/uc?export=open&id=14Nq-OHpBRFKvqbl1j4c5l4m2q7XJ8OQ-" data-track-number="89" />
+    			<source src="http://docs.google.com/uc?export=open&id=1sQC_AnVjDmWdzbyw2EgoOeE0miE9ZrDE" data-track-number="89" />
     			Your browser does not support HTML5 audio.
-    			<source src="http://docs.google.com/uc?export=open&id=10jJDn_Yk7oELbqwQ-4PdxojLD1n7b7Or" data-track-number="90" />
+    			<source src="http://docs.google.com/uc?export=open&id=1tHwQ2GbmNZOxWVvonH8kq3H1aAI35coT" data-track-number="90" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=14Nq-OHpBRFKvqbl1j4c5l4m2q7XJ8OQ-" data-track-number="91" />
+    			Your browser does not support HTML5 audio.
+    			<source src="http://docs.google.com/uc?export=open&id=10jJDn_Yk7oELbqwQ-4PdxojLD1n7b7Or" data-track-number="92" />
     			Your browser does not support HTML5 audio.
     		</audio>
-    		
+
   <div class="player">
 
     <div class="large-toggle-btn">
@@ -1331,7 +1335,7 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
         89
       </div>
       <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="89">Slow space (2021)</a>
+        <a class="playlist-track" href="#" data-play-track="89">Slow Beat - Kraftzwerg der Mono Idiotie (2022)</a>
       </div>
     </div>  
     
@@ -1343,8 +1347,32 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
         90
       </div>
       <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="90">Spaceyard (2021)</a>
+        <a class="playlist-track" href="#" data-play-track="90">Suspended (2021)</a>
+      </div>
+    </div> 
+
+    <div class="play-list-row" data-track-row="91">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        91
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="91">Slow space (2021)</a>
       </div>
     </div>  
+    
+    <div class="play-list-row" data-track-row="92">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        92
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="92">Spaceyard (2021)</a>
+      </div>
+    </div>
 
     </div>
