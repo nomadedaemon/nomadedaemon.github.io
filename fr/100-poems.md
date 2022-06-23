@@ -234,6 +234,8 @@ Work in progress
     			<source src="https://docs.google.com/uc?export=open&id=1KU_ozOta_UyZUjLt-Z30V44Vqp1xlKbn" data-track-number="106" />
     			Your browser does not support HTML5 audio.
     			<source src="https://docs.google.com/uc?export=open&id=1ouKhy1vU0PO7DSnUi8tConUMd3CJ2kgy" data-track-number="107" />
+    			Your browser does not support HTML5 audio.
+    			<source src="https://docs.google.com/uc?export=open&id=1eJpUgGaJ8sJRQeebQEZ3Pa23VbaPxLmq" data-track-number="108" />
     			Your browser does not support HTML5 audio.	
     		</audio>
   <div class="player">
@@ -1582,5 +1584,17 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
       <div class="track-title">
         <a class="playlist-track" href="#" data-play-track="107">Sketches 7 (2022)</a>
       </div>
+
+    <div class="play-list-row" data-track-row="108">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        108
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="108">Sketches 8 (2022)</a>
+      </div>
+    </div>  
 
     </div>
