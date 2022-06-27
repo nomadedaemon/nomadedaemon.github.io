@@ -8,7 +8,7 @@ categoriestitle: son
 exclude: true
 ---
 ## 100 Poems 2021 - 2022  
-<a href="/100-poems" title="100 Poems"><a rel="lightbox" data-lightbox="example-1" href="/images/100-poems.jpg" title="100 Poems Cover"><img src="/images/100-poems.jpg" alt="100 Poems Cover" class="img-left"></a></a>
+<a href="/fr/100-poems" title="100 Poems"><a rel="lightbox" data-lightbox="example-1" href="/images/100-poems.jpg" title="100 Poems Cover"><img src="/images/100-poems.jpg" alt="100 Poems Cover" class="img-left"></a></a>
   
 <br />  
 
@@ -220,27 +220,7 @@ Work in progress
     			<source src="https://docs.google.com/uc?export=open&id=1zfTb2fWjRIfgPkyovOpaQhoPcXzmqiU1" data-track-number="99" />
     			Your browser does not support HTML5 audio.  
     			<source src="https://docs.google.com/uc?export=open&id=1TGXi1J9VaxqUTs8aZlfuzqbaP1odgwXD" data-track-number="100" />
-    			Your browser does not support HTML5 audio. 
-    			<source src="https://docs.google.com/uc?export=open&id=1DEDMQTbJO4cgw5eumz72SNz1gz2oCd71" data-track-number="101" />
-    			Your browser does not support HTML5 audio. 
-    			<source src="https://docs.google.com/uc?export=open&id=1StIbVZzs3ikn7YDzLhwVYoPUgO6FjJei" data-track-number="102" />
-    			Your browser does not support HTML5 audio. 
-    			<source src="https://docs.google.com/uc?export=open&id=1rKn_7AX8kGqyvkjR0cUhBb-GKaxy9Vcd" data-track-number="103" />
-    			Your browser does not support HTML5 audio.
-    			<source src="https://docs.google.com/uc?export=open&id=1xbNNPAu3Xv5CB3iljbJmLZkRAjsCDhWz" data-track-number="104" />
-    			Your browser does not support HTML5 audio.
-    			<source src="https://docs.google.com/uc?export=open&id=17rLN9QFW6_CXUYZS7OybGqafJChOQ9Gw" data-track-number="105" />
-    			Your browser does not support HTML5 audio.
-    			<source src="https://docs.google.com/uc?export=open&id=1KU_ozOta_UyZUjLt-Z30V44Vqp1xlKbn" data-track-number="106" />
-    			Your browser does not support HTML5 audio.
-    			<source src="https://docs.google.com/uc?export=open&id=1ouKhy1vU0PO7DSnUi8tConUMd3CJ2kgy" data-track-number="107" />
-    			Your browser does not support HTML5 audio.
-    			<source src="https://docs.google.com/uc?export=open&id=1eJpUgGaJ8sJRQeebQEZ3Pa23VbaPxLmq" data-track-number="108" />
-    			Your browser does not support HTML5 audio.	
-    			<source src="https://docs.google.com/uc?export=open&id=1x-_-iv9hEukuYvGbV56O7Qsr8WC28El_" data-track-number="109" />
-    			Your browser does not support HTML5 audio.
-    			<source src="https://docs.google.com/uc?export=open&id=1GuHssJsjm3qiCvMM2EasIuCxnj9HOyRc" data-track-number="110" />
-    			Your browser does not support HTML5 audio.
+    			Your browser does not support HTML5 audio.  
     		</audio>
     		
   <div class="player">
@@ -1506,124 +1486,5 @@ Musik für das Triadische Ballett von Oskar Schlemmer:
         <a class="playlist-track" href="#" data-play-track="100">Motu (2022)</a>
       </div>
     </div>
-    
-    <div class="play-list-row" data-track-row="101">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        101
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="101">Sketches 1 (2022)</a>
-      </div>
-    </div>
-    
-    <div class="play-list-row" data-track-row="102">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        102
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="102">Sketches 2 (2022)</a>
-      </div>
-    </div>
-    
-    <div class="play-list-row" data-track-row="103">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        103
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="103">Sketches 3 (2022)</a>
-      </div>
-    </div>
-    
-    <div class="play-list-row" data-track-row="104">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        104
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="104">Sketches 4 (2022)</a>
-      </div>
-    </div>  
-    
-    <div class="play-list-row" data-track-row="105">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        105
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="105">Sketches 5 (2022)</a>
-      </div>
-    </div>   
-    
-    <div class="play-list-row" data-track-row="106">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        106
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="105">Sketches 6 (2022)</a>
-      </div>
-    </div>   
-    
-    <div class="play-list-row" data-track-row="107">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        107
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="107">Sketches 7 (2022)</a>
-      </div>
-
-    <div class="play-list-row" data-track-row="108">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        108
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="108">Sketches 8 (2022)</a>
-      </div>
-    </div>  
-    
-    <div class="play-list-row" data-track-row="109">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        109
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="109">Sketches 9 (2022)</a>
-      </div>
-    </div>  
-
-    <div class="play-list-row" data-track-row="110">
-      <div class="small-toggle-btn">
-        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
-      </div>
-      <div class="track-number">
-        110
-      </div>
-      <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="110">Sketches 10 (2022)</a>
-      </div>
-    </div>  
 
     </div>

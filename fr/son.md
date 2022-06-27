@@ -7,7 +7,19 @@ nav-order: 3
 ---
 ## SON  
    
-<a href="/100-poems" title="100 Poems"><img src="/images/100-poems.jpg" alt="omegat cover" class="img-left"></a>
+<a href="/fr/sketches" title="Sketches"><img src="/images/Sketches.jpg" alt="Sketches cover" class="img-left"></a>
+<br />    
+#### Sketches 2022  
+  
+MUSIC: ERNESTO CASTILLO  
+ERNESTO CASTILLO 2022  
+Sketches  
+Work in progress  
+[Lire plus](/fr/sketches)  
+<br style="clear:both" />
+<br style="clear:both" />
+  
+<a href="/fr/100-poems" title="100 Poems"><img src="/images/100-poems.jpg" alt="100 Poems cover" class="img-left"></a>
 <br />    
 #### 100 Poems 2021 - 2022  
   

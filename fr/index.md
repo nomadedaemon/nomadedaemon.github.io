@@ -6,8 +6,24 @@ nav-order: 1
 #see-on-github: Voir su GitHub
 #tweet-this: Tweet
 ---
+### SKETCHES  
+<a href="/fr/sketches" title="Sketches"><img src="/images/Sketches.jpg" alt="Sketches cover" class="img-left"></a>
+<br />
+#### Sketches 2022  
+MUSIC: ERNESTO CASTILLO  
+ERNESTO CASTILLO 2022  
+Sketches    
+Work in progress  
+[Lire plus](/fr/sketches)  
+<br style="clear:both" />
+<ul><b>Sketches 1 (2022)</b> </ul> 
+<ul><audio controls controlsList="nodownload">
+<source src="https://docs.google.com/uc?export=open&id=1DEDMQTbJO4cgw5eumz72SNz1gz2oCd71" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio></ul>
+  
 ### 100 POEMS  
-<a href="/fr/100-poems" title="100 Poems"><img src="/images/100-poems.jpg" alt="omegat cover" class="img-left"></a>
+<a href="/fr/100-poems" title="100 Poems"><img src="/images/100-poems.jpg" alt="100 Poems cover" class="img-left"></a>
 <br />
 #### 100 Poems 2021 - 2022  
 MUSIC: ERNESTO CASTILLO  
@@ -23,6 +39,7 @@ Work in progress
 <source src="https://docs.google.com/uc?export=open&id=152YUBAjA7D1ZxvYMevCS3AAZD7ck-7nx" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio></ul>
+  
 ### CD ABSURDE NACHT (Nuit absurde) 2015
   
 
