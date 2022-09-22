@@ -63,6 +63,8 @@ Work in progress
     			Your browser does not support HTML5 audio.	 	    			
     		</audio>
 
+  <div class="player">
+
     <div class="large-toggle-btn">
       <i class="large-play-btn"><span class="screen-reader-text">Large toggle button</span></i>
     </div>
