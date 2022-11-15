@@ -61,6 +61,14 @@ Work in progress
     			Your browser does not support HTML5 audio.  
     			<source src="https://docs.google.com/uc?export=open&id=1BDEX32kODO-SwIGdSvk76n7aaS3sV-A5" data-track-number="20" />
     			Your browser does not support HTML5 audio.
+    			<source src="https://docs.google.com/uc?export=open&id=1yjIHu_BFLWfj9qHEGfaYTqB6zzFJ2W_E" data-track-number="21" />
+    			Your browser does not support HTML5 audio.
+    			<source src="https://docs.google.com/uc?export=open&id=1BejslwGX9ziCYbStdovmu1eF1uJCx7uH" data-track-number="22" />
+    			Your browser does not support HTML5 audio.
+    			<source src="https://docs.google.com/uc?export=open&id=1G92_4Q4DYZb1wRBwvBR-GSHIV84A29eW" data-track-number="23" />
+    			Your browser does not support HTML5 audio.
+    			<source src="https://docs.google.com/uc?export=open&id=1Lxf8CjjCKICBPpNOnZqC1HfZ4xAT11re" data-track-number="24" />
+    			Your browser does not support HTML5 audio.
     		</audio>
 
   <div class="player">
@@ -342,5 +350,53 @@ Work in progress
         <a class="playlist-track" href="#" data-play-track="20">Sketches 20 (2022)</a>
       </div>
     </div>  
+
+    <div class="play-list-row" data-track-row="21">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        21
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="21">Sketches 21 (2022)</a>
+      </div>
+    </div>  
+
+    <div class="play-list-row" data-track-row="22">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        22
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="22">Sketches 22 (2022)</a>
+      </div>
+    </div>  
+
+    <div class="play-list-row" data-track-row="23">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        23
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="23">Sketches 23 (2022)</a>
+      </div>
+    </div>  
+
+    <div class="play-list-row" data-track-row="24">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        24
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="24">Sketches 24 (2022)</a>
+      </div>
+    </div>
 
     </div>
