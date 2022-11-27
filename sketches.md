@@ -79,6 +79,8 @@ Work in progress
     			Your browser does not support HTML5 audio.
     			<source src="https://docs.google.com/uc?export=open&id=1zUPfL5nbIU-GL0vFGMc4zkFEZ9IWxEs4" data-track-number="29" />
     			Your browser does not support HTML5 audio.  
+    			<source src="https://docs.google.com/uc?export=open&id=17A41PsCsnh2LI04OuluMsawd2HUE8WbS" data-track-number="30" />
+    			Your browser does not support HTML5 audio.  
     		</audio>
 
   <div class="player">
@@ -467,6 +469,18 @@ Work in progress
       <div class="track-title">
         <a class="playlist-track" href="#" data-play-track="29">Sketches 29 (2022)</a>
       </div>
-    </div> 
+    </div>  
+    
+    <div class="play-list-row" data-track-row="30">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        30
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="30">Sketches 30 (2022)</a>
+      </div>
+    </div>  
     
     </div>
