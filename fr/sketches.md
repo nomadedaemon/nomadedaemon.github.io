@@ -520,7 +520,7 @@ Sketches
         33
       </div>
       <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="33">Sketches 33s (2022)</a>
+        <a class="playlist-track" href="#" data-play-track="33">Sketches 33 (2022)</a>
       </div>
     </div>  
      
