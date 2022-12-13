@@ -13,7 +13,6 @@ nav-order: 1
 MUSIC: ERNESTO CASTILLO  
 ERNESTO CASTILLO 2022  
 Sketches    
-Work in progress  
 [Lire plus](/fr/sketches)  
 <br style="clear:both" />
 <ul><b>Sketches 1 (2022)</b> </ul> 
@@ -29,7 +28,6 @@ Your browser does not support the audio element.
 MUSIC: ERNESTO CASTILLO  
 ERNESTO CASTILLO 2021 - 2022  
 100 Poems without words  
-Work in progress  
 [Lire plus](/fr/100-poems)  
 <br style="clear:both" />
 <ul><b>Phasen 0 - 8 (2022)</b> </ul> 

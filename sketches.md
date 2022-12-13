@@ -15,7 +15,6 @@ exclude: true
 MUSIC: ERNESTO CASTILLO  
 ERNESTO CASTILLO 2022  
 Sketches   
-Work in progress  
 <br style="clear:both" />
 <br style="clear:both" />
 
@@ -82,6 +81,10 @@ Work in progress
     			<source src="https://docs.google.com/uc?export=open&id=17A41PsCsnh2LI04OuluMsawd2HUE8WbS" data-track-number="30" />
     			Your browser does not support HTML5 audio.  
     			<source src="https://docs.google.com/uc?export=open&id=118DfPH_KqEw_U2VXgv7NUYKgtZWi2ToG" data-track-number="31" />
+    			Your browser does not support HTML5 audio.  
+    			<source src="https://docs.google.com/uc?export=open&id=1NhDsryzjzUcJwL8CAlKEalpDLSeJLJXo" data-track-number="32" />
+    			Your browser does not support HTML5 audio. 
+    			<source src="https://docs.google.com/uc?export=open&id=1XO5aZMwsyGDVW4wDyzFrRQ37tdZpSryI" data-track-number="33" />
     			Your browser does not support HTML5 audio. 
     		</audio>
 
@@ -494,6 +497,30 @@ Work in progress
       </div>
       <div class="track-title">
         <a class="playlist-track" href="#" data-play-track="31">Sketches 31 (2022)</a>
+      </div>
+    </div>  
+    
+    <div class="play-list-row" data-track-row="32">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        32
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="32">Sketches 32 (2022)</a>
+      </div>
+    </div>  
+    
+    <div class="play-list-row" data-track-row="33">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        33
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="33">Sketches 33s (2022)</a>
       </div>
     </div>  
     
