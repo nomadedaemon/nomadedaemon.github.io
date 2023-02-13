@@ -7,6 +7,18 @@ nav-order: 3
 ---
 ## SON  
    
+<a href="/fr/stringenzen" title="Stringenzen"><img src="/images/Stringenzen.jpg" alt="Stringenzen cover" class="img-left"></a>
+<br />    
+#### Stringenzen 2023  
+  
+MUSIC: ERNESTO CASTILLO  
+ERNESTO CASTILLO 2023  
+Stringenzen  
+Work in progress  
+[Lire plus](/fr/stringenzen)  
+<br style="clear:both" />
+<br style="clear:both" />
+  
 <a href="/fr/sketches" title="Sketches"><img src="/images/Sketches.jpg" alt="Sketches cover" class="img-left"></a>
 <br />    
 #### Sketches 2022  
@@ -14,7 +26,6 @@ nav-order: 3
 MUSIC: ERNESTO CASTILLO  
 ERNESTO CASTILLO 2022  
 Sketches  
-Work in progress  
 [Lire plus](/fr/sketches)  
 <br style="clear:both" />
 <br style="clear:both" />
@@ -26,7 +37,6 @@ Work in progress
 MUSIC: ERNESTO CASTILLO  
 ERNESTO CASTILLO 2021 - 2022  
 100 Poems without words  
-Work in progress  
 [Lire plus](/fr/100-poems)  
 <br style="clear:both" />
 <br style="clear:both" />
