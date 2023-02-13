@@ -11,8 +11,8 @@ keywords:
   de: Autor,Schriftsteller,Poet,Lyrik,Gedichte,Musik,Künstler
   fr: Auteur,Ecrivain,Poète,Poésie,Musique,Artiste
 footer:
-  de: Alle Inhalte von [Ernesto Castillo](/about/) © 2022
-  fr: Tous les contenus [Ernesto Castillo](/fr/about/) © 2022
+  de: Alle Inhalte von [Ernesto Castillo](/about/) © 2023
+  fr: Tous les contenus [Ernesto Castillo](/fr/about/) © 2023
 exclude: [README.md, _images-alt, _galeries-alt]
 permalink: pretty
 repository: https://github.com/nomadedaemon/nomadedaemon.github.io
