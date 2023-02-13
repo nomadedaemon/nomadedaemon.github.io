@@ -6,6 +6,21 @@ nav-order: 1
 #see-on-github: Voir su GitHub
 #tweet-this: Tweet
 ---
+### STRINGENZEN  
+<a href="/fr/stringenzen" title="Stringenzen"><img src="/images/Stringenzen.jpg" alt="Stringenzen cover" class="img-left"></a>
+<br />
+#### Stringenzen 2023  
+MUSIC: ERNESTO CASTILLO  
+ERNESTO CASTILLO 2023  
+Stringenzen    
+[Lire plus](/fr/stringenzen)  
+<br style="clear:both" />
+<ul><b>Stringenzen 1 (2023)</b> </ul> 
+<ul><audio controls controlsList="nodownload">
+<source src="https://docs.google.com/uc?export=open&id=1uAgSW_qr5ETBLviwF3nByf6KMGQej2jA" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio></ul>
+  
 ### SKETCHES  
 <a href="/fr/sketches" title="Sketches"><img src="/images/Sketches.jpg" alt="Sketches cover" class="img-left"></a>
 <br />
