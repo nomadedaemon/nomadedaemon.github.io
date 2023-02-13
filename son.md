@@ -25,7 +25,7 @@ Work in progress
   
 MUSIC: ERNESTO CASTILLO  
 ERNESTO CASTILLO 2022  
-Sketches 
+Sketches   
 [Weiterlesen](/sketches)  
 <br style="clear:both" />
 <br style="clear:both" />
