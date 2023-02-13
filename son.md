@@ -19,9 +19,6 @@ Work in progress
 <br style="clear:both" />
 <br style="clear:both" />
    
-<a href="/100-poems" title="100 Poems"><img src="/images/100-poems.jpg" alt="100 Poems cover" class="img-left"></a>
-<br />    
-  
 <a href="/sketches" title="Sketches"><img src="/images/Sketches.jpg" alt="Sketches cover" class="img-left"></a>
 <br />    
 #### Sketches 2022  
