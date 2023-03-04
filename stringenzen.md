@@ -29,7 +29,10 @@ Work in progress
     			Your browser does not support HTML5 audio.
     			<source src="https://docs.google.com/uc?export=open&id=1NzzcMUvYrEYGBvOxKzGq-Sh0vbTPtu-K" data-track-number="4" />
     			Your browser does not support HTML5 audio.  
-
+    			<source src="https://docs.google.com/uc?export=open&id=1FJWbtkr2Sm_BWEEhlv5TMPvHOWhGX-sE" data-track-number="5" />
+    			Your browser does not support HTML5 audio.      			
+    			<source src="https://docs.google.com/uc?export=open&id=1VK4A6b-1_hq3KFnh_3fQ00BGXIfqmWqT" data-track-number="6" />
+    			Your browser does not support HTML5 audio.  
     		</audio>
 
   <div class="player">
@@ -118,6 +121,30 @@ Work in progress
       <div class="track-title">
         <a class="playlist-track" href="#" data-play-track="4">Stringenzen 4 (2023)</a>
       </div>
-    </div>    
-
+    </div>
+  
+    <div class="play-list-row" data-track-row="5">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        5
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="5">Stringenzen 5 (2023)</a>
+      </div>
+    </div>
+    
+    <div class="play-list-row" data-track-row="6">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        6
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="6">Stringenzen 6 (2023)</a>
+      </div>
+    </div>   
+  
     </div>
