@@ -12,7 +12,7 @@ nav-order: 1
 #### Stringenzen 2023  
 MUSIC: ERNESTO CASTILLO  
 ERNESTO CASTILLO 2023  
-Stringenzen 
+Stringenzen  
 Work in progress  
 [Weiterlesen](/stringenzen)  
 <br style="clear:both" />
