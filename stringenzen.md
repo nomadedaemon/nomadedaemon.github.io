@@ -49,8 +49,10 @@ Work in progress
     			Your browser does not support HTML5 audio.  
     			<source src="https://docs.google.com/uc?export=open&id=1P1hVQO0hcBVCpydaSsxZdMEwtM48fmAr" data-track-number="14" />
     			Your browser does not support HTML5 audio.  
+    			<source src="https://docs.google.com/uc?export=open&id=1fk-GjsxeIz5N5kKlVS4dOEAXXAgRD4eN" data-track-number="15" />
+    			Your browser does not support HTML5 audio.  
     		</audio>
-
+    		
   <div class="player">
 
     <div class="large-toggle-btn">
@@ -258,5 +260,17 @@ Work in progress
         <a class="playlist-track" href="#" data-play-track="14">Stringenzen 14 (2023)</a>
       </div>
     </div>  
-    
+  
+    <div class="play-list-row" data-track-row="15">
+      <div class="small-toggle-btn">
+        <i class="small-play-btn"><span class="screen-reader-text">Small toggle button</span></i>
+      </div>
+      <div class="track-number">
+        15
+      </div>
+      <div class="track-title">
+        <a class="playlist-track" href="#" data-play-track="15">Stringenzen 15 (2023)</a>
+      </div>
+    </div>  
+     
     </div>
