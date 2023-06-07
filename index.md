@@ -6,14 +6,43 @@ nav-order: 1
 #see-on-github: Github
 #tweet-this: Tweet
 ---
+### FRAGMENTS  
+<a href="/fragments" title="Fragments"><img src="/images/Fragments.jpg" alt="Fragments cover" class="img-left"></a>
+<br />
+#### Fragments 2023  
+MUSIC: ERNESTO CASTILLO  
+ERNESTO CASTILLO 2023  
+Pianoletta  
+[Weiterlesen](/fragments)  
+<br style="clear:both" />
+<ul><b>Fragments 8 (2023)</b> </ul> 
+<ul><audio controls controlsList="nodownload">
+<source src="https://docs.google.com/uc?export=open&id=16ufDcI18LAavOcWUUo8ybAjwt8cCv28o" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio></ul>
+  
+### PIANOLETTA  
+<a href="/pianoletta" title="Pianoletta"><img src="/images/Pianoletta.jpg" alt="Pianoletta cover" class="img-left"></a>
+<br />
+#### Pianoletta 2023  
+MUSIC: ERNESTO CASTILLO  
+ERNESTO CASTILLO 2023  
+Pianoletta  
+[Weiterlesen](/pianoletta)  
+<br style="clear:both" />
+<ul><b>Pianoletta 1 (2023)</b> </ul> 
+<ul><audio controls controlsList="nodownload">
+<source src="https://docs.google.com/uc?export=open&id=18Hl3bqel5qB9vvCS7lO6BeqsgVtd6e6V" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio></ul>
+  
 ### STRINGENZEN  
 <a href="/stringenzen" title="Stringenzen"><img src="/images/Stringenzen.jpg" alt="Stringenzen cover" class="img-left"></a>
 <br />
 #### Stringenzen 2023  
 MUSIC: ERNESTO CASTILLO  
 ERNESTO CASTILLO 2023  
-Stringenzen  
-Work in progress  
+Stringenzen    
 [Weiterlesen](/stringenzen)  
 <br style="clear:both" />
 <ul><b>Stringenzen 1 (2023)</b> </ul> 

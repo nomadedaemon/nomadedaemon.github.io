@@ -6,7 +6,30 @@ handle: /son
 nav-order: 3
 ---
 ## SON  
-   
+  
+<a href="/fr/fragments" title="Fragments"><img src="/images/Fragments.jpg" alt="Fragments cover" class="img-left"></a>
+<br />    
+#### Fragments 2023  
+  
+MUSIC: ERNESTO CASTILLO  
+ERNESTO CASTILLO 2023  
+Fragments  
+[Lire plus](/fr/fragments)  
+<br style="clear:both" />
+<br style="clear:both" />
+  
+  
+<a href="/fr/pianoletta" title="Pianoletta"><img src="/images/Pianoletta.jpg" alt="Pianoletta cover" class="img-left"></a>
+<br />    
+#### Pianoletta 2023  
+  
+MUSIC: ERNESTO CASTILLO  
+ERNESTO CASTILLO 2023  
+Pianoletta  
+[Lire plus](/fr/pianoletta)  
+<br style="clear:both" />
+<br style="clear:both" />
+  
 <a href="/fr/stringenzen" title="Stringenzen"><img src="/images/Stringenzen.jpg" alt="Stringenzen cover" class="img-left"></a>
 <br />    
 #### Stringenzen 2023  
@@ -14,7 +37,6 @@ nav-order: 3
 MUSIC: ERNESTO CASTILLO  
 ERNESTO CASTILLO 2023  
 Stringenzen  
-Work in progress  
 [Lire plus](/fr/stringenzen)  
 <br style="clear:both" />
 <br style="clear:both" />
