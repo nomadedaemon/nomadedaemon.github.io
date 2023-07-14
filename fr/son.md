@@ -7,6 +7,17 @@ nav-order: 3
 ---
 ## SON  
   
+<a href="/fr/partitas" title="Partitas"><img src="/images/Partitas.jpg" alt="Partitas cover" class="img-left"></a>
+<br />    
+#### Partitas 2023  
+  
+MUSIC: ERNESTO CASTILLO  
+ERNESTO CASTILLO 2023  
+Partitas  
+[Lire plus](/fr/partitas) 
+<br style="clear:both" />
+<br style="clear:both" />
+  
 <a href="/fr/fragments" title="Fragments"><img src="/images/Fragments.jpg" alt="Fragments cover" class="img-left"></a>
 <br />    
 #### Fragments 2023  
@@ -17,7 +28,6 @@ Fragments
 [Lire plus](/fr/fragments)  
 <br style="clear:both" />
 <br style="clear:both" />
-  
   
 <a href="/fr/pianoletta" title="Pianoletta"><img src="/images/Pianoletta.jpg" alt="Pianoletta cover" class="img-left"></a>
 <br />    

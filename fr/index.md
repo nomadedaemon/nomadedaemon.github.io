@@ -6,6 +6,21 @@ nav-order: 1
 #see-on-github: Voir su GitHub
 #tweet-this: Tweet
 ---
+### PARTITAS  
+<a href="/fr/partitas" title="Partitas"><img src="/images/Partitas.jpg" alt="Partitas cover" class="img-left"></a>
+<br />
+#### Partitas 2023  
+MUSIC: ERNESTO CASTILLO  
+ERNESTO CASTILLO 2023  
+Partitas    
+[Lire plus](/fr/partitas)  
+<br style="clear:both" />
+<ul><b>Partita 1 (2023)</b> </ul> 
+<ul><audio controls controlsList="nodownload">
+<source src="https://docs.google.com/uc?export=open&id=1hZ7f3O45fOIBJhK_1ocM4ZxmOwFpUuW2" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio></ul>
+  
 ### FRAGMENTS  
 <a href="/fr/fragments" title="Fragments"><img src="/images/Fragments.jpg" alt="Fragments cover" class="img-left"></a>
 <br />
