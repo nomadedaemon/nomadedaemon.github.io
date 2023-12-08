@@ -7,6 +7,19 @@ nav-order: 3
 ---
 ## SON  
   
+<a href="/fr/ex-voto" title="Ex Voto"><img src="/images/Ex-Voto.jpg" alt="Ex Voto cover" class="img-left"></a>
+<br />    
+#### Ex Voto 2023  
+  
+MUSIC: ERNESTO CASTILLO  
+ERNESTO CASTILLO 2023  
+Ex Voto  
+Microsinfonie  
+[Lire plus](/fr/ex-voto) 
+<br style="clear:both" />
+<br style="clear:both" />
+  
+  
 <a href="/fr/partitas" title="Partitas"><img src="/images/Partitas.jpg" alt="Partitas cover" class="img-left"></a>
 <br />    
 #### Partitas 2023  
