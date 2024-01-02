@@ -79,7 +79,7 @@ Microsinfonie
         1
       </div>
       <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="1">Ex Voto 1 (2023)</a>
+        <a class="playlist-track" href="#" data-play-track="1">Ex Voto 1 "Matin" (2023)</a>
       </div>
     </div>
 
@@ -91,7 +91,7 @@ Microsinfonie
         2
       </div>
       <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="2">Ex Voto 2 (2023)</a>
+        <a class="playlist-track" href="#" data-play-track="2">Ex Voto 2 "Midi" (2023)</a>
       </div>
     </div>
     
@@ -103,7 +103,7 @@ Microsinfonie
         3
       </div>
       <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="3">Ex Voto 3 (2023)</a>
+        <a class="playlist-track" href="#" data-play-track="3">Ex Voto 3 "Après-midi" (2023)</a>
       </div>
     </div>
     
@@ -115,7 +115,7 @@ Microsinfonie
         4
       </div>
       <div class="track-title">
-        <a class="playlist-track" href="#" data-play-track="4">Ex Voto 4 (2023)</a>
+        <a class="playlist-track" href="#" data-play-track="4">Ex Voto 4 "Soir" (2023)</a>
       </div>
     </div>
     
