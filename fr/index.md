@@ -13,7 +13,8 @@ nav-order: 1
 MUSIC: ERNESTO CASTILLO  
 ERNESTO CASTILLO 2023  
 Ex Voto  
-Microsinfonie      
+Quatre Mouvements.  
+Micro sinfonic.  
 [Lire plus](/fr/ex-voto)  
 <br style="clear:both" />
 <ul><b>Ex Voto 1 "Matin" (2023)</b> </ul> 
