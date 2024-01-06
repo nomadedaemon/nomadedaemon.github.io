@@ -12,8 +12,6 @@ exclude: true
   
 <br />  
 
-https://makertube.net/w/p/pPsxiw6Xj9bHygb8RHWsNC
-
 MUSIC: ERNESTO CASTILLO  
 ERNESTO CASTILLO 2023  
 Ex Voto  
