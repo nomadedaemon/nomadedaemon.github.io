@@ -15,8 +15,7 @@ ERNESTO CASTILLO 2023
 Ex Voto  
 Quatre Mouvements.  
 Micro sinfonic.  
-<audio controls="1" controlslist="nodownload" src="https://e.pcloud.link/publink/show?code=XZddk1ZfsJ8W3Sruom2P2yTAsHoM5yKKRk7">Your browser does not support the audio tag.</audio>
-<audio controls="controls">
-  <source type="audio/mp3" src="https://e.pcloud.link/publink/show?code=XZddk1ZfsJ8W3Sruom2P2yTAsHoM5yKKRk7"></source>
-  <p>Your browser does not support the audio element.</p>
-</audio>
+<iframe
+  src="https://e.pcloud.link/publink/show?code=XZddk1ZfsJ8W3Sruom2P2yTAsHoM5yKKRk7"
+  style="width:100%; height:300px;"
+></iframe>
