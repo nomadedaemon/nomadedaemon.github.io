@@ -18,7 +18,7 @@ Micro sinfonic.
 <br style="clear:both" />
 <ul><b>Ex Voto 1 "Matin" (2023)</b> </ul> 
 <ul><audio controls controlsList="nodownload">
-<source src="https://makertube.net/w/hhgz7cT7cXPiqb8QuJbBwP?start=0s" type="audio/mpeg">
+<source src="https://makertube.net/w/hhgz7cT7cXPiqb8QuJbBwP" type="audio/mpeg">
 Your browser does not support the audio element.
 </audio></ul>
   
