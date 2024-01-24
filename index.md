@@ -19,7 +19,7 @@ Micro sinfonic.
 <br style="clear:both" />
 <ul><b>Ex Voto 4. Satz "Soir" (2023)</b> </ul> 
 
-<div style="position: relative; padding-top: 56.25%;"><iframe title="Ex Voto" width="100%" height="100%" src="https://stream.litera.tools/videos/embed/bf4b9447-e0cc-4435-9920-5576a1328fe2?warningTitle=0&amp;peertubeLink=0" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" style="position: absolute; inset: 0px;"></iframe></div>
+<iframe title="Ex Voto" width="100%" height="480px" src="https://stream.litera.tools/videos/embed/bf4b9447-e0cc-4435-9920-5576a1328fe2?warningTitle=0&amp;peertubeLink=0" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" style="position: absolute; inset: 0px;"></iframe></div>
 
 ### CD ABSURDE NACHT 2015
   
