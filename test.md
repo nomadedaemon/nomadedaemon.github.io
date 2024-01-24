@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: audioplayer
 title: start
 language: de
 nav-order: 1
@@ -16,5 +16,5 @@ Ex Voto
 Quatre Mouvements.  
 Micro sinfonic.  
 
+<div style="position: relative; padding-top: 56.25%;"><iframe title="Ex Voto" width="100%" height="100%" src="https://stream.litera.tools/video-playlists/embed/76b143bf-0786-43df-b005-9e1a7d115083?warningTitle=0&amp;peertubeLink=0" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" style="position: absolute; inset: 0px;"></iframe></div>
 
-<iframe title="Ex Voto 1. Satz" width="560" height="315" src="https://makertube.net/videos/embed/83d7b6f8-b473-4581-9d1a-47da4783f617" frameborder="0" allowfullscreen="0" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
