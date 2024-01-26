@@ -17,11 +17,8 @@ Quatre Mouvements.
 Micro sinfonic.  
 [Lire plus](/fr/ex-voto)  
 <br style="clear:both" />
-<ul><b>Ex Voto 1 "Matin" (2023)</b> </ul> 
-<ul><audio controls controlsList="nodownload">
-<source src="https://docs.google.com/uc?export=open&id=1XLQKCtOdk8PH2RodwvTgnXUvH1APl4cE" type="audio/mpeg">
-Your browser does not support the audio element.
-</audio></ul>
+<ul><b>Ex Voto 1 "Soir" (2023)</b> </ul> 
+<div style="position: relative; padding-top: 56.25%;"><iframe title="Ex Voto" width="100%" height="480px" src="https://stream.litera.tools/videos/embed/bf4b9447-e0cc-4435-9920-5576a1328fe2?warningTitle=0&amp;peertubeLink=0" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups" style="position: absolute; inset: 0px;"></iframe></div>
   
 ### CD ABSURDE NACHT (Nuit absurde) 2015
   
