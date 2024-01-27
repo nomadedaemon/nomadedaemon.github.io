@@ -10,8 +10,8 @@ exclude: true
 ## Fragments 2023  
 <a href="/fragments" title="Fragments"><a rel="lightbox" data-lightbox="example-1" href="/images/Fragments.jpg" title="Fragments Cover"><img src="/images/Fragments.jpg" alt="Fragments Cover" class="img-left"></a></a>
   
-<br />  
-
+<br /><br /><br /><br /> 
+  
 MUSIC: ERNESTO CASTILLO  
 ERNESTO CASTILLO 2023  
 Fragments   

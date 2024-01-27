@@ -28,7 +28,7 @@ Micro sinfonic.
 <br style="clear:both" />
 <br style="clear:both" />
 LYRICS + VOCALS: ERNESTO CASTILLO  
-COVER: FRÉDÉRIQUE LOUTZ  
+  
 MUSIC: JOHN FERRÈRE + LE PROFESSEUR INLASSABLE  
   
 EDITIONS l’INLASSABLE DISQUE (P)&(C) L’INLASSABLE DISQUE 2015  
