@@ -29,7 +29,6 @@ Micro sinfonic.
 <br style="clear:both" />
 <br style="clear:both" />
 LYRICS + VOCALS: ERNESTO CASTILLO  
-COVER: FRÉDÉRIQUE LOUTZ  
 MUSIC: JOHN FERRÈRE + LE PROFESSEUR INLASSABLE  
   
 EDITIONS l’INLASSABLE DISQUE (P)&(C) L’INLASSABLE DISQUE 2015  
@@ -37,9 +36,7 @@ EDITIONS l’INLASSABLE DISQUE (P)&(C) L’INLASSABLE DISQUE 2015
 <a href="https://itunes.apple.com/de/album/absurde-nacht/id1081093062" target="_blank" rel="noopener noreferrer">Buy on Itunes</a>
  
 Video: Absurde Nacht  2015
-  
-<iframe width="100%" height="480" src="https://www.youtube.com/embed/9AtioloFQyI?rel=0" frameborder="0" allowfullscreen></iframe>  
-  
 
 
+<div style="position: relative; padding-top: 56.25%;"><iframe title="Ex Voto" width="100%" height="100%" src="https://stream.litera.tools/videos/embed/7fcde008-63b4-410b-8c60-06d3da3e55ae?warningTitle=0&amp;peertubeLink=0" frameborder="0" allowfullscreen="1" sandbox="allow-same-origin allow-scripts allow-popups" style="position: absolute; inset: 0px;"></iframe></div>
   
