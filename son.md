@@ -75,6 +75,19 @@ Sketches
 [Weiterlesen](/sketches)  
 <br style="clear:both" />
 <br style="clear:both" />
+  
+<a href="/phasen" title="Phasen"><img src="/images/Phasen.jpg" alt="Phasen cover" class="img-left"></a>
+<br />    
+#### Phasen 2022  
+  
+MUSIC: ERNESTO CASTILLO  
+ERNESTO CASTILLO 2022  
+Phasen  
+Phasen 0 - 8  
+Microsinfonic   
+[Weiterlesen](/phasen)  
+<br style="clear:both" />
+<br style="clear:both" />
    
 <a href="/100-poems" title="100 Poems"><img src="/images/100-poems.jpg" alt="100 Poems cover" class="img-left"></a>
 <br />    
