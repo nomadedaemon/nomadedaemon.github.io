@@ -76,6 +76,19 @@ Sketches
 <br style="clear:both" />
 <br style="clear:both" />
   
+<a href="/season" title="Season"><img src="/images/Season.jpg" alt="Season cover" class="img-left"></a>
+<br />    
+#### Four seasons by the sea 2022  
+  
+MUSIC: ERNESTO CASTILLO  
+ERNESTO CASTILLO 2022  
+Four seasons by the sea  
+4 Impromptus  
+Micro sinfonic  
+[Weiterlesen](/season)  
+<br style="clear:both" />
+<br style="clear:both" />
+  
 <a href="/phasen" title="Phasen"><img src="/images/Phasen.jpg" alt="Phasen cover" class="img-left"></a>
 <br />    
 #### Phasen 2022  
@@ -84,7 +97,7 @@ MUSIC: ERNESTO CASTILLO
 ERNESTO CASTILLO 2022  
 Phasen  
 Phasen 0 - 8  
-Microsinfonic   
+Micro sinfonic   
 [Weiterlesen](/phasen)  
 <br style="clear:both" />
 <br style="clear:both" />
