@@ -111,8 +111,20 @@ ERNESTO CASTILLO 2021 - 2022
 100 Poems  
 [Weiterlesen](/100-poems)  
 <br style="clear:both" />
+<br style="clear:both" />  
+  
+<a href="/35millimeter" title="Omega 35 Millimeter"><img src="/images/35millimeter.jpg" alt="Omega 35 Millimeter cover" class="img-left"></a>
+<br />    
+#### Omega - 35 Millimeter 2021 - 2022  
+  
+MUSIC: ERNESTO CASTILLO  
+ERNESTO CASTILLO 2021 - 2022  
+Omega - 35 Millimeter  
+Scores for imaginary settings  
+[Weiterlesen](/35millimeter)  
 <br style="clear:both" />
-
+<br style="clear:both" />  
+  
 ## CD  
 
 <a href="/cd-absurde-nacht" title="CD Absurde Nacht"><img src="/images/absurde-nacht-cover-web.jpg" alt="absurde nacht cover" class="img-left"></a>
