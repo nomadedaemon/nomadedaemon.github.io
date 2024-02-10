@@ -1,19 +1,19 @@
 ---
 layout: audioplayer
-title: Omega - 35 Millimeter 2021 - 2022
+title: Omega - 35 Millimeter 2021 - 2023
 language: de
 handle: /35millimeter
 categories: son
 categoriestitle: son
 exclude: true
 ---
-## Omega - 35 Millimeter 2021 - 2022  
+## Omega - 35 Millimeter 2021 - 2023  
 <a href="/35millimeter" title="Omega 35 Millimeter"><a rel="lightbox" data-lightbox="example-1" href="/images/35millimeter.jpg" title="Omega - 35 Millimeter Cover"><img src="/images/35millimeter.jpg" alt="Omega - 35 Millimeter Cover" class="img-left"></a></a>
   
 <br />  
 
 MUSIC: ERNESTO CASTILLO  
-ERNESTO CASTILLO 2021 - 2022  
+ERNESTO CASTILLO 2021 - 2023  
 Omega - 35 Millimeter  
 Scores for imaginary settings  
     
