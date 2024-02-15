@@ -125,6 +125,19 @@ Scores for imaginary settings
 <br style="clear:both" />
 <br style="clear:both" /> 
   
+<a href="/fr/chromatonie" title="Chromatonie 2021"><img src="/images/Chromatonie.jpg" alt="Chromatonie cover" class="img-left"></a>
+<br />    
+#### Omega - 35 Millimeter 2021 - 2023  
+  
+MUSIC: ERNESTO CASTILLO  
+Chromatonie 2021  
+Chromatonie Jaune, Rose, Noir  
+3 Morceaux pour Oskar Schlemmer  
+Ballet triadique  
+[Lire plus](/fr/chromatonie)  
+<br style="clear:both" />
+<br style="clear:both" /> 
+    
 ## CD  
   
 <a href="/fr/cd-absurde-nacht" title="CD Absurde Nacht"><img src="/images/absurde-nacht-cover-web.jpg" alt="absurde nacht cover" class="img-left"></a>

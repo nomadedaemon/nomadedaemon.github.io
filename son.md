@@ -125,6 +125,19 @@ Scores for imaginary settings
 <br style="clear:both" />
 <br style="clear:both" />  
   
+<a href="/chromatonie" title="Chromatonie 2021"><img src="/images/Chromatonie.jpg" alt="Chromatonie cover" class="img-left"></a>
+<br />    
+#### Chromatonie 2021  
+  
+MUSIC: ERNESTO CASTILLO  
+Chromatonie 2021  
+Chromatonie Gelb, Rosa, Schwarz  
+3 Stücke für Oskar Schlemmers  
+triadische Ballet  
+[Weiterlesen](/chromatonie)  
+<br style="clear:both" />
+<br style="clear:both" />  
+  
 ## CD  
 
 <a href="/cd-absurde-nacht" title="CD Absurde Nacht"><img src="/images/absurde-nacht-cover-web.jpg" alt="absurde nacht cover" class="img-left"></a>
