@@ -7,7 +7,7 @@ categories: son
 categoriestitle: son
 exclude: true
 ---
-## Chromatonie 2021  
+## Distant Voices 2022  
 <a href="/fr/distant" title="Distant voices 2022"><a rel="lightbox" data-lightbox="example-1" href="/images/distant.jpg" title="Chromatonie Cover"><img src="/images/distant.jpg" alt="Distant voices Cover" class="img-left"></a></a>
   
 <br />  

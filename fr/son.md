@@ -115,16 +115,18 @@ Micro sinfonic
 <br style="clear:both" />
 <br style="clear:both" />
   
-<a href="/fr/100-poems" title="100 Poems"><img src="/images/100-poems.jpg" alt="100 Poems cover" class="img-left"></a>
+<a href="/fr/chromatonie" title="Chromatonie 2021"><img src="/images/Chromatonie.jpg" alt="Chromatonie cover" class="img-left"></a>
 <br />    
-#### 100 Poems 2020 - 2023  
+#### Chromatonie 2021    
   
 MUSIC: ERNESTO CASTILLO  
-ERNESTO CASTILLO 2020 - 2023  
-100 Poems  
-[Lire plus](/fr/100-poems)  
+Chromatonie 2021  
+Chromatonie Jaune, Rose, Noir  
+3 Morceaux pour Oskar Schlemmer  
+Ballet triadique  
+[Lire plus](/fr/chromatonie)  
 <br style="clear:both" />
-<br style="clear:both" />  
+<br style="clear:both" /> 
   
 <a href="/fr/35millimeter" title="Omega 35 Millimeter"><img src="/images/35millimeter.jpg" alt="Omega 35 Millimeter cover" class="img-left"></a>
 <br />    
@@ -138,16 +140,26 @@ Scores for imaginary settings
 <br style="clear:both" />
 <br style="clear:both" /> 
   
-<a href="/fr/chromatonie" title="Chromatonie 2021"><img src="/images/Chromatonie.jpg" alt="Chromatonie cover" class="img-left"></a>
+<a href="/fr/100-poems" title="100 Poems"><img src="/images/100-poems.jpg" alt="100 Poems cover" class="img-left"></a>
 <br />    
-#### Omega - 35 Millimeter 2021 - 2023  
+#### 100 Poems 2020 - 2023  
   
 MUSIC: ERNESTO CASTILLO  
-Chromatonie 2021  
-Chromatonie Jaune, Rose, Noir  
-3 Morceaux pour Oskar Schlemmer  
-Ballet triadique  
-[Lire plus](/fr/chromatonie)  
+ERNESTO CASTILLO 2020 - 2023  
+100 Poems  
+[Lire plus](/fr/100-poems)  
+<br style="clear:both" />
+<br style="clear:both" />  
+  
+<a href="/fr/four" title="Four 2015"><img src="/images/four.jpg" alt="Four cover" class="img-left"></a>
+<br />    
+#### Four 2015  
+  
+MUSIC: ERNESTO CASTILLO  
+ERNESTO CASTILLO 2015  
+Four  
+Four little pieces  1 - 4  
+[Lire plus](/fr/four)  
 <br style="clear:both" />
 <br style="clear:both" /> 
     
