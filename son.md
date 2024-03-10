@@ -101,7 +101,20 @@ Micro sinfonic
 [Weiterlesen](/phasen)  
 <br style="clear:both" />
 <br style="clear:both" />
-   
+  
+<a href="/distant" title="Distant voices 2022"><img src="/images/distant.jpg" alt="Distant voices cover" class="img-left"></a>
+<br />    
+#### Distant voices 2022  
+  
+MUSIC: ERNESTO CASTILLO  
+ERNESTO CASTILLO 2022  
+Distant voices  
+Five appearences 1 - 5   
+Micro sinfonic   
+[Weiterlesen](/distant)  
+<br style="clear:both" />
+<br style="clear:both" />
+  
 <a href="/100-poems" title="100 Poems"><img src="/images/100-poems.jpg" alt="100 Poems cover" class="img-left"></a>
 <br />    
 #### 100 Poems 2020 - 2023  
