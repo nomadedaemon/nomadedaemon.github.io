@@ -78,7 +78,7 @@ Sketches
   
 <a href="/fr/season" title="Season"><img src="/images/Season.jpg" alt="Season cover" class="img-left"></a>
 <br />    
-#### Phasen 2022  
+#### Four seasons by the sea 2022  
   
 MUSIC: ERNESTO CASTILLO  
 ERNESTO CASTILLO 2022  
